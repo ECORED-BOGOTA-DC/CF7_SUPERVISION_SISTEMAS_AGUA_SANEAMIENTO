@@ -7,6 +7,327 @@
         span 2
       h1 Operación de la unidad de almacenamiento
 
+    .row.justify-content-center.align-items-center   
+      figure
+        img(src='@/assets/curso/temas/tema2/img1.png', alt='alt')
+
+    .row.justify-content-center.align-items-center
+      .col-10.bg1-tema2
+        p.p-4 Los procedimientos de operación de la unidad de almacenamiento, tanto de sustancias químicas como de residuos peligrosos van encaminados a mantener bajo un control de por lo menos las siguientes actividades, de acuerdo con el Consejo Colombiano de Seguridad y el entonces Ministerio de Ambiente, Vivienda y Desarrollo Territorial (s.f.): 
+
+    .row.justify-content-center.align-items-center.mt-5
+      .col-3.col-xs-12
+        figure
+          img(src='@/assets/curso/temas/tema2/img2.png', alt='alt')
+
+      .col-9
+        ul.lista-ul--color.lista-ul--separador
+
+          li.l-p
+            i.fas.fa-check-circle
+            | Clasificación, etiquetado y rotulado de sustancias o residuos peligrosos. 
+
+          li.l-p
+            i.fas.fa-check-circle
+            | Transporte de sustancias y residuos peligrosos. Inspección de vehículos de transporte de sustancias o residuos peligrosos. 
+
+          li.l-p
+            i.fas.fa-check-circle
+            | Carga y descarga de sustancias químicas peligrosas. 
+          
+          li.l-p
+            i.fas.fa-check-circle
+            | Almacenamiento de materias primas y productos químicos peligrosos. 
+
+          li.l-p
+            i.fas.fa-check-circle
+            | Control de inventario de sustancias químicas peligrosas. 
+
+          li.l-p
+            i.fas.fa-check-circle
+            | Manipulación de sustancias químicas.
+
+          li.l-p
+            i.fas.fa-check-circle
+            | Orden y aseo en instalaciones de almacenamiento de sustancias químicas peligrosas.
+
+    .row.justify-content-center.align-items-center.mt-5
+
+      .col-7
+        ul.lista-ul--color.lista-ul--separador
+          li.l-p
+            i.fas.fa-check-circle
+            | Inspección de instalaciones en donde se almacenan sustancias peligrosas. 
+
+          li.l-p
+            i.fas.fa-check-circle
+            | Plan de emergencias. 
+
+          li.l-p
+            i.fas.fa-check-circle
+            | Plan de evacuación. 
+          
+          li.l-p
+            i.fas.fa-check-circle
+            | Plan de contingencia contra derrames o fugas. 
+
+          li.l-p
+            i.fas.fa-check-circle
+            | Plan de contingencia contra incendios. 
+
+          li.l-p
+            i.fas.fa-check-circle
+            | Realización y evaluación de simulacros (p.22).
+
+
+
+      .col-5.col-xs-12
+        figure
+          img(src='@/assets/curso/temas/tema2/img3.png', alt='alt')
+
+
+    separador
+    #t_2_1.titulo-segundo.color-acento-contenido
+       h2 2.1 Condiciones de operación
+
+    p Para garantizar la operación del cuarto de almacenamiento se debe garantizar el manejo de una documentación indispensable, encontrando:
+
+
+    .row.justify-content-center.align-items-center.mt-5
+      .col-3.col-xs-12
+        figure
+          img(src='@/assets/curso/temas/tema2/img4.png', alt='alt')
+
+      .col-9
+        ul.lista-ul--color.lista-ul--separador
+          li.l-p
+            i.fas.fa-check-circle
+            | Instrucciones de la operación segura y correcta de todos los equipos incluyendo equipo de protección personal y del almacenamiento de los materiales peligrosos. 
+
+          li.l-p
+            i.fas.fa-check-circle
+            | Hojas de seguridad para todas las sustancias peligrosas almacenadas. 
+
+          li.l-p
+            i.fas.fa-check-circle
+            | Instrucciones y procedimientos sobre higiene, seguridad y medio ambiente. 
+          
+          li.l-p
+            i.fas.fa-check-circle
+            | Instrucciones y procedimientos sobre emergencias (CSC & MAVDT. s.f. p.23).
+
+    separador
+    #t_2_2.titulo-segundo.color-acento-contenido
+       h2 2.2 Planificación de la operación
+    
+    p Durante la planificación de la operación del lugar de almacenamiento se deben considerar las siguientes acciones:
+
+    .row.justify-content-center.align-items-center.mt-5
+      
+      .col-7
+        ul.lista-ul--color.lista-ul--separador
+          li.l-p
+            i.fas.fa-check-circle
+            | Antes de recibir las sustancias para almacenamiento se debe contar con las hojas de seguridad para su manipulación y almacenamiento.
+
+          li.l-p
+            i.fas.fa-check-circle
+            | Mantener el lugar de almacenamiento con etiquetas alusivas a las sustancias, se puede seguir bajo el Decreto 1609 de 2002.
+
+          li.l-p
+            i.fas.fa-check-circle
+            | Compra y alistamiento de elementos de protección para el personal que va a manipular las sustancias químicas.
+          
+          li.l-p
+            i.fas.fa-check-circle
+            | Determinar el volumen total máximo de almacenamiento total y por clase de sustancia.
+
+          li.l-p
+            i.fas.fa-check-circle
+            | Realizar un plan del lugar del almacenamiento para definir áreas de acuerdo con la matriz de incompatibilidad.
+
+          li.l-p
+            i.fas.fa-check-circle
+            | Definir los reportes y formatos que serán manejados para el control de las sustancias.
+
+      .col-5.col-xs-12
+        figure
+          img(src='@/assets/curso/temas/tema2/img5.png', alt='alt')
+
+    separador
+    #t_2_3.titulo-segundo.color-acento-contenido
+       h2 2.3 Equipo de seguridad personal
+
+    .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5
+      .bloque-texto-g__img(
+        :style="{'background-image': `url(${require('@/assets/curso/temas/tema2/img6.png')})`}"
+      )
+      .bloque-texto-g__texto.p-4
+        p.mb-0 El manejo de sustancias químicas debe realizarse con todas las medidas de seguridad para el personal que se han indicado en laboratorio.
+          br
+          br
+          | De forma general las medidas mínimas que se deben contemplar en los equipos de seguridad del personal son:  
+
+    .row.justify-content-center.align-items-center.mt-5
+      .col-9
+        ul.lista-ul--color.lista-ul--separador
+          li.l-p
+            i.fas.fa-check-circle
+            | Mantener ropa de trabajo separada de la ropa diaria, bien sea el uso de bata de laboratorio y otro elemento.
+
+          li.l-p
+            i.fas.fa-check-circle
+            | No permitir el consumo de alimentos en la zona de manipulación de sustancias.
+
+          li.l-p
+            i.fas.fa-check-circle
+            | Usar lentes de seguridad o anteojos de seguridad.
+          
+          li.l-p
+            i.fas.fa-check-circle
+            | Tener cofia (usar cabello recogido para las damas).
+
+          li.l-p
+            i.fas.fa-check-circle
+            | Usar tapabocas o careta cuando se requiera.
+
+          li.l-p
+            i.fas.fa-check-circle
+            | Tener guantes de nitrilo y cuando se use ácidos seguir recomendaciones y usar guantes con mayor grado de protección.
+
+          li.l-p
+            i.fas.fa-check-circle
+            | Utilizar botas de seguridad.
+
+          li.l-p
+            i.fas.fa-check-circle
+            | No dejar descubierto partes del cuerpo en el trabajo en laboratorio.
+
+      .col-3.col-xs-12
+        figure
+          img(src='@/assets/curso/temas/tema2/img7.png', alt='alt')
+
+    separador
+    #t_2_4.titulo-segundo.color-acento-contenido
+       h2 2.4 Manejo de residuos en el almacenamiento
+
+    p El CCS y el MAVDT (s.f.) en las Guías ambientales de almacenamiento y transporte por carretera de sustancias químicas peligrosas y residuos peligrosos definen:
+
+    .row.justify-content-center.align-items-center   
+      .col-lg-5.col-xs-12
+        figure
+          img(src='@/assets/curso/temas/tema2/img8.png', alt='alt')
+
+      .col-7
+        p Todos los residuos incluyendo material de empaque, deberán ser manejados de una manera ambientalmente segura y responsable. Residuos potencialmente peligrosos incluyen productos obsoletos, productos fuera de especificación, material contaminado, residuos líquidos y material absorbente que ha sido utilizado para la limpieza de derrames. La disposición ambientalmente segura de estos residuos es a menudo difícil, lo que implica que en algunos casos se deba consultar a personal experto o a las autoridades ambientales. A menudo las hojas de seguridad, en la sección 13, pueden indicar la forma más adecuada de disposición de sustancias químicas (p.29).
+
+    .row.align-items-center
+      h4.bg2-tema2.text-white.mt-2.p-3 Plan de gestión integral de residuos peligrosos
+
+      p.mt-3 De acuerdo con el Decreto 1076 de 2015 expedido por el presidente de la República denominado el Decreto único reglamentario del sector ambiente, en su título 7 define residuo peligroso como:
+
+    .row.justify-content-center.align-items-center   
+      .col-lg-3.col-xs-12
+        figure
+          img(src='@/assets/curso/temas/tema2/img9.png', alt='alt')
+      .col-9
+        .cajon.color-tema2.p-4
+          p Aquel residuo o desecho que, por sus características corrosivas, reactivas, explosivas, tóxicas, inflamables, infecciosas o radiactivas, puede causar riesgos, daños o efectos no deseados, directos e indirectos, a la salud humana y el ambiente. Así mismo, se considerará residuo peligroso los empaques, envases y embalajes que estuvieron en contacto con ellos.
+
+        p.mt-3 En cuanto a residuo determina “es cualquier objeto, material, sustancia, elemento o producto que se encuentra en estado sólido o semisólido, o es un líquido o gas contenido en recipientes o depósitos, cuyo generador descarta, rechaza o entrega porque sus propiedades no permiten usarlo nuevamente en la actividad que lo generó o porque la legislación o la normatividad vigente así lo estipula” (Decreto 1076 de 2015).
+
+        p Todos los residuos que cumplan con las características descritas deben ser manipulados y manejados bajo un instrumento denominado plan de gestión integral el cual puede ser para residuos sólidos (PGIRS) o para residuos peligrosos (PGIRP).
+
+    .row.justify-content-center.align-items-center   
+      .col-10
+        figure
+          img(src='@/assets/curso/temas/tema2/img10.svg', alt='alt')
+
+    .row.justify-content-center.align-items-center.mt-3
+      p El siguiente diagrama presenta las partes de un plan de gestión integral de residuos peligrosos:
+
+      .titulo-sexto.color-acento-contenido.mb-3
+        h5 Figura 2. 
+        span Etapas del manejo integral de residuos
+
+      figure
+        img(src='@/assets/curso/temas/tema2/img11.svg', alt='alt')  
+
+    .row.justify-content-center.align-items-center.mt-3
+      .cajon.color-tema2.p-4
+        p Como se puede denotar en el diagrama dentro de la FASE II de un plan de gestión integral de residuos peligrosos se contempla el almacenamiento. Por ello, es importante planear, dar a conocer, ejecutar y evaluar las acciones que se deben llevar a cabo frente a una contingencia.
+
+    separador
+    #t_2_5.titulo-segundo.color-acento-contenido
+       h2 2.5 Plan de contingencia
+
+    .row.justify-content-center.align-items-center   
+      .col-lg-4.col-xs-12
+        figure
+          img(src='@/assets/curso/temas/tema2/img12.png', alt='alt')
+
+      .col-8
+        p Los planes de contingencia son instrumentos que se encuentran inmersos dentro de los llamados planes de emergencia de acuerdo con el Decreto 2157 de 2017 de presidencia, por medio del cual se adoptan directrices generales para la elaboración del plan de gestión del riesgo de desastres de las entidades públicas y privadas en el marco del artículo 42 de la Ley 1523 de 2012 donde se describe que el plan de emergencia y contingencia (PEC):
+
+        .bloque-texto-f.bg4-tema2.pt-4.px-5.mb-5.mt-5
+          .bloque-texto-f__comillas
+            i.fas.fa-quote-left
+            i.fas.fa-quote-right
+          h4.text-regular.bloque-texto-f__texto Es la herramienta de preparación para la respuesta que con base en unos escenarios posibles y priorizados (identificados en el proceso de conocimiento del riesgo), define los mecanismos de organización, coordinación, funciones, competencias, responsabilidades, así como recursos disponibles y necesarios para garantizar la atención efectiva de las emergencias que se puedan presentar: Igualmente precisa los procedimientos y protocolos de actuación para cada una de ellas minimizando el impacto en las personas, los bienes y el ambiente.
+
+          <p style="text-align: end;"><b>- Ley 1523 de 2012</b></p> 
+
+
+    .row.justify-content-center.align-items-center   
+
+      p.mt-5 Bajo el Decreto 423 de 2006 de la Alcaldía mayor de Bogotá en el artículo 19°, se describe: 
+
+      .col-8
+        .bloque-texto-f.bg4-tema2.pt-4.px-5.mb-5.mt-5
+          .bloque-texto-f__comillas
+            i.fas.fa-quote-left
+            i.fas.fa-quote-right
+          h4.text-regular.bloque-texto-f__texto Los Planes de Contingencia. En armonía con el artículo 8° del Decreto 332 de 2004, los Planes de Contingencia son instrumentos complementarios a los planes de emergencia, que proveen información específica para la atención de desastres o emergencias derivadas de un riesgo o territorio en particular. Un Plan de Contingencia desarrolla en detalle aspectos pertinentes para la respuesta que solo son propios del riesgo y el territorio al que esté referido. Los planes de contingencia se organizan por tipo de riesgo, tales como deslizamientos, inundaciones, incendios forestales, materiales peligrosos y aglomeraciones de público, entre otros.
+
+          <p style="text-align: end;"><b> Decreto 423 de 2006</b></p> 
+
+      .col-lg-4.col-xs-12
+        figure
+          img(src='@/assets/curso/temas/tema2/img13.png', alt='alt')
+
+    .row.align-items-center.mt-5
+      h4.bg2-tema2-v2.text-white.mt-2.p-3 Componente de preparación para la respuesta a emergencias
+
+      p.mt-3 Son las acciones de coordinación para responder ante una emergencia que se pueda presentar dentro de este se encuentra incluido:
+
+      .row.justify-content-center.align-items-center.mt-3
+        .col-lg-3.col-xs-12
+          figure
+            img(src='@/assets/curso/temas/tema2/img14.png', alt='alt')
+
+        .col-9
+          ul.lista-ul--color.lista-ul--separador
+            li
+              i.fas.fa-check-circle
+              | <b>Capacitación:</b> formación del personal.
+
+            li
+              i.fas.fa-check-circle
+              | <b>Simulaciones y simulacros:</b> realizar pruebas que permiten evaluaciones y mejora continua de los procesos.
+
+            li
+              i.fas.fa-check-circle
+              | <b>Equipamiento:</b> herramientas, equipos y accesorios requeridos para dar respuesta.
+            
+            li
+              i.fas.fa-check-circle
+              | <b>Planeación y organización:</b> protocolos y procedimientos, equipo de respuesta con funciones y responsabilidades.
+
+      
+
+        
+    
+
 </template>
 
 <script>
