@@ -21,7 +21,7 @@
           img(src='@/assets/curso/temas/tema2/img2.png', alt='alt')
 
       .col-9
-        ul.lista-ul--color.lista-ul--separador
+        ul.lista-ul--color.lista-ul--separador.fa-ul2
 
           li.l-p
             i.fas.fa-check-circle
@@ -54,7 +54,7 @@
     .row.justify-content-center.align-items-center.mt-5
 
       .col-7
-        ul.lista-ul--color.lista-ul--separador
+        ul.lista-ul--color.lista-ul--separador.fa-ul2
           li.l-p
             i.fas.fa-check-circle
             | Inspección de instalaciones en donde se almacenan sustancias peligrosas. 
@@ -99,7 +99,7 @@
           img(src='@/assets/curso/temas/tema2/img4.png', alt='alt')
 
       .col-9
-        ul.lista-ul--color.lista-ul--separador
+        ul.lista-ul--color.lista-ul--separador.fa-ul2
           li.l-p
             i.fas.fa-check-circle
             | Instrucciones de la operación segura y correcta de todos los equipos incluyendo equipo de protección personal y del almacenamiento de los materiales peligrosos. 
@@ -125,7 +125,7 @@
     .row.justify-content-center.align-items-center.mt-5
       
       .col-7
-        ul.lista-ul--color.lista-ul--separador
+        ul.lista-ul--color.lista-ul--separador.fa-ul2
           li.l-p
             i.fas.fa-check-circle
             | Antes de recibir las sustancias para almacenamiento se debe contar con las hojas de seguridad para su manipulación y almacenamiento.
@@ -170,7 +170,7 @@
 
     .row.justify-content-center.align-items-center.mt-5
       .col-9
-        ul.lista-ul--color.lista-ul--separador
+        ul.lista-ul--color.lista-ul--separador.fa-ul2
           li.l-p
             i.fas.fa-check-circle
             | Mantener ropa de trabajo separada de la ropa diaria, bien sea el uso de bata de laboratorio y otro elemento.
@@ -254,7 +254,7 @@
         img(src='@/assets/curso/temas/tema2/img11.svg', alt='alt')  
 
     .row.justify-content-center.align-items-center.mt-3
-      .cajon.color-tema2.p-4
+      .cajon.color-tema2-1.p-4
         p Como se puede denotar en el diagrama dentro de la FASE II de un plan de gestión integral de residuos peligrosos se contempla el almacenamiento. Por ello, es importante planear, dar a conocer, ejecutar y evaluar las acciones que se deben llevar a cabo frente a una contingencia.
 
     separador
@@ -301,12 +301,12 @@
       p.mt-3 Son las acciones de coordinación para responder ante una emergencia que se pueda presentar dentro de este se encuentra incluido:
 
       .row.justify-content-center.align-items-center.mt-3
-        .col-lg-3.col-xs-12
+        .col-lg-4.col-xs-12
           figure
             img(src='@/assets/curso/temas/tema2/img14.png', alt='alt')
 
-        .col-9
-          ul.lista-ul--color.lista-ul--separador
+        .col-8
+          ul.lista-ul--color.lista-ul--separador.fa-ul2
             li
               i.fas.fa-check-circle
               | <b>Capacitación:</b> formación del personal.
@@ -324,9 +324,88 @@
               | <b>Planeación y organización:</b> protocolos y procedimientos, equipo de respuesta con funciones y responsabilidades.
 
       
+    .row.align-items-center.mt-5
+      h4.bg2-tema2-v1.text-white.mt-2.p-3 Componente de ejecución
+
+      p.mt-3 El cual define el marco de actuación de la entidad, teniendo en cuenta:
+
+      .row.justify-content-center.align-items-center.mt-3
+        .col-7
+          ul.lista-ul--color.lista-ul--separador.fa-ul2
+            li
+              i.fas.fa-check-circle
+              | Objetivos y alcance.
+
+            li
+              i.fas.fa-check-circle
+              | Niveles de emergencia.
+
+            li
+              i.fas.fa-check-circle
+              | Alerta, alarma y niveles de activación.
+            
+            li
+              i.fas.fa-check-circle
+              | Protocolos y procedimientos de respuesta para cada tipo de emergencia.
+        .col-lg-5.col-xs-12
+          figure
+            img(src='@/assets/curso/temas/tema2/img15.png', alt='alt')
 
         
+    .row.align-items-center.mt-5
+      h4.bg2-tema2-v1.text-white.mt-2.p-3 Medidas de contingencia
+
+    .row.justify-content-center.align-items-center.mt-3
+      .col-lg-4.col-xs-12
+        figure
+          img(src='@/assets/curso/temas/tema2/img16.png', alt='alt')
+
+      .col-8
+        p Con el fin de disminuir el riesgo al cual puede verse sometido el personal, el medio ambiente o la propiedad en sí, donde se realicen las actividades de almacenamiento de sustancias se debe analizar los posibles eventos que se pueden dar y las medidas de contingencia que se deben realizar. 
+
+        .cajon.color-tema2-1.p-4
+          p Tomando como referencia al Servicio Nacional de Aprendizaje (SENA) en su documento de plan de gestión integral de residuos se pueden observar las siguientes medidas:
     
+    .row.justify-content-center.align-items-center.mt-5
+      .col-lg-8.col-xs-12
+        LineaTiempoD.color-acento-contenido
+          .row(numero="1" titulo="Evento: Derrame de sustancias peligrosas")
+            .col-md-12.mb-4.mb-md-0
+              p.text-small This is another paragraph. I think it needs to be added that the set of elements tested is not exhaustive in any sense. I have selected those elements for which it can make sense to write user style sheet rules, in my opionion.
+
+          .row(numero="2" titulo="Goteo o fugas de sustancias líquidas químicas")
+            .col-md-12.mb-4.mb-md-0
+              p.text-small This is another paragraph. I think it needs to be added that the set of elements tested is not exhaustive in any sense. I have selected those elements for which it can make sense to write user style sheet rules, in my opionion.  
+
+          .row(numero="3" titulo="Incendio en la unidad de almacenamiento")
+            .col-md-12.mb-4.mb-md-0
+              p.text-small This is another paragraph. I think it needs to be added that the set of elements tested is not exhaustive in any sense. I have selected those elements for which it can make sense to write user style sheet rules, in my opionion. 
+
+          .row(numero="4" titulo="Lesiones con agujas o elementos corto punzantes")
+            .col-md-12.mb-4.mb-md-0
+              p.text-small Medidas de contingencia sugeridas:
+
+              ul.lista-ul--color.lista-ul--separador.fa-ul2.text-small
+                li
+                  i.fas.fa-check-circle
+                  | Lavado de la herida con abundante agua y jabón bactericida.
+                li
+                  i.fas.fa-check-circle
+                  | Si la contaminación se presenta en los ojos, se debe irrigar estos con abundante solución salina o agua limpia.
+                li
+                  i.fas.fa-check-circle
+                  | Si la contaminación se presenta en la boca, se debe realizar enjuagues repetidos con abundante agua limpia.
+                li
+                  i.fas.fa-check-circle
+                  | Se debe reportar a la ARL correspondiente.
+
+
+
+      .col-lg-4.col-xs-12
+        figure
+          img(src='@/assets/curso/temas/tema2/img17.png', alt='alt')
+
+
 
 </template>
 
