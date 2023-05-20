@@ -92,6 +92,11 @@
   position: relative
   margin-top: -8%
 
+.tarjeta-gris2
+  background-color: #F6F6F6
+  border-bottom-right-radius: 30px
+  border-bottom-left-radius: 30px
+
 //background-titulos------------
 
 .bg1-tema1
@@ -105,7 +110,7 @@
 .bg2-tema1
   background-image: url("../assets/curso/temas/tema1/fondo-titulo2.png")
   background-repeat: no-repeat
-  background-size: 30% 100%
+  background-size: 35% 100%
   @media (max-width: 500px)
     background-size: 100% 100%
 
@@ -116,13 +121,63 @@
   @media (max-width: 500px)
     background-size: 100% 100%
 
+.bg4-tema1
+  background-image: url("../assets/curso/temas/tema1/fondo-titulo4.png")
+  background-repeat: no-repeat
+  background-size: 55% 100%
+  @media (max-width: 500px)
+    background-size: 100% 100%
+
+.bg5-tema1
+  background-image: url("../assets/curso/temas/tema1/fondo-titulo5.png")
+  background-repeat: no-repeat
+  background-size: 23% 80%
+  @media (max-width: 500px)
+    background-size: 100% 100%
+
+//background----------------
+
+.bg6-tema1
+  position: relative
+  .row, figure, p, h3, .titulo-sexto.color-primario
+    position: relative
+  &::before
+    content: ""
+    position: absolute
+    margin-left: -48px
+    margin-top: -10px
+    width: calc( 100% + 96px )
+    height: 100%       
+    background-image: url('../assets/curso/temas/tema1/bg-fondo.png')
+    background-size: 100% auto  
+    background-repeat: round
+    background-position: center top 
+    @media (max-width: 500px)
+      background-repeat: space
+
+
 //TEXTOS-----------
 
 .texto-derecha
   position: relative
   left: 5%
   @media (max-width: 500px)
-    left: 0%
+    left: 13%
+
+.texto-derecha2
+  position: relative
+  left: 5%
+  @media (max-width: 500px)
+    left: 7%
+
+.texto-izq
+  text-align: start !important
+
+.texto-derecha3
+  position: relative
+  left: 2%
+  @media (max-width: 500px)
+    left: 7%
 
 //background-tarjeta-----
 
@@ -148,6 +203,17 @@
     width: 100%
     left: 0%
 
+.img41-tm1
+  position: relative
+  max-width: 150%
+  width: 150%
+  right: 40%
+  margin-top: -15%
+  @media (max-width: 500px)
+    width: 100%
+    right: 0%
+    margin-top: 0%
+
 //infografia-------------
 
 .img-infografica.color-primario .img-infografica__item__numero
@@ -158,6 +224,17 @@
 
 .tarjta-negra
   background-color: #000000
+
+//pasos A -------------
+
+.pasos-a.color-primario .pasos-a__numero::after 
+    border-left-color: #12263F
+
+.pasos-a.color-primario .pasos-a__linea__esquina__linea 
+    border-color: #12263F
+
+.pasos-a.color-primario .pasos-a__linea .hor-line
+    border-top-color: #12263f
 
 
 //Estilos tema 2

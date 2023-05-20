@@ -29,7 +29,7 @@
       figure
         img(src='@/assets/curso/temas/tema1/img2.png', alt='alt')
 
-      .col-11.col-lg-10
+      .col-11
         .tarjeta.tarjeta-gris.p-3 
           p Asegurarse que los productos químicos son almacenados con todos sus elementos de seguridad es muy importante en un proceso de potabilización. Se debe garantizar que se contempla la compatibilidad entre sustancias, las cuales cuentan con las hojas de seguridad de los insumos y se siguen los protocolos o normatividad aplicable. Al respecto se deben tener en cuenta los siguientes aspectos:
 
@@ -81,7 +81,7 @@
             h4 Mecanismos de coagulación
             p Las características del agua cruda determinan el mecanismo de coagulación que se debe utilizar, dentro de los cuales se puede encontrar según el RAS (2017): 
 
-            ul.lista-ul--color.fa-ul2
+            ul.lista-ul--color.fa-ul2.ps-3
               li
                 i.fas.fa-check-circle.color-vineta2
                 P #[b Adsorción y neutralización de carga:] se basa en la acción de la energía electroquímica sobre los coloides, al existir una acción electrostática entre el coagulante y las partículas en suspensión.
@@ -105,7 +105,7 @@
 
             p La Floculación es un proceso de aglutinación de partículas inducida por una agitación lenta de la suspensión coagulada. De acuerdo con el Ministerio de Vivienda, en su documento RAS (2017), en el proceso de floculación pueden emplearse: 
 
-            ul.lista-ul--color.fa-ul2
+            ul.lista-ul--color.fa-ul2.ps-3
               li
                 i.fas.fa-check-circle.color-vineta2
                 P Floculadores hidráulicos: utilizan el cambio de dirección de flujo del agua, inducido por diferentes mecanismos para producir la turbulencia necesaria para promover la formación del floc y derivan su energía de la carga de velocidad que el líquido adquiere en su tránsito por un conducto (p.80). 
@@ -127,7 +127,7 @@
 
             p La desinfección es un proceso físico o químico que permite la eliminación o destrucción de los organismos patógenos presentes en el agua, luego se reconoce al desinfectante como la sustancia que tiene el poder de destruir microorganismos patógenos. De acuerdo con el Ministerio de vivienda (MINVIVIENDA), en su documento RAS (2017): 
 
-            ul.lista-ul--color.fa-ul2
+            ul.lista-ul--color.fa-ul2.ps-3
               li
                 i.fas.fa-check-circle.color-vineta2
                 P Independientemente del proceso que se realice, debe incluirse el proceso de desinfección del agua, de forma que se eliminen agentes microbiológicos que puedan afectar la salud de la población, dando cumplimiento a la normativa sobre calidad del agua en el país. (p.76).
@@ -263,7 +263,7 @@
         h5 ¿A qué aplica el SGA?
         p Dentro de las aplicaciones de esta clasificación, se puede encontrar dos usos que son de importancia para sistemas de potabilización:
 
-        ul.lista-ul--color.lista-ul--separador
+        ul.lista-ul--color.lista-ul--separador.ps-3
           li
             i.fas.fa-check-circle.color-vineta2
             | Productos químicos usados en lugares de trabajo.
@@ -277,7 +277,7 @@
         h5 ¿Cuáles son los elementos de un SGA?
         p Los elementos encontrados son:
 
-        ul.lista-ul--color.lista-ul--separador
+        ul.lista-ul--color.lista-ul--separador.ps-3
           li
             i.fas.fa-check-circle.color-vineta2
             | Hojas de seguridad.
@@ -318,7 +318,7 @@
                 i.fas.fa-check-circle.color-vineta1
                 p.texto-blanco Corrosivo para la piel o los ojos (lesiones oculares graves).
 
-          .tarjta-negra.p-3(x="15%" y="61%" numero="+")
+          .tarjta-negra.p-3(x="19.5%" y="61%" numero="+")
             .h5.texto-blanco.mb-2 Sustancias explosivas
             ul.lista-ul--color.fa-ul2
               li
@@ -452,17 +452,593 @@
                 i.fas.fa-check-circle.color-vineta1
                 p.texto-blanco.mb-0  Peligro para el medio ambiente acuático (agudo y crónico).
 
+    .row.bg4-tema1.align-items-center.p-3.mb-5
+      h4.mb-0.texto-derecha2 Clasificación según las condiciones especiales para el transporte
+
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-8
+        figure
+          img(src='@/assets/curso/temas/tema1/img20.svg', alt='alt')      
 
 
+    .row.justify-content-center.align-items-center.mb-5
+      p.mb-5 Observe el siguiente video
+
+      .col-lg-10
+        figure.mb-lg-5
+          .video
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/11111111" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
 
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-10
+        .l-p.mb-3
+        .l-p.mb-3
+          .row.mb-3
+            .col-lg-2
+              figure
+                img(src='@/assets/curso/temas/tema1/img21.svg', alt='alt')
+            .col-lg-10
+              h5 Clase 1
+              p Corresponde a explosivos, la Norma Técnica Colombiana que la identifica y condiciona su transporte y uso es la NTC 3966 elaborada por el Organismo Nacional de Normalización (ICONTEC).
+
+        .l-p.mb-3
+          .row.mb-3
+            .col-lg-2.mt-2      
+              figure
+                img(src='@/assets/curso/temas/tema1/img22.svg', alt='alt')
+            .col-lg-2.mt-2      
+              figure
+                img(src='@/assets/curso/temas/tema1/img23.svg', alt='alt')
+            .col-lg-2.mt-2      
+              figure
+                img(src='@/assets/curso/temas/tema1/img24.svg', alt='alt')
+            
+            .col-lg-6
+              h5 Clase 2
+              p Corresponde a gases, la Norma Técnica Colombiana que la identifica y condiciona su transporte y uso es la NTC 2880 elaborada por el Organismo Nacional de Normalización (ICONTEC).
+
+        .l-p.mb-3
+          .row.mb-3
+            .col-lg-2.mt-2      
+              figure
+                img(src='@/assets/curso/temas/tema1/img25.svg', alt='alt')
+            .col-lg-2.mt-2  
+              figure
+                img(src='@/assets/curso/temas/tema1/img26.svg', alt='alt')
+
+            .col-lg-8
+              h5 Clase 3
+              p Corresponde a líquidos inflamables, la Norma Técnica Colombiana que la identifica y condiciona su transporte y uso es la NTC 2801 elaborada por el Organismo Nacional de Normalización (ICONTEC). 
+
+        .l-p.mb-3
+          .row.mb-3
+            .col-lg-2.mt-3      
+              figure
+                img(src='@/assets/curso/temas/tema1/img27.svg', alt='alt')
+            .col-lg-2.mt-3      
+              figure
+                img(src='@/assets/curso/temas/tema1/img28.svg', alt='alt')
+            .col-lg-2.mt-3    
+              figure
+                img(src='@/assets/curso/temas/tema1/img29.svg', alt='alt')
+            
+            .col-lg-6
+              h5 Clase 4
+              p Corresponde a sólidos inflamables; sustancias que presentan riesgo de combustión espontánea; sustancias que en contacto con el agua desprenden gases inflamables, la Norma Técnica Colombiana que la identifica y condiciona su transporte y uso es la NTC 3967 elaborada por el Organismo Nacional de Normalización (ICONTEC).
+
+        .l-p.mb-3
+          .row.mb-3
+            .col-lg-2.mt-2      
+              figure
+                img(src='@/assets/curso/temas/tema1/img30.svg', alt='alt')
+            .col-lg-2.mt-2  
+              figure
+                img(src='@/assets/curso/temas/tema1/img31.svg', alt='alt')
+
+            .col-lg-8
+              h5 Clase 5
+              p Corresponde a sustancias comburentes y peróxidos orgánicos, la Norma Técnica Colombiana que la identifica y condiciona su transporte y uso es la NTC 3968 elaborada por el Organismo Nacional de Normalización (ICONTEC).
+
+        .l-p.mb-3
+          .row.mb-3
+            .col-lg-2.mt-2      
+              figure
+                img(src='@/assets/curso/temas/tema1/img32.svg', alt='alt')
+            .col-lg-2.mt-2  
+              figure
+                img(src='@/assets/curso/temas/tema1/img33.svg', alt='alt')
+
+            .col-lg-8
+              h5 Clase 6
+              p Corresponde a sustancias tóxicas e infecciosas, la Norma Técnica Colombiana que la identifica y condiciona su transporte y uso es la NTC 3969 elaborada por el Organismo Nacional de Normalización (ICONTEC).
+
+        .l-p.mb-3
+          .row.mb-3
+            .col-lg-2
+              figure
+                img(src='@/assets/curso/temas/tema1/img34.svg', alt='alt')
+            .col-lg-10
+              h5 Clase 7
+              p Corresponde a materiales radiactivos, la Norma Técnica Colombiana que la identifica y condiciona su transporte y uso es la NTC 3970 elaborada por el Organismo Nacional de Normalización (ICONTEC).
+
+        .l-p.mb-3
+          .row.mb-3
+            .col-lg-2
+              figure
+                img(src='@/assets/curso/temas/tema1/img35.svg', alt='alt')
+            .col-lg-10
+              h5 Clase 8
+              p Corresponde a sustancias corrosivas, la Norma Técnica Colombiana que la identifica y condiciona su transporte y uso es la NTC 3971 elaborada por el Organismo Nacional de Normalización (ICONTEC).
+
+        .l-p.mb-3
+          .row.mb-3
+            .col-lg-2
+              figure
+                img(src='@/assets/curso/temas/tema1/img36.svg', alt='alt')
+            .col-lg-10
+              h5 Clase 9
+              p Corresponde a sustancias peligrosas varias, la Norma Técnica Colombiana que la identifica y condiciona su transporte y uso es la NTC 3972 elaborada por el Organismo Nacional de Normalización (ICONTEC).
+
+    .row.bg2-tema1.align-items-center.p-3.mb-5
+      h4.texto-blanco.mb-0 Hojas de seguridad de productos químicos
+
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-4
+        figure
+          img(src='@/assets/curso/temas/tema1/img37.svg', alt='alt')
+
+      .col-lg-8
+        p Son instrumentos documentales que permiten comunicar los peligros que ofrecen los productos químicos, tanto para las personas, como para las instalaciones y el ambiente; además de ello, brinda o informa sobre las precauciones requeridas y las medidas que se pueden seguir en caso de emergencia.
+
+        p Internacionalmente se conoce como Material Safety Data Sheet por sus siglas en inglés MSDS, aunque es relevante mencionar que el contenido de las hojas de seguridad es igual en cualquier país, incluyendo a Colombia. 
+
+        .cajon.color-gris.p-4
+          p.mb-0 Estas hojas de seguridad las deben producir los fabricantes de cada producto químico o mezcla de sustancias químicas, en Colombia estas funciones y el uso de las hojas de seguridad se encuentra regulado por el Decreto 1609 de 2002, el cual direcciona el transporte de mercancías peligrosas en Colombia y la Norma Técnica Colombiana (NTC) 4435, la cual identifica las 16 secciones que debe contener las hojas de seguridad, referente a cuatro temas elementales:
+
+        ul.lista-ul--color.lista-ul--separador.ps-3
+          li
+            i.fas.fa-check-circle.color-vineta2
+            | Identificación de la sustancia (sección 1 a la sección 3).
+          li
+            i.fas.fa-check-circle.color-vineta2
+            | Emergencias (sección 4 a la sección 6).
+          li
+            i.fas.fa-check-circle.color-vineta2
+            | Manejo y precauciones (sección 7 a la sección 10).
+          li
+            i.fas.fa-check-circle.color-vineta2
+            | Información complementaria (sección 11 a la sección 16).
+
+    .row.justify-content-center.align-items-center.mb-5
+      p Para el almacenamiento la hoja de seguridad permite no solo identificar las características requeridas por la sustancia, sino también las incompatibilidades que se pueden dar entre sustancias y sus peligros.
+
+    .row.justify-content-center.mb-5
+      .col-lg-10
+        .tarjeta.bgDescarga.p-4
+          .row.justify-content-around.align-items-center
+            .col-3.col-sm-2.col-lg-1
+              img(src="@/assets/curso/temas/tema1/img10.svg")
+            .col
+              .row.justify-content-between.align-items-center
+                .col.mb-3.mb-sm-0
+                  h4.texto-blanco  Ejemplo hoja de seguridad bicarbonato de sodio
+                  p.texto-blanco A través del siguiente documento podrá observar un ejemplo SENA sobre una hoja de seguridad bicarbonato de sodio. Recuerde que también lo puede encontrar en los materiales complementarios.
+                .col-sm-auto
+                  a.boton.color-primario(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+                    span.texto-negro Descargar
+                    i.fas.fa-link.texto-negro
+
+    .row.justify-content-center.align-items-center.mb-5
+      .bgdegrade.p-4
+        .row
+          .col-lg-5
+            figure
+              img(src='@/assets/curso/temas/tema1/img14.svg', alt='alt')
+          .col-lg-7
+            p De acuerdo con la Sociedad Americana de Química (2002), en su libro “Seguridad en los Laboratorios Químicos Académicos”, se brindan unas aclaraciones que pueden ser útiles al momento de interpretar las hojas de seguridad (en algunas hojas de seguridad en especial las que vienen de una empresa internacional):
+
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-7
+        LineaTiempoD.color-primario.mt-5
+          .row(numero="1" titulo="Número de registro CAS")
+            p El Servicio de Chemical Abstracts (CAS) de la Sociedad Americana de Química (ACS) le asigna un número único a cada sustancia química conocida, descubierta o sintetizada, llamado el número de registro CAS.
+
+          .row(numero="2" titulo="Límite de Techo (Ceiling limit)")
+            p Algunas sustancias químicas muy peligrosas se caracterizan por un límite de techo además de su límite permitido de exposición (PEL) y el valor límite del umbral (TLV). El límite de techo es una concentración en partes por millón (ppm) o miligramos por metro cúbico (mg/m3) que no deben ser excedidos en un período específico de tiempo, generalmente 15 minutos.
+
+          .row(numero="3" titulo="Nombre químico")
+            p Generalmente se proporciona el nombre dado por la Unión Internacional de Química Pura y Aplicada (IUPAC) o el número químico CAS, pero se puede dar un nombre común para la sustancia química (como, por ejemplo: glicol de etileno es aceptado en vez de su nombre IUPAC correcto; 1,2-etanodiol).
+
+          .row(numero="4" titulo="Composición de mezclas")
+            p Incluye todos los componentes peligrosos en concentraciones mayores de 1% y todos los cancerígenos en concentraciones mayores a 0.1%.
+            
+          .row(numero="5" titulo="Medidas de control")
+            p Da una lista de ropa protectora, guantes y equipo protector respiratorio. Si el material debe ser manipulado en una capilla o extractor de laboratorio o con ventilación extra, todas estas recomendaciones vienen dadas en esta sección.
+
+          .row(numero="1" titulo="Primeros auxilios")
+            p Describe los procedimientos de emergencia para primeros auxilios. Debe asegurarse que pueda llevar a cabo los primeros auxilios en forma apropiada, de lo contrario, permite que una persona capacitada pueda proveer la ayuda necesaria. Mientras tanto, puede llamar a la ambulancia si es necesario (p.14).  
+
+      .col-lg-5
+        figure
+          img(src='@/assets/curso/temas/tema1/img38.svg', alt='alt')        
+
+    .row.justify-content-center.align-items-center.mb-5
+      .cajon.color-gris.p-4
+        .row.justify-content-center.align-items-center
+          .col-6.col-lg-2
+            figure
+              img(src='@/assets/curso/temas/tema1/img39.svg', alt='alt')(style="width:85%")
+
+          .col-lg-10
+            p.mb-0 La base normativa para las etiquetas de seguridad de los productos químicos también se da a través del Decreto 1496 de 2018, por el cual se adopta el Sistema Globalmente Armonizado de Clasificación y Etiquetado de Productos Químicos y se dictan otras disposiciones en materia de seguridad química. 
+
+    .row.bg5-tema1.align-items-center.p-1.mb-5
+      h3.texto-derecha3.mb-4 Etiquetas de seguridad
+
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-10
+        .titulo-sexto.color-secundario.mb-5
+          h5 Figura 1.
+          span Ejemplo de etiqueta de producto químico
+        
+        figure
+          img(src='@/assets/curso/temas/tema1/img40.svg', alt='alt')
+          figcaption.mb-5
+            p.mb-0 #[b Fuente:] MinInterior (2020, p. 4)
+
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-11
+        .tarjeta-gris2.p-4.p-lg-0.px-lg-4
+          .row.justify-content-center.align-items-center
+            .col-lg-2
+              figure
+                img(src='@/assets/curso/temas/tema1/img41.svg', alt='alt').img41-tm1
+
+            .col-lg-10
+              p.mb-0 Se puede definir la etiqueta como: el conjunto de elementos de información escritos, impresos o gráficos relativos a un producto peligroso, elegidos en relación a su pertenencia para el sector que lo trate, que se adhieren o se imprimen en el recipiente que contiene el producto o en su embalaje exterior” (Naciones Unidas, 2015, p.6). 
+
+    .row.bg2-tema1.align-items-center.p-3.mb-5
+      h4.texto-blanco.mb-0 Compatibilidad de sustancias químicas
+
+    .row.mb-5
+      p Toda sustancia química y/o residuo peligroso deben ser manipulados con especial cuidado, sin subestimar la peligrosidad tanto de la sustancia o el residuo como de la actividad misma. Es indispensable conocer sus características, así como las normas de seguridad y protección ambiental para su almacenamiento y transporte. 
+
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-5
+        figure
+          img(src='@/assets/curso/temas/tema1/img42.svg', alt='alt')
+
+      .col-lg-7
+        p En las actividades de almacenamiento una regla básica es no almacenar juntas sustancias que sean incompatibles a fin de minimizar los riesgos de incendio, explosión o contaminación.
+
+        .cajon.color-gris.p-4
+          p.mb-0 Para cumplir con esa regla se debe estudiar a profundidad las fichas de seguridad de las sustancias y según las características propias de cada sustancia identificar cómo sería su correcto almacenamiento, guiándose a su vez de un instrumento que se le conoce como matriz de compatibilidad para productos químicos, la cual se observa a continuación: 
+
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-11
+        .titulo-sexto.color-secundario.mb-5
+          h5 Tabla 1.
+          span Ejemplo de Tabla de compatibilidad para almacenamiento de productos químicos
+
+        figure
+          img(src='@/assets/curso/temas/tema1/img43.svg', alt='alt')
+          figcaption.mt-3
+            p.mb-0 #[b Fuente:] IDIGER (2014)
+
+    .bg6-tema1
+      .row.mb-5
+        p Este documento debe permanecer en la entrada del lugar donde se van a almacenar las sustancias químicas y para poder leerla adecuadamente se debe seguir los siguientes lineamientos:
+
+      .row.justify-content-center.align-items-center.mb-5
+        .col-lg-4
+          figure
+            img(src='@/assets/curso/temas/tema1/img44.svg', alt='alt')
+
+        .col-lg-8
+          .row
+            .col-5.col-lg-1
+              figure.mb-3
+                img(src='@/assets/curso/temas/tema1/img45.svg', alt='alt')
+            .col-lg-11
+              p La matriz se usa cruzando las diferentes clases de riesgo identificadas.      
+
+            .l-p.mb-3
+            .col-5.col-lg-1
+              figure.mb-3
+                img(src='@/assets/curso/temas/tema1/img46.svg', alt='alt')
+            .col-lg-11
+              p Puede contar con tres colores dentro de los cuadros de cruce (verde, amarillo y rojo). La lectura de esos colores es:
+
+              ul.lista-ul--color.fa-ul2.ps-lg-4
+                li
+                  i.fas.fa-check-circle.color-vineta2
+                  p.mb-0 #[b Verde:] cuando se pueden almacenar juntos, verificar reactividad individual utilizando las MSDS.  
+                li
+                  i.fas.fa-check-circle.color-vineta2
+                  p.mb-0 #[b Amarillo:] precaución posibles restricciones. Revisar las incompatibilidades individuales utilizando las MSDS, pueden ser incompatibles o pueden requerirse condiciones específicas.  
+                li
+                  i.fas.fa-check-circle.color-vineta2
+                  p.mb-0 #[b Rojo:] se requiere almacenar por separado, son incompatibles.          
+
+            .l-p.mb-3
+            .col-5.col-lg-1
+              figure.mb-3
+                img(src='@/assets/curso/temas/tema1/img47.svg', alt='alt')
+            .col-lg-11
+              p Algunas cuentan con números dentro de las casillas de colores que implican consideraciones especiales.     
+
+            .l-p.mb-3
+            .col-5.col-lg-1
+              figure.mb-3
+                img(src='@/assets/curso/temas/tema1/img48.svg', alt='alt')
+            .col-lg-11
+              p El fundamento de las matrices de compatibilidad es la misma para toda organización; sin embargo, es relevante mencionar que no se encuentra estandarizada a nivel nacional, así que podrá encontrar matrices que tienen en cuenta los dos tipos de clasificación o matrices que solo contemplan la clasificación para transporte bajo el Decreto 1609 de 2002.    
+
+            .l-p.mb-3
+            .col-5.col-lg-1
+              figure.mb-3
+                img(src='@/assets/curso/temas/tema1/img49.svg', alt='alt')
+            .col-lg-11.mb-5
+              p La lectura de la matriz se hace cruzando la característica principal de cada sustancia: suponga que va a almacenar una sustancia #2 pero en el lugar de almacenamiento ya tiene una sustancia #1, luego lo que debe hacer es tomar la matriz, ubicar la clasificación de la sustancia #1 y #2 y ver qué color tienen el cuadro que cruza las dos sustancias. Observe el siguiente ejemplo:  
 
 
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-11
+        .titulo-sexto.color-secundario.mb-5
+          h5 Tabla 2.
+          span Ejemplo de correlación en la matriz
+
+        figure
+          img(src='@/assets/curso/temas/tema1/img50.svg', alt='alt')
+          figcaption.mt-3
+            p.mb-0 #[b Fuente:] IDIGER (2014)      
+
+    .row.mb-5
+      p En este caso se podría deducir que es compatible y se pueden guardar o almacenar juntos; sin embargo, observe este otro ejemplo:
+
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-11
+        .titulo-sexto.color-secundario.mb-5
+          h5 Tabla 3.
+          span Ejemplo de correlación incompatibles en la matriz
+
+        figure
+          img(src='@/assets/curso/temas/tema1/img51.svg', alt='alt')
+          figcaption.mt-3
+            p.mb-0 #[b Fuente:] IDIGER (2014) 
+
+    separador
+    #t_1_2.titulo-segundo.color-acento-contenido
+       h2 1.2 Preparación para el almacenamiento
+
+    .row.justify-content-center.align-items-center.mb-5
+      figure
+        img(src='@/assets/curso/temas/tema1/img52.png', alt='alt')
+
+      .col-11
+        .tarjeta.tarjeta-gris.p-3 
+          p Después de haber analizado todos los elementos anteriormente mencionados, el siguiente paso es preparar el almacenamiento de las sustancias o insumos; al respecto, el Consejo Colombiano de Seguridad (CCS) (2019), en el artículo almacenamiento y compatibilidad de sustancias químicas menciona los siguientes criterios mínimos para tener en cuenta:
+
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-10
+        PasosA.color-primario.mb-5(tipo="n")
+          .row.justify-content-center.align-items-center
+            .col-md-2.mb-4.mb-md-0
+              figure
+                img(src='@/assets/curso/temas/tema1/img53.svg', alt='alt')(style="width:80%")
+
+            .col-md-10
+              h4 Comprobar que están adecuadamente etiquetados
+              p En la etiqueta es donde está la primera información sobre los peligros de los productos químicos. Brinde información respecto a los efectos a la salud, el ambiente y sobre cuáles son los elementos de protección personal necesarios.
+          
+          .row.justify-content-center.align-items-center
+            .col-md-10.mb-4.mb-md-0
+              h4.texto-izq Disponer de su ficha de datos de seguridad (FDS) u hoja de seguridad
+              p.texto-izq Cuando se manipule productos químicos en el ambiente laboral se debe contar con las MSDS de dichos productos. 
+            .col-md-2
+              figure
+                img(src='@/assets/curso/temas/tema1/img54.svg', alt='alt')(style="width:80%")
+              
+          .row.justify-content-center.align-items-center
+            .col-md-2.mb-4.mb-md-0
+              figure
+                img(src='@/assets/curso/temas/tema1/img55.svg', alt='alt')(style="width:80%")
+
+            .col-md-10
+              h4 No guardar los productos químicos en recipientes abiertos
+              p Los envases adecuados son aquellos que pueden cerrarse después de utilizarse o al quedar vacíos. Con esto se evita la liberación no deseada de productos.
+          
+          .row.justify-content-center.align-items-center
+            .col-md-10.mb-4.mb-md-0
+              h4.texto-izq Tener un registro actualizado
+              p.texto-izq Llevar un registro actualizado de la recepción de los productos que permita evitar su envejecimiento y posible descomposición.
+
+            .col-md-2
+              figure
+                img(src='@/assets/curso/temas/tema1/img56.svg', alt='alt')(style="width:80%")
+
+          .row.justify-content-center.align-items-center
+            .col-md-2.mb-4.mb-md-0
+              figure
+                img(src='@/assets/curso/temas/tema1/img57.svg', alt='alt')(style="width:80%")
+
+            .col-md-10
+              h4 Clasificar los productos por su peligro
+              p Agrupar y clasificar los productos por su peligro respetando las restricciones de almacenamientos conjuntos de productos incompatibles, así como las cantidades máximas recomendadas por tipo de depósito. 
+          
+          .row.justify-content-center.align-items-center
+            .col-md-10.mb-4.mb-md-0
+              h4.texto-izq Prever los posibles accidentes que puedan dar lugar a derrames
+              p.texto-izq Incluso lo que cause salpicaduras/goteos que pueden producirse durante la manipulación rutinaria. Además de evitar la contaminación, también se evita que entren en contacto sustancias que reaccionan entre sí. Por ejemplo, para evitar que ácidos y bases entren en contacto, deben instalarse bandejas, cubas de retención o armarios para corrosivos que tengan la capacidad de retener derrames que pudieran producirse ante una fuga o rotura de envase.
+            .col-md-2
 
 
+          .row.justify-content-center.align-items-center
+            .col-md-2.mb-4.mb-md-0
+              figure
+                img(src='@/assets/curso/temas/tema1/img58.svg', alt='alt')(style="width:80%")
+
+            .col-md-10
+              h4 Limitar la cantidad de productos a almacenar
+              p Hacerlo a la mínima cantidad posible para poder desarrollar cómodamente el trabajo del día a día. Un control de entradas y salidas facilitará su correcta gestión.
+          
+          .row.justify-content-center.align-items-center
+            .col-md-10.mb-4.mb-md-0
+              h4.texto-izq Disponer de una buena ventilación en las zonas de almacenamiento
+              p.texto-izq Realizarlo especialmente donde se manipulen sustancias tóxicas o inflamables es fundamental. Además de la protección de los trabajadores frente a estas atmósferas peligrosas, la ausencia de vapores inflamables es una medida básica para evitar incendios y explosiones.
+            .col-md-2
+              figure
+                img(src='@/assets/curso/temas/tema1/img59.svg', alt='alt')(style="width:80%")
+
+          .row.justify-content-center.align-items-center
+            .col-md-2.mb-4.mb-md-0
+              figure
+                img(src='@/assets/curso/temas/tema1/img60.svg', alt='alt')(style="width:80%")
+
+            .col-md-10
+              h4 Realizar ordenamiento de sustancias
+              p Adoptar procedimientos de orden y limpieza y comprobar que son seguidos por quienes manipulan las sustancias.
+          
+          .row.justify-content-center.align-items-center
+            .col-md-10.mb-4.mb-md-0
+              h4.texto-izq Prever los cambios bruscos de temperatura
+              p.texto-izq Existen productos como los aceites o las pinturas a los que les afectan las temperaturas extremas, alterando su viscosidad para procesos posteriores o incluso su calidad. En estos casos se debe prever un almacenamiento a temperatura controlada (almacenes o contenedores aislados, cámaras de calentamiento, mantas calefactoras), que además son eficientes energéticamente.
+            .col-md-2
+              figure
+                img(src='@/assets/curso/temas/tema1/img61.svg', alt='alt')(style="width:80%")
+
+          .row.justify-content-center.align-items-center
+            .col-md-2.mb-4.mb-md-0
+              figure
+                img(src='@/assets/curso/temas/tema1/img62.svg', alt='alt')(style="width:80%")
+
+            .col-md-10
+              h3 Formar e informar sobre los peligros
+              p Hacerlo a quienes manipulan las sustancias sobre los peligros del almacenamiento de productos, cómo prevenirlos y cómo protegerse.
 
 
+    .row.bg5-tema1.align-items-center.p-1.mb-5
+      h3.texto-derecha3.mb-4 Unidad de almacenamiento
 
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-5
+        figure
+          img(src='@/assets/curso/temas/tema1/img63.svg', alt='alt')
+
+      .col-lg-7
+        .cajon.color-gris.p-4
+          p El Consejo Colombiano de Seguridad (CCS) y el entonces Ministerio de Ambiente, Vivienda y Desarrollo Territorial (MAVDT) (s.f.) generaron las Guías ambientales de almacenamiento y transporte por carretera de sustancias químicas peligrosas y residuos peligrosos; aunque fue a gran escala, sus consideraciones son pertinentes para tener en cuenta en el momento del almacenamiento, destacando:
+
+    .tarjeta.tarjeta--gris.p-5
+      SlyderA(tipo="b")
+        .row.justify-content-center.align-items-center
+          .col-md-6.mb-4.mb-md-0
+            h4 Ubicación
+            p Idealmente todo lugar de almacenamiento de sustancias y residuos peligrosos debe estar alejado de zonas densamente pobladas, de fuentes de captación de agua potable, de áreas inundables, de posibles fuentes externas de peligro y de fácil acceso en caso de accidentes (p.11).
+
+          .col-md-6
+            figure
+              img(src='@/assets/curso/temas/tema1/img64.svg', alt='alt')
+
+        .row.justify-content-center.align-items-center
+          .col-md-6
+            figure
+              img(src='@/assets/curso/temas/tema1/img65.svg', alt='alt')
+
+          .col-md-6.mb-4.mb-md-0
+            h4 Diseño
+            p La bodega debe ser diseñada de tal manera que permita la separación de materiales incompatibles por medio de edificios o áreas separadas, muros cortafuego u otras precauciones aceptables, así como también permitir movimientos y manejo seguro de las sustancias y residuos peligrosos; debe existir espacio suficiente para las condiciones de trabajo y permitir el acceso libre por varios costados en caso de emergencia.
+
+            p El diseño de la bodega debe atender a la naturaleza de los materiales a ser almacenados (p.12).
+
+        .row.justify-content-center.align-items-center
+          .col-md-6.mb-4.mb-md-0
+            h4 Puertas
+            p El número de puertas de acceso de las mercancías debe ser el mínimo necesario para una operación de almacenamiento eficiente (p.13).
+
+          .col-md-6
+            figure
+              img(src='@/assets/curso/temas/tema1/img66.svg', alt='alt')
+
+        .row.justify-content-center.align-items-center
+          .col-md-6
+            figure
+              img(src='@/assets/curso/temas/tema1/img67.svg', alt='alt')
+
+          .col-md-6.mb-4.mb-md-0
+            h4 Piso
+            p Debe ser impermeable para evitar infiltración de contaminantes y resistente a las sustancias y/o residuos que se almacenen. Debe ser liso sin ser resbaloso y libre de grietas que dificultan su limpieza (p.14). 
+
+        .row.justify-content-center.align-items-center
+          .col-md-6.mb-4.mb-md-0
+            h4 Techos
+            p Deben estar diseñados de tal forma que no admitan el ingreso de agua lluvia a las instalaciones, pero que permitan la salida del humo y el calor en caso de un incendio. Esto debido a que la rápida liberación del humo y el calor mejorará la visibilidad de la fuente de fuego y retardará su dispersión lateral (p.15).
+
+          .col-md-6
+            figure
+              img(src='@/assets/curso/temas/tema1/img68.svg', alt='alt')
+
+        .row.justify-content-center.align-items-center
+          .col-md-6
+            figure
+              img(src='@/assets/curso/temas/tema1/img69.svg', alt='alt')
+
+          .col-md-6.mb-4.mb-md-0
+            h4 Ventilación
+            p La bodega debe tener óptima ventilación natural o forzada dependiendo de las sustancias peligrosas almacenadas y la necesidad de proveer condiciones confortables de trabajo (p.16).
+
+        .row.justify-content-center.align-items-center
+          .col-md-6.mb-4.mb-md-0
+            h4 Equipos eléctricos e iluminación
+            p Cuando las operaciones se realicen solo durante el día y la iluminación natural sea adecuada y suficiente, no será necesario instalar iluminación artificial. En los casos en que la iluminación natural es inadecuada, puede ser posible mejorar esta situación mediante cambios sencillos, como por ejemplo instalando tejas transparentes en la cubierta, Si no existe otra opción que usar energía artificial, garantizar que se haga bajo directrices técnicas que no genere un riesgo mayor (p.16).
+
+          .col-md-6
+            figure
+              img(src='@/assets/curso/temas/tema1/img70.svg', alt='alt')
+
+        .row.justify-content-center.align-items-center
+          .col-md-6
+            figure
+              img(src='@/assets/curso/temas/tema1/img71.svg', alt='alt')
+
+          .col-md-6.mb-4.mb-md-0
+            h4 Protección contra relámpagos
+            p Toda bodega que almacene materiales inflamables debe considerar en el diseño la instalación de equipos de protección contra relámpagos, como por ejemplo pararrayos (p.18).
+
+        .row.justify-content-center.align-items-center
+          .col-md-6.mb-4.mb-md-0
+            h4 Señalización
+            p La señalización tiene por objeto establecer colores y señales normalizadas que adviertan a los trabajadores la presencia de un riesgo o la existencia de una prohibición u obligación, con el fin de prevenir accidentes que afecten la salud o el medio ambiente (p.18).
+
+          .col-md-6
+            figure
+              img(src='@/assets/curso/temas/tema1/img70.svg', alt='alt')
+
+        .row.justify-content-center.align-items-center
+          .col-md-6
+            figure
+              img(src='@/assets/curso/temas/tema1/img71.svg', alt='alt')
+
+          .col-md-6.mb-4.mb-md-0
+            h4 Dispositivos de detección de fuego y sistemas de respuesta
+            p Las medidas de seguridad pueden variar según la localización de la bodega particularmente si se trata de lugares aislados o de lugares que forman parte de un complejo de almacenaje. Con respecto a los límites la bodega debe estar rodeada por una cerca o muralla protectora que debe mantenerse en buen estado, debe contar con sistemas para incendios, robos, fugas, rupturas, explosiones, terremotos y cualquier otra amenaza que se identifique (p.21).
+
+    .row.justify-content-center.mb-5
+      .col-lg-10
+        .tarjeta.bgDescarga.p-4
+          .row.justify-content-around.align-items-center
+            .col-3.col-sm-2.col-lg-1
+              img(src="@/assets/curso/temas/tema1/img10.svg")
+            .col
+              .row.justify-content-between.align-items-center
+                .col.mb-3.mb-sm-0
+                  h4.texto-blanco Guías ambientales de almacenamiento y transporte 
+                  p.texto-blanco Para visualizar las características adicionales, se invita a consultar las “Guías ambientales de almacenamiento y transporte por carretera de sustancias químicas peligrosas y residuos peligrosos”. Recuerde que también se encuentra en los materiales complementarios.
+                .col-sm-auto
+                  a.boton.color-primario(href="https://www.youtube.com/embed/JBu6RQ1QMD0" target="_blank")
+                    span.texto-negro Ir a página
+                    i.fas.fa-link.texto-negro
 
 
       
