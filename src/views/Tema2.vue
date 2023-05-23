@@ -16,11 +16,11 @@
         p.p-4 Los procedimientos de operación de la unidad de almacenamiento, tanto de sustancias químicas como de residuos peligrosos van encaminados a mantener bajo un control de por lo menos las siguientes actividades, de acuerdo con el Consejo Colombiano de Seguridad y el entonces Ministerio de Ambiente, Vivienda y Desarrollo Territorial (s.f.): 
 
     .row.justify-content-center.align-items-center.mt-5
-      .col-3.col-xs-12
+      .col-10.col-lg-4.mb-4
         figure
           img(src='@/assets/curso/temas/tema2/img2.png', alt='alt')
 
-      .col-9
+      .col-lg-8
         ul.lista-ul--color.lista-ul--separador.fa-ul2
 
           li.l-p
@@ -52,8 +52,7 @@
             | Orden y aseo en instalaciones de almacenamiento de sustancias químicas peligrosas.
 
     .row.justify-content-center.align-items-center.mt-5
-
-      .col-7
+      .col-lg-7
         ul.lista-ul--color.lista-ul--separador.fa-ul2
           li.l-p
             i.fas.fa-check-circle
@@ -81,7 +80,7 @@
 
 
 
-      .col-5.col-xs-12
+      .col-10.col-lg-5
         figure
           img(src='@/assets/curso/temas/tema2/img3.png', alt='alt')
 
@@ -94,11 +93,11 @@
 
 
     .row.justify-content-center.align-items-center.mt-5
-      .col-3.col-xs-12
+      .col-10.col-lg-4.mb-4
         figure
           img(src='@/assets/curso/temas/tema2/img4.png', alt='alt')
 
-      .col-9
+      .col-lg-8
         ul.lista-ul--color.lista-ul--separador.fa-ul2
           li.l-p
             i.fas.fa-check-circle
@@ -124,7 +123,7 @@
 
     .row.justify-content-center.align-items-center.mt-5
       
-      .col-7
+      .col-lg-7
         ul.lista-ul--color.lista-ul--separador.fa-ul2
           li.l-p
             i.fas.fa-check-circle
@@ -150,7 +149,7 @@
             i.fas.fa-check-circle
             | Definir los reportes y formatos que serán manejados para el control de las sustancias.
 
-      .col-5.col-xs-12
+      .col-10.col-lg-5
         figure
           img(src='@/assets/curso/temas/tema2/img5.png', alt='alt')
 
@@ -158,18 +157,20 @@
     #t_2_3.titulo-segundo.color-acento-contenido
        h2 2.3 Equipo de seguridad personal
 
-    .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5
-      .bloque-texto-g__img(
-        :style="{'background-image': `url(${require('@/assets/curso/temas/tema2/img6.png')})`}"
-      )
-      .bloque-texto-g__texto.p-4
-        p.mb-0 El manejo de sustancias químicas debe realizarse con todas las medidas de seguridad para el personal que se han indicado en laboratorio.
-          br
-          br
-          | De forma general las medidas mínimas que se deben contemplar en los equipos de seguridad del personal son:  
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-10
+        .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5
+          .bloque-texto-g__img(
+            :style="{'background-image': `url(${require('@/assets/curso/temas/tema2/img6.png')})`}"
+          )
+          .bloque-texto-g__texto.p-4
+            p.mb-0 El manejo de sustancias químicas debe realizarse con todas las medidas de seguridad para el personal que se han indicado en laboratorio.
+              br
+              br
+              | De forma general las medidas mínimas que se deben contemplar en los equipos de seguridad del personal son:  
 
     .row.justify-content-center.align-items-center.mt-5
-      .col-9
+      .col-lg-9
         ul.lista-ul--color.lista-ul--separador.fa-ul2
           li.l-p
             i.fas.fa-check-circle
@@ -203,7 +204,7 @@
             i.fas.fa-check-circle
             | No dejar descubierto partes del cuerpo en el trabajo en laboratorio.
 
-      .col-3.col-xs-12
+      .col-10.col-lg-3
         figure
           img(src='@/assets/curso/temas/tema2/img7.png', alt='alt')
 
@@ -214,11 +215,11 @@
     p El CCS y el MAVDT (s.f.) en las Guías ambientales de almacenamiento y transporte por carretera de sustancias químicas peligrosas y residuos peligrosos definen:
 
     .row.justify-content-center.align-items-center   
-      .col-lg-5.col-xs-12
+      .col-lg-5.mb-4
         figure
           img(src='@/assets/curso/temas/tema2/img8.png', alt='alt')
 
-      .col-7
+      .col-lg-7
         p Todos los residuos incluyendo material de empaque, deberán ser manejados de una manera ambientalmente segura y responsable. Residuos potencialmente peligrosos incluyen productos obsoletos, productos fuera de especificación, material contaminado, residuos líquidos y material absorbente que ha sido utilizado para la limpieza de derrames. La disposición ambientalmente segura de estos residuos es a menudo difícil, lo que implica que en algunos casos se deba consultar a personal experto o a las autoridades ambientales. A menudo las hojas de seguridad, en la sección 13, pueden indicar la forma más adecuada de disposición de sustancias químicas (p.29).
 
     .row.align-items-center
@@ -227,12 +228,12 @@
       p.mt-3 De acuerdo con el Decreto 1076 de 2015 expedido por el presidente de la República denominado el Decreto único reglamentario del sector ambiente, en su título 7 define residuo peligroso como:
 
     .row.justify-content-center.align-items-center   
-      .col-lg-3.col-xs-12
+      .col-10.col-lg-3
         figure
           img(src='@/assets/curso/temas/tema2/img9.png', alt='alt')
-      .col-9
+      .col-lg-9
         .cajon.color-tema2.p-4
-          p Aquel residuo o desecho que, por sus características corrosivas, reactivas, explosivas, tóxicas, inflamables, infecciosas o radiactivas, puede causar riesgos, daños o efectos no deseados, directos e indirectos, a la salud humana y el ambiente. Así mismo, se considerará residuo peligroso los empaques, envases y embalajes que estuvieron en contacto con ellos.
+          p.mb-0 Aquel residuo o desecho que, por sus características corrosivas, reactivas, explosivas, tóxicas, inflamables, infecciosas o radiactivas, puede causar riesgos, daños o efectos no deseados, directos e indirectos, a la salud humana y el ambiente. Así mismo, se considerará residuo peligroso los empaques, envases y embalajes que estuvieron en contacto con ellos.
 
         p.mt-3 En cuanto a residuo determina “es cualquier objeto, material, sustancia, elemento o producto que se encuentra en estado sólido o semisólido, o es un líquido o gas contenido en recipientes o depósitos, cuyo generador descarta, rechaza o entrega porque sus propiedades no permiten usarlo nuevamente en la actividad que lo generó o porque la legislación o la normatividad vigente así lo estipula” (Decreto 1076 de 2015).
 
@@ -255,25 +256,25 @@
 
     .row.justify-content-center.align-items-center.mt-3
       .cajon.color-tema2-1.p-4
-        p Como se puede denotar en el diagrama dentro de la FASE II de un plan de gestión integral de residuos peligrosos se contempla el almacenamiento. Por ello, es importante planear, dar a conocer, ejecutar y evaluar las acciones que se deben llevar a cabo frente a una contingencia.
+        p.mb-0 Como se puede denotar en el diagrama dentro de la FASE II de un plan de gestión integral de residuos peligrosos se contempla el almacenamiento. Por ello, es importante planear, dar a conocer, ejecutar y evaluar las acciones que se deben llevar a cabo frente a una contingencia.
 
     separador
     #t_2_5.titulo-segundo.color-acento-contenido
        h2 2.5 Plan de contingencia
 
     .row.justify-content-center.align-items-center   
-      .col-lg-4.col-xs-12
+      .col-lg-4.mb-4
         figure
           img(src='@/assets/curso/temas/tema2/img12.png', alt='alt')
 
-      .col-8
+      .col-lg-8
         p Los planes de contingencia son instrumentos que se encuentran inmersos dentro de los llamados planes de emergencia de acuerdo con el Decreto 2157 de 2017 de presidencia, por medio del cual se adoptan directrices generales para la elaboración del plan de gestión del riesgo de desastres de las entidades públicas y privadas en el marco del artículo 42 de la Ley 1523 de 2012 donde se describe que el plan de emergencia y contingencia (PEC):
 
         .bloque-texto-f.bg4-tema2.pt-4.px-5.mb-5.mt-5
           .bloque-texto-f__comillas
             i.fas.fa-quote-left
             i.fas.fa-quote-right
-          h4.text-regular.bloque-texto-f__texto Es la herramienta de preparación para la respuesta que con base en unos escenarios posibles y priorizados (identificados en el proceso de conocimiento del riesgo), define los mecanismos de organización, coordinación, funciones, competencias, responsabilidades, así como recursos disponibles y necesarios para garantizar la atención efectiva de las emergencias que se puedan presentar: Igualmente precisa los procedimientos y protocolos de actuación para cada una de ellas minimizando el impacto en las personas, los bienes y el ambiente.
+          h4.text-regular.bloque-texto-f__texto.mb-0 Es la herramienta de preparación para la respuesta que con base en unos escenarios posibles y priorizados (identificados en el proceso de conocimiento del riesgo), define los mecanismos de organización, coordinación, funciones, competencias, responsabilidades, así como recursos disponibles y necesarios para garantizar la atención efectiva de las emergencias que se puedan presentar: Igualmente precisa los procedimientos y protocolos de actuación para cada una de ellas minimizando el impacto en las personas, los bienes y el ambiente.
 
           <p style="text-align: end;"><b>- Ley 1523 de 2012</b></p> 
 
@@ -282,16 +283,16 @@
 
       p.mt-5 Bajo el Decreto 423 de 2006 de la Alcaldía mayor de Bogotá en el artículo 19°, se describe: 
 
-      .col-8
+      .col-lg-8
         .bloque-texto-f.bg4-tema2.pt-4.px-5.mb-5.mt-5
           .bloque-texto-f__comillas
             i.fas.fa-quote-left
             i.fas.fa-quote-right
-          h4.text-regular.bloque-texto-f__texto Los Planes de Contingencia. En armonía con el artículo 8° del Decreto 332 de 2004, los Planes de Contingencia son instrumentos complementarios a los planes de emergencia, que proveen información específica para la atención de desastres o emergencias derivadas de un riesgo o territorio en particular. Un Plan de Contingencia desarrolla en detalle aspectos pertinentes para la respuesta que solo son propios del riesgo y el territorio al que esté referido. Los planes de contingencia se organizan por tipo de riesgo, tales como deslizamientos, inundaciones, incendios forestales, materiales peligrosos y aglomeraciones de público, entre otros.
+          h4.text-regular.bloque-texto-f__texto.mb-0 Los Planes de Contingencia. En armonía con el artículo 8° del Decreto 332 de 2004, los Planes de Contingencia son instrumentos complementarios a los planes de emergencia, que proveen información específica para la atención de desastres o emergencias derivadas de un riesgo o territorio en particular. Un Plan de Contingencia desarrolla en detalle aspectos pertinentes para la respuesta que solo son propios del riesgo y el territorio al que esté referido. Los planes de contingencia se organizan por tipo de riesgo, tales como deslizamientos, inundaciones, incendios forestales, materiales peligrosos y aglomeraciones de público, entre otros.
 
           <p style="text-align: end;"><b> Decreto 423 de 2006</b></p> 
 
-      .col-lg-4.col-xs-12
+      .col-10.col-lg-4
         figure
           img(src='@/assets/curso/temas/tema2/img13.png', alt='alt')
 
@@ -301,27 +302,27 @@
       p.mt-3 Son las acciones de coordinación para responder ante una emergencia que se pueda presentar dentro de este se encuentra incluido:
 
       .row.justify-content-center.align-items-center.mt-3
-        .col-lg-4.col-xs-12
+        .col-lg-4.mb-4
           figure
             img(src='@/assets/curso/temas/tema2/img14.png', alt='alt')
 
-        .col-8
+        .col-lg-8
           ul.lista-ul--color.lista-ul--separador.fa-ul2
             li
               i.fas.fa-check-circle
-              | <b>Capacitación:</b> formación del personal.
+              p.mb-0 <b>Capacitación:</b> formación del personal.
 
             li
               i.fas.fa-check-circle
-              | <b>Simulaciones y simulacros:</b> realizar pruebas que permiten evaluaciones y mejora continua de los procesos.
+              p.mb-0 <b>Simulaciones y simulacros:</b> realizar pruebas que permiten evaluaciones y mejora continua de los procesos.
 
             li
               i.fas.fa-check-circle
-              | <b>Equipamiento:</b> herramientas, equipos y accesorios requeridos para dar respuesta.
+              p.mb-0 <b>Equipamiento:</b> herramientas, equipos y accesorios requeridos para dar respuesta.
             
             li
               i.fas.fa-check-circle
-              | <b>Planeación y organización:</b> protocolos y procedimientos, equipo de respuesta con funciones y responsabilidades.
+              p.mb-0 <b>Planeación y organización:</b> protocolos y procedimientos, equipo de respuesta con funciones y responsabilidades.
 
       
     .row.align-items-center.mt-5
@@ -330,7 +331,7 @@
       p.mt-3 El cual define el marco de actuación de la entidad, teniendo en cuenta:
 
       .row.justify-content-center.align-items-center.mt-3
-        .col-7
+        .col-lg-7
           ul.lista-ul--color.lista-ul--separador.fa-ul2
             li
               i.fas.fa-check-circle
@@ -356,18 +357,18 @@
       h4.bg2-tema2-v1.text-white.mt-2.p-3 Medidas de contingencia
 
     .row.justify-content-center.align-items-center.mt-3
-      .col-lg-4.col-xs-12
+      .col-lg-4.mb-4
         figure
           img(src='@/assets/curso/temas/tema2/img16.png', alt='alt')
 
-      .col-8
+      .col-lg-8
         p Con el fin de disminuir el riesgo al cual puede verse sometido el personal, el medio ambiente o la propiedad en sí, donde se realicen las actividades de almacenamiento de sustancias se debe analizar los posibles eventos que se pueden dar y las medidas de contingencia que se deben realizar. 
 
         .cajon.color-tema2-1.p-4
-          p Tomando como referencia al Servicio Nacional de Aprendizaje (SENA) en su documento de plan de gestión integral de residuos se pueden observar las siguientes medidas:
+          p.mb-0 Tomando como referencia al Servicio Nacional de Aprendizaje (SENA) en su documento de plan de gestión integral de residuos se pueden observar las siguientes medidas:
     
     .row.justify-content-center.align-items-center.mt-5
-      .col-lg-8.col-xs-12
+      .col-lg-8.mb-4
         LineaTiempoD.color-acento-contenido
           .row(numero="1" titulo="Evento: Derrame de sustancias peligrosas")
             .col-md-12.mb-4.mb-md-0
@@ -401,7 +402,7 @@
 
 
 
-      .col-lg-4.col-xs-12
+      .col-10.col-lg-4
         figure
           img(src='@/assets/curso/temas/tema2/img17.png', alt='alt')
 

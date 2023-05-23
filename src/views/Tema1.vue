@@ -11,7 +11,7 @@
       p El proceso de potabilización de agua incluye el uso de insumos químicos que por sus características son requeridos como parte del proceso para controlar o adecuar las características físicas, químicas y microbiológicas del agua que será objeto de consumo humano; sin embargo, un uso inadecuado de estos insumos puede generar que se convierta en otro agente de contaminación o que no logre cumplir su función en el proceso.
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-5
+      .col-lg-5.mb-3
         figure
           img(src='@/assets/curso/temas/tema1/img1.svg', alt='alt') 
 
@@ -76,7 +76,7 @@
 
     TabsC.color-acento-contenido.mb-5
       .py-3.py-md-4(titulo="Mecanismos de coagulación")
-        .row
+        .row.justify-content-center.align-items-center
           .col-md-8.mb-4.mb-md-0
             h4 Mecanismos de coagulación
             p Las características del agua cruda determinan el mecanismo de coagulación que se debe utilizar, dentro de los cuales se puede encontrar según el RAS (2017): 
@@ -94,12 +94,12 @@
 
               P Una mezcla de los mecanismos anteriores (p.15).
 
-          .col-md-4
+          .col-10.col-md-4
             figure
               img(src='@/assets/curso/temas/tema1/img7.svg', alt='alt')
 
       .py-3.py-md-4(titulo="Mecanismos de floculación")
-        .row
+        .row.justify-content-center.align-items-center
           .col-md-8.mb-4.mb-md-0
             h4 Mecanismos de floculación
 
@@ -116,12 +116,12 @@
                 i.fas.fa-check-circle.color-vineta2
                 P Floculadores hidromecánicos: utilizan la energía hidráulica a la entrada del floculador para mover una turbina de impulso similar a la rueda o turbina Pelton, la cual puede girar con baja cabeza hidráulica. 
         
-          .col-md-4
+          .col-10.col-md-4
             figure
               img(src='@/assets/curso/temas/tema1/img8.svg', alt='alt')
 
       .py-3.py-md-4(titulo="Mecanismos de desinfección")
-        .row
+        .row.justify-content-center.align-items-center
           .col-md-8.mb-4.mb-md-0
             h4 Mecanismos de desinfección
 
@@ -136,7 +136,7 @@
                 i.fas.fa-check-circle.color-vineta2
                 P Entre los procesos de desinfección que pueden realizarse está primordialmente la cloración, incluidos sus derivados, el dióxido de cloro, los hipocloritos y procedimientos como el de la cloraminación y complementarios se tienen el ozono, el yodo y los rayos ultravioleta (p.89).
         
-          .col-md-4
+          .col-10.col-md-4
             figure
               img(src='@/assets/curso/temas/tema1/img9.svg', alt='alt')
 
@@ -153,7 +153,7 @@
                   h4.texto-blanco Título C - Sistemas de potabilización
                   p.texto-blanco Consulte la página del Ministerio de Vivienda donde encontrará el Reglamento Técnico del Sector de Agua y Saneamiento. Título C. Potabilización de agua. Con esto aclarará un poco más la temática relacionada con los manuales del reglamento técnico. Recuerde que también se encuentra en los materiales complementarios.
                 .col-sm-auto
-                  a.boton.color-primario(href="https://www.youtube.com/embed/JBu6RQ1QMD0" target="_blank")
+                  a.boton.color-primario(href="https://www.catorce6.com/images/legal/Titulo_C_Potabilizacion.pdf" target="_blank")
                     span.texto-negro Ir a página
                     i.fas.fa-link.texto-negro
 
@@ -169,7 +169,7 @@
                   h4.texto-blanco La potabilización - Didáctica del agua
                   p.texto-blanco Para aclarar mejor el uso de los diferentes mecanismos químicos, lo invitamos a visualizar el video “La potabilización - Didáctica del agua”. Recuerde que también se encuentra en los materiales complementarios.
                 .col-sm-auto
-                  a.boton.color-primario(href="https://www.youtube.com/embed/JBu6RQ1QMD0" target="_blank")
+                  a.boton.color-primario(href="https://www.youtube.com/watch?v=nq70X1TPRRA&t=5s&ab_channel=GlobalOmnium" target="_blank")
                     span.texto-negro Ir a página
                     i.fas.fa-link.texto-negro
 
@@ -180,7 +180,7 @@
       p Es importante aclarar que el uso del insumo químico debe estar acorde a la normatividad aplicable en el momento de su requerimiento. Al Respecto:
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-5
+      .col-10.col-lg-5.mb-4
         figure
           img(src='@/assets/curso/temas/tema1/img12.svg', alt='alt')
 
@@ -252,7 +252,7 @@
       p Este tipo de clasificación fue dada por el Sistema Globalmente Armonizado (SGA) adoptado para el Decreto 1496 del 2018 para Colombia.
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-6
+      .col-10.col-lg-6.mb-4
         figure
           img(src='@/assets/curso/temas/tema1/img17.svg', alt='alt')
 
@@ -293,7 +293,7 @@
         h5 ¿Cómo se clasificarían las sustancias bajo el SGA?
         p De acuerdo con lo que se explicó anteriormente este sistema busca comunicar los peligros, luego las sustancias químicas podrían clasificarse por medio de los riesgos que generan en cuanto a su manipulación, almacenamiento o transporte. 
 
-      .col-lg-4
+      .col-10.col-lg-4
         figure
           img(src='@/assets/curso/temas/tema1/img18.svg', alt='alt')
 
@@ -474,8 +474,8 @@
       .col-lg-10
         .l-p.mb-3
         .l-p.mb-3
-          .row.mb-3
-            .col-lg-2
+          .row.justify-content-center.align-items-center.mb-3
+            .col-6.col-lg-2
               figure
                 img(src='@/assets/curso/temas/tema1/img21.svg', alt='alt')
             .col-lg-10
@@ -483,14 +483,14 @@
               p Corresponde a explosivos, la Norma Técnica Colombiana que la identifica y condiciona su transporte y uso es la NTC 3966 elaborada por el Organismo Nacional de Normalización (ICONTEC).
 
         .l-p.mb-3
-          .row.mb-3
-            .col-lg-2.mt-2      
+          .row.justify-content-center.align-items-center.mb-3
+            .col-6.col-lg-2.mt-2      
               figure
                 img(src='@/assets/curso/temas/tema1/img22.svg', alt='alt')
-            .col-lg-2.mt-2      
+            .col-6.col-lg-2.mt-2      
               figure
                 img(src='@/assets/curso/temas/tema1/img23.svg', alt='alt')
-            .col-lg-2.mt-2      
+            .col-6.col-lg-2.mt-2      
               figure
                 img(src='@/assets/curso/temas/tema1/img24.svg', alt='alt')
             
@@ -499,11 +499,11 @@
               p Corresponde a gases, la Norma Técnica Colombiana que la identifica y condiciona su transporte y uso es la NTC 2880 elaborada por el Organismo Nacional de Normalización (ICONTEC).
 
         .l-p.mb-3
-          .row.mb-3
-            .col-lg-2.mt-2      
+          .row.justify-content-center.align-items-center.mb-3
+            .col-6.col-lg-2.mt-2      
               figure
                 img(src='@/assets/curso/temas/tema1/img25.svg', alt='alt')
-            .col-lg-2.mt-2  
+            .col-6.col-lg-2.mt-2  
               figure
                 img(src='@/assets/curso/temas/tema1/img26.svg', alt='alt')
 
@@ -512,14 +512,14 @@
               p Corresponde a líquidos inflamables, la Norma Técnica Colombiana que la identifica y condiciona su transporte y uso es la NTC 2801 elaborada por el Organismo Nacional de Normalización (ICONTEC). 
 
         .l-p.mb-3
-          .row.mb-3
-            .col-lg-2.mt-3      
+          .row.justify-content-center.align-items-center.mb-3
+            .col-6.col-lg-2.mt-3      
               figure
                 img(src='@/assets/curso/temas/tema1/img27.svg', alt='alt')
-            .col-lg-2.mt-3      
+            .col-6.col-lg-2.mt-3      
               figure
                 img(src='@/assets/curso/temas/tema1/img28.svg', alt='alt')
-            .col-lg-2.mt-3    
+            .col-6.col-lg-2.mt-3    
               figure
                 img(src='@/assets/curso/temas/tema1/img29.svg', alt='alt')
             
@@ -528,11 +528,11 @@
               p Corresponde a sólidos inflamables; sustancias que presentan riesgo de combustión espontánea; sustancias que en contacto con el agua desprenden gases inflamables, la Norma Técnica Colombiana que la identifica y condiciona su transporte y uso es la NTC 3967 elaborada por el Organismo Nacional de Normalización (ICONTEC).
 
         .l-p.mb-3
-          .row.mb-3
-            .col-lg-2.mt-2      
+          .row.justify-content-center.align-items-center.mb-3
+            .col-6.col-lg-2.mt-2      
               figure
                 img(src='@/assets/curso/temas/tema1/img30.svg', alt='alt')
-            .col-lg-2.mt-2  
+            .col-6.col-lg-2.mt-2  
               figure
                 img(src='@/assets/curso/temas/tema1/img31.svg', alt='alt')
 
@@ -541,11 +541,11 @@
               p Corresponde a sustancias comburentes y peróxidos orgánicos, la Norma Técnica Colombiana que la identifica y condiciona su transporte y uso es la NTC 3968 elaborada por el Organismo Nacional de Normalización (ICONTEC).
 
         .l-p.mb-3
-          .row.mb-3
-            .col-lg-2.mt-2      
+          .row.justify-content-center.align-items-center.mb-3
+            .col-6.col-lg-2.mt-2      
               figure
                 img(src='@/assets/curso/temas/tema1/img32.svg', alt='alt')
-            .col-lg-2.mt-2  
+            .col-6.col-lg-2.mt-2  
               figure
                 img(src='@/assets/curso/temas/tema1/img33.svg', alt='alt')
 
@@ -554,8 +554,8 @@
               p Corresponde a sustancias tóxicas e infecciosas, la Norma Técnica Colombiana que la identifica y condiciona su transporte y uso es la NTC 3969 elaborada por el Organismo Nacional de Normalización (ICONTEC).
 
         .l-p.mb-3
-          .row.mb-3
-            .col-lg-2
+          .row.justify-content-center.align-items-center.mb-3
+            .col-6.col-lg-2
               figure
                 img(src='@/assets/curso/temas/tema1/img34.svg', alt='alt')
             .col-lg-10
@@ -563,8 +563,8 @@
               p Corresponde a materiales radiactivos, la Norma Técnica Colombiana que la identifica y condiciona su transporte y uso es la NTC 3970 elaborada por el Organismo Nacional de Normalización (ICONTEC).
 
         .l-p.mb-3
-          .row.mb-3
-            .col-lg-2
+          .row.justify-content-center.align-items-center.mb-3
+            .col-6.col-lg-2
               figure
                 img(src='@/assets/curso/temas/tema1/img35.svg', alt='alt')
             .col-lg-10
@@ -572,8 +572,8 @@
               p Corresponde a sustancias corrosivas, la Norma Técnica Colombiana que la identifica y condiciona su transporte y uso es la NTC 3971 elaborada por el Organismo Nacional de Normalización (ICONTEC).
 
         .l-p.mb-3
-          .row.mb-3
-            .col-lg-2
+          .row.justify-content-center.align-items-center.mb-3
+            .col-6.col-lg-2
               figure
                 img(src='@/assets/curso/temas/tema1/img36.svg', alt='alt')
             .col-lg-10
@@ -584,7 +584,7 @@
       h4.texto-blanco.mb-0 Hojas de seguridad de productos químicos
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-4
+      .col-10.col-lg-4.mb-4
         figure
           img(src='@/assets/curso/temas/tema1/img37.svg', alt='alt')
 
@@ -593,7 +593,7 @@
 
         p Internacionalmente se conoce como Material Safety Data Sheet por sus siglas en inglés MSDS, aunque es relevante mencionar que el contenido de las hojas de seguridad es igual en cualquier país, incluyendo a Colombia. 
 
-        .cajon.color-gris.p-4
+        .cajon.color-gris.p-4.mb-4
           p.mb-0 Estas hojas de seguridad las deben producir los fabricantes de cada producto químico o mezcla de sustancias químicas, en Colombia estas funciones y el uso de las hojas de seguridad se encuentra regulado por el Decreto 1609 de 2002, el cual direcciona el transporte de mercancías peligrosas en Colombia y la Norma Técnica Colombiana (NTC) 4435, la cual identifica las 16 secciones que debe contener las hojas de seguridad, referente a cuatro temas elementales:
 
         ul.lista-ul--color.lista-ul--separador.ps-3
@@ -625,9 +625,9 @@
                   h4.texto-blanco  Ejemplo hoja de seguridad bicarbonato de sodio
                   p.texto-blanco A través del siguiente documento podrá observar un ejemplo SENA sobre una hoja de seguridad bicarbonato de sodio. Recuerde que también lo puede encontrar en los materiales complementarios.
                 .col-sm-auto
-                  a.boton.color-primario(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+                  a.boton.color-primario(:href="obtenerLink('/downloads/Hoja_de_seguridad_Bicarbonato_de_sodio.pdf')" target="_blank")
                     span.texto-negro Descargar
-                    i.fas.fa-link.texto-negro
+                    i.fas.fa-file-download.texto-negro
 
     .row.justify-content-center.align-items-center.mb-5
       .bgdegrade.p-4
@@ -639,8 +639,8 @@
             p De acuerdo con la Sociedad Americana de Química (2002), en su libro “Seguridad en los Laboratorios Químicos Académicos”, se brindan unas aclaraciones que pueden ser útiles al momento de interpretar las hojas de seguridad (en algunas hojas de seguridad en especial las que vienen de una empresa internacional):
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-7
-        LineaTiempoD.color-primario.mt-5
+      .col-lg-7.mb-4
+        LineaTiempoD.color-acento-contenido.mt-5
           .row(numero="1" titulo="Número de registro CAS")
             p El Servicio de Chemical Abstracts (CAS) de la Sociedad Americana de Química (ACS) le asigna un número único a cada sustancia química conocida, descubierta o sintetizada, llamado el número de registro CAS.
 
@@ -656,7 +656,7 @@
           .row(numero="5" titulo="Medidas de control")
             p Da una lista de ropa protectora, guantes y equipo protector respiratorio. Si el material debe ser manipulado en una capilla o extractor de laboratorio o con ventilación extra, todas estas recomendaciones vienen dadas en esta sección.
 
-          .row(numero="1" titulo="Primeros auxilios")
+          .row(numero="6" titulo="Primeros auxilios")
             p Describe los procedimientos de emergencia para primeros auxilios. Debe asegurarse que pueda llevar a cabo los primeros auxilios en forma apropiada, de lo contrario, permite que una persona capacitada pueda proveer la ayuda necesaria. Mientras tanto, puede llamar a la ambulancia si es necesario (p.14).  
 
       .col-lg-5
@@ -666,7 +666,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .cajon.color-gris.p-4
         .row.justify-content-center.align-items-center
-          .col-6.col-lg-2
+          .col-6.col-lg-2.mb-4.mb-lg-0
             figure
               img(src='@/assets/curso/temas/tema1/img39.svg', alt='alt')(style="width:85%")
 
@@ -691,7 +691,7 @@
       .col-lg-11
         .tarjeta-gris2.p-4.p-lg-0.px-lg-4
           .row.justify-content-center.align-items-center
-            .col-lg-2
+            .col-lg-2.mb-4.mb-lg-0
               figure
                 img(src='@/assets/curso/temas/tema1/img41.svg', alt='alt').img41-tm1
 
@@ -705,7 +705,7 @@
       p Toda sustancia química y/o residuo peligroso deben ser manipulados con especial cuidado, sin subestimar la peligrosidad tanto de la sustancia o el residuo como de la actividad misma. Es indispensable conocer sus características, así como las normas de seguridad y protección ambiental para su almacenamiento y transporte. 
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-5
+      .col-lg-5.mb-4
         figure
           img(src='@/assets/curso/temas/tema1/img42.svg', alt='alt')
 
@@ -731,20 +731,20 @@
         p Este documento debe permanecer en la entrada del lugar donde se van a almacenar las sustancias químicas y para poder leerla adecuadamente se debe seguir los siguientes lineamientos:
 
       .row.justify-content-center.align-items-center.mb-5
-        .col-lg-4
+        .col-7.col-lg-4.mb-4
           figure
             img(src='@/assets/curso/temas/tema1/img44.svg', alt='alt')
 
         .col-lg-8
           .row
-            .col-5.col-lg-1
+            .col-3.col-lg-1
               figure.mb-3
                 img(src='@/assets/curso/temas/tema1/img45.svg', alt='alt')
             .col-lg-11
               p La matriz se usa cruzando las diferentes clases de riesgo identificadas.      
 
             .l-p.mb-3
-            .col-5.col-lg-1
+            .col-3.col-lg-1
               figure.mb-3
                 img(src='@/assets/curso/temas/tema1/img46.svg', alt='alt')
             .col-lg-11
@@ -762,21 +762,21 @@
                   p.mb-0 #[b Rojo:] se requiere almacenar por separado, son incompatibles.          
 
             .l-p.mb-3
-            .col-5.col-lg-1
+            .col-3.col-lg-1
               figure.mb-3
                 img(src='@/assets/curso/temas/tema1/img47.svg', alt='alt')
             .col-lg-11
               p Algunas cuentan con números dentro de las casillas de colores que implican consideraciones especiales.     
 
             .l-p.mb-3
-            .col-5.col-lg-1
+            .col-3.col-lg-1
               figure.mb-3
                 img(src='@/assets/curso/temas/tema1/img48.svg', alt='alt')
             .col-lg-11
               p El fundamento de las matrices de compatibilidad es la misma para toda organización; sin embargo, es relevante mencionar que no se encuentra estandarizada a nivel nacional, así que podrá encontrar matrices que tienen en cuenta los dos tipos de clasificación o matrices que solo contemplan la clasificación para transporte bajo el Decreto 1609 de 2002.    
 
             .l-p.mb-3
-            .col-5.col-lg-1
+            .col-3.col-lg-1
               figure.mb-3
                 img(src='@/assets/curso/temas/tema1/img49.svg', alt='alt')
             .col-lg-11.mb-5
@@ -824,7 +824,7 @@
       .col-lg-10
         PasosA.color-primario.mb-5(tipo="n")
           .row.justify-content-center.align-items-center
-            .col-md-2.mb-4.mb-md-0
+            .col-8.col-md-2.mb-4.mb-md-0
               figure
                 img(src='@/assets/curso/temas/tema1/img53.svg', alt='alt')(style="width:80%")
 
@@ -836,12 +836,12 @@
             .col-md-10.mb-4.mb-md-0
               h4.texto-izq Disponer de su ficha de datos de seguridad (FDS) u hoja de seguridad
               p.texto-izq Cuando se manipule productos químicos en el ambiente laboral se debe contar con las MSDS de dichos productos. 
-            .col-md-2
+            .col-8.col-md-2
               figure
                 img(src='@/assets/curso/temas/tema1/img54.svg', alt='alt')(style="width:80%")
               
           .row.justify-content-center.align-items-center
-            .col-md-2.mb-4.mb-md-0
+            .col-8.col-md-2.mb-4.mb-md-0
               figure
                 img(src='@/assets/curso/temas/tema1/img55.svg', alt='alt')(style="width:80%")
 
@@ -854,12 +854,12 @@
               h4.texto-izq Tener un registro actualizado
               p.texto-izq Llevar un registro actualizado de la recepción de los productos que permita evitar su envejecimiento y posible descomposición.
 
-            .col-md-2
+            .col-8.col-md-2
               figure
                 img(src='@/assets/curso/temas/tema1/img56.svg', alt='alt')(style="width:80%")
 
           .row.justify-content-center.align-items-center
-            .col-md-2.mb-4.mb-md-0
+            .col-8.col-md-2.mb-4.mb-md-0
               figure
                 img(src='@/assets/curso/temas/tema1/img57.svg', alt='alt')(style="width:80%")
 
@@ -875,7 +875,7 @@
 
 
           .row.justify-content-center.align-items-center
-            .col-md-2.mb-4.mb-md-0
+            .col-8.col-md-2.mb-4.mb-md-0
               figure
                 img(src='@/assets/curso/temas/tema1/img58.svg', alt='alt')(style="width:80%")
 
@@ -887,12 +887,12 @@
             .col-md-10.mb-4.mb-md-0
               h4.texto-izq Disponer de una buena ventilación en las zonas de almacenamiento
               p.texto-izq Realizarlo especialmente donde se manipulen sustancias tóxicas o inflamables es fundamental. Además de la protección de los trabajadores frente a estas atmósferas peligrosas, la ausencia de vapores inflamables es una medida básica para evitar incendios y explosiones.
-            .col-md-2
+            .col-8.col-md-2
               figure
                 img(src='@/assets/curso/temas/tema1/img59.svg', alt='alt')(style="width:80%")
 
           .row.justify-content-center.align-items-center
-            .col-md-2.mb-4.mb-md-0
+            .col-8.col-md-2.mb-4.mb-md-0
               figure
                 img(src='@/assets/curso/temas/tema1/img60.svg', alt='alt')(style="width:80%")
 
@@ -904,12 +904,12 @@
             .col-md-10.mb-4.mb-md-0
               h4.texto-izq Prever los cambios bruscos de temperatura
               p.texto-izq Existen productos como los aceites o las pinturas a los que les afectan las temperaturas extremas, alterando su viscosidad para procesos posteriores o incluso su calidad. En estos casos se debe prever un almacenamiento a temperatura controlada (almacenes o contenedores aislados, cámaras de calentamiento, mantas calefactoras), que además son eficientes energéticamente.
-            .col-md-2
+            .col-8.col-md-2
               figure
                 img(src='@/assets/curso/temas/tema1/img61.svg', alt='alt')(style="width:80%")
 
           .row.justify-content-center.align-items-center
-            .col-md-2.mb-4.mb-md-0
+            .col-8.col-md-2.mb-4.mb-md-0
               figure
                 img(src='@/assets/curso/temas/tema1/img62.svg', alt='alt')(style="width:80%")
 
@@ -922,15 +922,15 @@
       h3.texto-derecha3.mb-4 Unidad de almacenamiento
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-5
+      .col-lg-5.mb-4
         figure
           img(src='@/assets/curso/temas/tema1/img63.svg', alt='alt')
 
       .col-lg-7
         .cajon.color-gris.p-4
-          p El Consejo Colombiano de Seguridad (CCS) y el entonces Ministerio de Ambiente, Vivienda y Desarrollo Territorial (MAVDT) (s.f.) generaron las Guías ambientales de almacenamiento y transporte por carretera de sustancias químicas peligrosas y residuos peligrosos; aunque fue a gran escala, sus consideraciones son pertinentes para tener en cuenta en el momento del almacenamiento, destacando:
+          p.mb-0 El Consejo Colombiano de Seguridad (CCS) y el entonces Ministerio de Ambiente, Vivienda y Desarrollo Territorial (MAVDT) (s.f.) generaron las Guías ambientales de almacenamiento y transporte por carretera de sustancias químicas peligrosas y residuos peligrosos; aunque fue a gran escala, sus consideraciones son pertinentes para tener en cuenta en el momento del almacenamiento, destacando:
 
-    .tarjeta.tarjeta--gris.p-5
+    .tarjeta.tarjeta--gris.p-5.mb-5
       SlyderA(tipo="b")
         .row.justify-content-center.align-items-center
           .col-md-6.mb-4.mb-md-0
@@ -942,7 +942,7 @@
               img(src='@/assets/curso/temas/tema1/img64.svg', alt='alt')
 
         .row.justify-content-center.align-items-center
-          .col-md-6
+          .col-md-6.mb-4
             figure
               img(src='@/assets/curso/temas/tema1/img65.svg', alt='alt')
 
@@ -962,7 +962,7 @@
               img(src='@/assets/curso/temas/tema1/img66.svg', alt='alt')
 
         .row.justify-content-center.align-items-center
-          .col-md-6
+          .col-md-6.mb-4
             figure
               img(src='@/assets/curso/temas/tema1/img67.svg', alt='alt')
 
@@ -980,7 +980,7 @@
               img(src='@/assets/curso/temas/tema1/img68.svg', alt='alt')
 
         .row.justify-content-center.align-items-center
-          .col-md-6
+          .col-md-6.mb-4
             figure
               img(src='@/assets/curso/temas/tema1/img69.svg', alt='alt')
 
@@ -998,7 +998,7 @@
               img(src='@/assets/curso/temas/tema1/img70.svg', alt='alt')
 
         .row.justify-content-center.align-items-center
-          .col-md-6
+          .col-md-6.mb-4
             figure
               img(src='@/assets/curso/temas/tema1/img71.svg', alt='alt')
 
@@ -1016,7 +1016,7 @@
               img(src='@/assets/curso/temas/tema1/img70.svg', alt='alt')
 
         .row.justify-content-center.align-items-center
-          .col-md-6
+          .col-md-6.mb-4
             figure
               img(src='@/assets/curso/temas/tema1/img71.svg', alt='alt')
 
@@ -1036,7 +1036,7 @@
                   h4.texto-blanco Guías ambientales de almacenamiento y transporte 
                   p.texto-blanco Para visualizar las características adicionales, se invita a consultar las “Guías ambientales de almacenamiento y transporte por carretera de sustancias químicas peligrosas y residuos peligrosos”. Recuerde que también se encuentra en los materiales complementarios.
                 .col-sm-auto
-                  a.boton.color-primario(href="https://www.youtube.com/embed/JBu6RQ1QMD0" target="_blank")
+                  a.boton.color-primario(href="https://www.minambiente.gov.co/wp-content/uploads/2021/10/guias_ambientales_almacenam_transp_x_carretera_sust_quimicas_res_pelig.pdf" target="_blank")
                     span.texto-negro Ir a página
                     i.fas.fa-link.texto-negro
 

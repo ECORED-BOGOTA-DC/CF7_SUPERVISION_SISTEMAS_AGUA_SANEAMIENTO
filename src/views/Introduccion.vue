@@ -10,7 +10,7 @@
       h1 Introducción
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-8.col-lg-4
+      .col-10.col-lg-4.mb-4.mb-lg-0
         figure
           img(src='@/assets/curso/temas/introduccion/img1.svg', alt='alt')  
       
