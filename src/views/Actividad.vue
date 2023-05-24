@@ -10,8 +10,10 @@
             img(src="@/assets/template/falso-verdadero.svg", alt="Texto que describa la imagen")
       .col-12.col-md-8.col-lg-9
         .titulo-segundo
-          h2 Nombre de la actividad
-        p.mb-4 #[b Objetivo] 
+          h2 Procedimientos de la potabilización del agua
+        p.mb-4 Reconocer los procesos en la potabilización de agua, teniendo en cuenta los usos convencionales, con el fin de interpretar su viabilidad en el consumo humano.
+
+        p Lea la afirmación de cada ítem y luego señale verdadero o falso según corresponda.
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            
             .col-sm.mb-3.mb-sm-0
