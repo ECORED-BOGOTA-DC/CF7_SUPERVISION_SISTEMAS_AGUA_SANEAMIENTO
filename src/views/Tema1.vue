@@ -793,7 +793,8 @@
       .col-lg-11
         .titulo-sexto.color-secundario.mb-5
           h5 Tabla 2.
-          span Ejemplo de correlación en la matriz
+          br
+          i Ejemplo de correlación en la matriz
 
         figure
           img(src='@/assets/curso/temas/tema1/img50.svg', alt='alt')
@@ -807,7 +808,8 @@
       .col-lg-12
         .titulo-sexto.color-secundario.mb-5
           h5 Tabla 3.
-          span Ejemplo de correlación incompatibles en la matriz
+          br
+          i Ejemplo de correlación incompatibles en la matriz
 
         figure
           img(src='@/assets/curso/temas/tema1/img51.svg', alt='alt')
