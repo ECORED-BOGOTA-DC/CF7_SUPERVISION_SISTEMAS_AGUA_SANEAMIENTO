@@ -3,7 +3,7 @@ export default {
     componenteFormativo: 'Manejo de insumos químicos',
     descripcionCurso:
       'La potabilización de agua es indispensable al momento de consumo, pero su inadecuada utilización puede causar problemas en el ser humano, debido a los diferentes factores físicos, químicos y microbiológicos presentes en este proceso. ',
-    imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
+    imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
       {
