@@ -324,6 +324,10 @@
               i.fas.fa-check-circle
               p.mb-0 <b>Planeación y organización:</b> protocolos y procedimientos, equipo de respuesta con funciones y responsabilidades.
 
+            li
+              i.fas.fa-check-circle
+              p.mb-0 <b>Inventario de recursos:</b> Mantener actualizado los recursos físicos y humanos.
+
       
     .row.align-items-center.mt-5
       h4.bg2-tema2-v1.text-white.mt-2.p-3 Componente de ejecución
@@ -372,19 +376,79 @@
         LineaTiempoD.color-acento-contenido
           .row(numero="1" titulo="Evento: Derrame de sustancias peligrosas")
             .col-md-12.mb-4.mb-md-0
-              p.text-small This is another paragraph. I think it needs to be added that the set of elements tested is not exhaustive in any sense. I have selected those elements for which it can make sense to write user style sheet rules, in my opionion.
+              ul.lista-ul--color.lista-ul--separador.fa-ul2.text-small
+                li
+                  i.fas.fa-check-circle
+                  | Ventilar el área y evacuar a las personas.
+                li
+                  i.fas.fa-check-circle
+                  | Solicitar apoyo de la brigada de emergencias.
+                li
+                  i.fas.fa-check-circle
+                  | Consultar la Ficha de Datos de Seguridad del producto.
+                li
+                  i.fas.fa-check-circle
+                  | Usar los elementos de protección personal (guantes, gafas, respirador).
+                li
+                  i.fas.fa-check-circle
+                  | No tocar ni caminar sobre el producto derramado.
+                li
+                  i.fas.fa-check-circle
+                  | Ubicar la fuente del derrame y el tipo de sustancia. En caso de que el derrame ocurre fuera del dique de contención, se debe determinar hasta dónde ha llegado la sustancia y confinar el área del derrame con diques de material absorbente, evitando que las sustancias lleguen a sifones, senderos peatonales, vías de evacuación o entren contacto con otro líquido.
+                li
+                  i.fas.fa-check-circle
+                  | Ubicarse dando la espalda a la dirección del viento para prevenir que posibles gases emanados le puedan afectar.
+                li
+                  i.fas.fa-check-circle
+                  | Hacer uso de los #[i kits] antiderrames para recoger el producto.
+                li
+                  i.fas.fa-check-circle
+                  | Depositar el material absorbente contaminado en bolsas rojas marcadas.
+                li
+                  i.fas.fa-check-circle
+                  | Asegúrese que nuevamente se dote completamente el #[i kits] antiderrame.
 
           .row(numero="2" titulo="Goteo o fugas de sustancias líquidas químicas")
             .col-md-12.mb-4.mb-md-0
-              p.text-small This is another paragraph. I think it needs to be added that the set of elements tested is not exhaustive in any sense. I have selected those elements for which it can make sense to write user style sheet rules, in my opionion.  
+              ul.lista-ul--color.lista-ul--separador.fa-ul2.text-small
+                li
+                  i.fas.fa-check-circle
+                  | Recoger, limpiar y secar la sustancia con materiales absorbentes (kits antiderrames).
+                li
+                  i.fas.fa-check-circle
+                  | Depositar el material absorbente contaminado en bolsas rojas marcadas.
 
           .row(numero="3" titulo="Incendio en la unidad de almacenamiento")
             .col-md-12.mb-4.mb-md-0
-              p.text-small This is another paragraph. I think it needs to be added that the set of elements tested is not exhaustive in any sense. I have selected those elements for which it can make sense to write user style sheet rules, in my opionion. 
+              ul.lista-ul--color.lista-ul--separador.fa-ul2.text-small
+                li
+                  i.fas.fa-check-circle
+                  | Mantener la calma y suspender las actividades.
+                li
+                  i.fas.fa-check-circle
+                  | Dar aviso de inmediato al personal de seguridad y brigada de emergencia.
+                li
+                  i.fas.fa-check-circle
+                  | Suspender el suministro de energía.
+                li
+                  i.fas.fa-check-circle
+                  | Evacuar el área de personas, a un lugar cercano en el que no corran riesgos.
+                li
+                  i.fas.fa-check-circle
+                  | Ubicar la fuente u origen del incendio.
+                li
+                  i.fas.fa-check-circle
+                  | Si se trata de un conato de incendio y está capacitado, tratar de controlar con los extintores que se encuentran dispuestos en el área.
+                li
+                  i.fas.fa-check-circle
+                  | Aislamiento: control del material combustible, sustancias peligrosas, cierre de suministros de combustible.
+                li
+                  i.fas.fa-check-circle
+                  | Si no se logra controlar el conato solicitar apoyo externo (bomberos) y emitir alertas de evacuación a las áreas más cercanas.
 
           .row(numero="4" titulo="Lesiones con agujas o elementos corto punzantes")
             .col-md-12.mb-4.mb-md-0
-              p.text-small Medidas de contingencia sugeridas:
+              p Medidas de contingencia sugeridas:
 
               ul.lista-ul--color.lista-ul--separador.fa-ul2.text-small
                 li

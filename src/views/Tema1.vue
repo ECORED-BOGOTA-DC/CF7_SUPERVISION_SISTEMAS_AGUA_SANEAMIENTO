@@ -16,10 +16,10 @@
           img(src='@/assets/curso/temas/tema1/img1.svg', alt='alt') 
 
       .col-lg-7
-        p La efectividad de cada insumo químico se ve afectada por diferentes factores entre los que se encuentran el modo de uso y las condiciones de almacenamiento.
+        p La efectividad de cada insumo químico se ve afectada por diferentes factores, entre los que se encuentran el modo de uso y las condiciones de almacenamiento.
 
         .cajon.color-gris.p-3
-          p Teniendo el personal calificado los insumos se van a aplicar de forma correcta, entonces para mantener la efectividad se deben establecer estrategias y actividades enfocadas en el correcto almacenamiento de cada insumo y en general a la operación adecuada de toda la unidad de almacenamiento.
+          p Teniendo el personal calificado, los insumos se van a aplicar de forma correcta, entonces para mantener la efectividad se deben establecer estrategias y actividades enfocadas en el correcto almacenamiento de cada insumo y en general a la operación adecuada de toda la unidad de almacenamiento.
 
     separador
     #t_1_1.titulo-segundo.color-acento-contenido
@@ -50,7 +50,7 @@
       .tarjeta-avatar-b.mb-5
         .tarjeta-avatar-b__img
           img(src='@/assets/curso/temas/tema1/img4.svg' alt='AvatarTop').img_4_5_6-tema1
-        .tarjeta.tarjeta--gris
+        .tarjeta.bg-gris
           .p-3
             h4 Coagulantes
             p Neutralizan la carga de los coloides generalmente electronegativos, presentes en el agua, formando un precipitado. Los coagulantes tradicionales son las sales de aluminio y de hierro.
@@ -58,7 +58,7 @@
       .tarjeta-avatar-b.mb-5
         .tarjeta-avatar-b__img
           img(src='@/assets/curso/temas/tema1/img5.svg' alt='AvatarTop').img_4_5_6-tema1
-        .tarjeta.tarjeta--gris
+        .tarjeta.bg-gris2
           .p-3
             h4 Floculantes
             p Son sustancias químicas que aglutina sólidos en suspensión en el agua, provocando su precipitación, con lo que se la aclara, se eliminan turbiedades y minerales no recomendables para el consumo humano, como por ejemplo el hierro, que da al agua un sabor desagradable característico y un aspecto rojizo. Un floculante muy común es el alumbre, un grupo de compuestos químicos formado por dos sales combinadas en proporciones definidas: sulfato de aluminio y sulfato de amonio
@@ -66,7 +66,7 @@
       .tarjeta-avatar-b.mb-5
         .tarjeta-avatar-b__img
           img(src='@/assets/curso/temas/tema1/img6.svg' alt='AvatarTop').img_4_5_6-tema1
-        .tarjeta.tarjeta--gris
+        .tarjeta.bg-gris
           .p-3
             h4 Desinfectantes
             p Que se añaden al final del proceso, son biocidas que sirven para eliminar los agentes patógenos (bacterias, etc.) que pudiera haber presentes en el agua. En cuanto a los desinfectantes, el más utilizado es el cloro, pero también es usado el bromo y el yodo.
@@ -78,7 +78,6 @@
       .py-3.py-md-4(titulo="Mecanismos de coagulación")
         .row.justify-content-center.align-items-center
           .col-md-8.mb-4.mb-md-0
-            h4 Mecanismos de coagulación
             p Las características del agua cruda determinan el mecanismo de coagulación que se debe utilizar, dentro de los cuales se puede encontrar según el RAS (2017): 
 
             ul.lista-ul--color.fa-ul2.ps-3
@@ -101,20 +100,19 @@
       .py-3.py-md-4(titulo="Mecanismos de floculación")
         .row.justify-content-center.align-items-center
           .col-md-8.mb-4.mb-md-0
-            h4 Mecanismos de floculación
 
             p La Floculación es un proceso de aglutinación de partículas inducida por una agitación lenta de la suspensión coagulada. De acuerdo con el Ministerio de Vivienda, en su documento RAS (2017), en el proceso de floculación pueden emplearse: 
 
             ul.lista-ul--color.fa-ul2.ps-3
               li
                 i.fas.fa-check-circle.color-vineta2
-                P Floculadores hidráulicos: utilizan el cambio de dirección de flujo del agua, inducido por diferentes mecanismos para producir la turbulencia necesaria para promover la formación del floc y derivan su energía de la carga de velocidad que el líquido adquiere en su tránsito por un conducto (p.80). 
+                P #[b Floculadores hidráulicos:] utilizan el cambio de dirección de flujo del agua, inducido por diferentes mecanismos para producir la turbulencia necesaria para promover la formación del floc y derivan su energía de la carga de velocidad que el líquido adquiere en su tránsito por un conducto (p.80). 
               li
                 i.fas.fa-check-circle.color-vineta2
-                P Floculadores mecánicos: son aquellos que requieren de un equipo electromecánico para mover un agitador de paletas o álabes (p.81).
+                P #[b Floculadores mecánicos:] son aquellos que requieren de un equipo electromecánico para mover un agitador de paletas o álabes (p.81).
               li
                 i.fas.fa-check-circle.color-vineta2
-                P Floculadores hidromecánicos: utilizan la energía hidráulica a la entrada del floculador para mover una turbina de impulso similar a la rueda o turbina Pelton, la cual puede girar con baja cabeza hidráulica. 
+                P #[b Floculadores hidromecánicos:] utilizan la energía hidráulica a la entrada del floculador para mover una turbina de impulso similar a la rueda o turbina Pelton, la cual puede girar con baja cabeza hidráulica. 
         
           .col-10.col-md-4
             figure
@@ -123,8 +121,6 @@
       .py-3.py-md-4(titulo="Mecanismos de desinfección")
         .row.justify-content-center.align-items-center
           .col-md-8.mb-4.mb-md-0
-            h4 Mecanismos de desinfección
-
             p La desinfección es un proceso físico o químico que permite la eliminación o destrucción de los organismos patógenos presentes en el agua, luego se reconoce al desinfectante como la sustancia que tiene el poder de destruir microorganismos patógenos. De acuerdo con el Ministerio de vivienda (MINVIVIENDA), en su documento RAS (2017): 
 
             ul.lista-ul--color.fa-ul2.ps-3
@@ -219,13 +215,16 @@
             figure
               img(src='@/assets/curso/temas/tema1/img14.svg', alt='alt')
           .col-lg-7
-            p De acuerdo con #[b la Sociedad Americana de Química (2002)], en su libro seguridad en los laboratorios químicos académicos: hay millones de sustancias químicas individuales y cada una de éstas tiene sus propias características de peligrosidad. Si se intenta prevenir accidentes cuando se trabaja con químicos en el laboratorio, se necesita conocer las características de peligrosidad de las sustancias químicas con las cuales se trabajará.
+            p De acuerdo con #[b la Sociedad Americana de Química (2002)], en su libro seguridad en los laboratorios químicos académicos: hay millones de sustancias químicas individuales y cada una de éstás tiene sus propias características de peligrosidad. Si se intenta prevenir accidentes cuando se trabaja con químicos en el laboratorio, se necesita conocer las características de peligrosidad de las sustancias químicas con las cuales se trabajará.
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10
         figure
           .video
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/11111111" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/GpslExHSYso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+
+    .row.justify-content-center.align-items-center.mb-4
+      p Por lo cual se hace relevante aclarar dos definiciones claves:
 
     .tarjeta--container.row.mb-5
       .col-md.tarjeta.tarjeta-azul1.p-5
@@ -245,11 +244,14 @@
         h2.text-center Productos químicos peligrosos
         p.text-center Materiales perjudiciales que, durante la fabricación, manejo, transporte, almacenamiento o uso, pueden generar o desprender polvos, humos, gases, líquidos, vapores o fibras infecciosas, irritantes, inflamables, explosivos, corrosivos, asfixiantes, tóxicos o de otra naturaleza peligrosa, o radiaciones ionizantes en cantidades que puedan afectar la salud de las personas que entran en contacto con éstas, o que causen daño material (Decreto 1609 de 2002).
 
+    .row.justify-content-center.align-items-center.mb-5
+      p Teniendo esto claro se podría mencionar dos formas de clasificar las sustancias, la primera es:
+
     .row.bg3-tema1.align-items-center.p-3.mb-5
       h4.mb-0.texto-derecha Clasificación según su peligrosidad
 
     .row.mb-5
-      p Este tipo de clasificación fue dada por el Sistema Globalmente Armonizado (SGA) adoptado para el Decreto 1496 del 2018 para Colombia.
+      p Este tipo de clasificación fue dada por el Sistema Globalmente Armonizado (SGA) adoptado para el Decreto 1496 del 2018 para Colombia. Al respecto es importante conocer la respuesta a los siguientes interrogantes: 
 
     .row.justify-content-center.align-items-center.mb-5
       .col-10.col-lg-6.mb-4
@@ -291,7 +293,7 @@
         p No, el uso de los pictogramas y esta clasificación no es excluyente, por el contrario, su objetivo es informar todos los peligros asociados a una sustancia química y estas pueden clasificar en diferentes tipos de peligros.
 
         h5 ¿Cómo se clasificarían las sustancias bajo el SGA?
-        p De acuerdo con lo que se explicó anteriormente este sistema busca comunicar los peligros, luego las sustancias químicas podrían clasificarse por medio de los riesgos que generan en cuanto a su manipulación, almacenamiento o transporte. 
+        p De acuerdo con lo que se explicó anteriormente, este sistema busca comunicar los peligros, luego las sustancias químicas podrían clasificarse por medio de los riesgos que generan en cuanto a su manipulación, almacenamiento o transporte. 
 
       .col-10.col-lg-4
         figure
@@ -456,6 +458,9 @@
       h4.mb-0.texto-derecha2 Clasificación según las condiciones especiales para el transporte
 
     .row.justify-content-center.align-items-center.mb-5
+      p Otra de las clasificaciones que son importantes tener en cuenta es la que brinda el Decreto 1609 de 2002 del Ministerio de transporte por el cual se reglamenta el manejo y transporte terrestre automotor de mercancías peligrosas por carretera.
+
+    .row.justify-content-center.align-items-center.mb-5
       .col-lg-8
         figure
           img(src='@/assets/curso/temas/tema1/img20.svg', alt='alt')      
@@ -467,7 +472,7 @@
       .col-lg-10
         figure.mb-lg-5
           .video
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/11111111" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/LXokG0nADXM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
 
     .row.justify-content-center.align-items-center.mb-5
@@ -591,7 +596,7 @@
       .col-lg-8
         p Son instrumentos documentales que permiten comunicar los peligros que ofrecen los productos químicos, tanto para las personas, como para las instalaciones y el ambiente; además de ello, brinda o informa sobre las precauciones requeridas y las medidas que se pueden seguir en caso de emergencia.
 
-        p Internacionalmente se conoce como Material Safety Data Sheet por sus siglas en inglés MSDS, aunque es relevante mencionar que el contenido de las hojas de seguridad es igual en cualquier país, incluyendo a Colombia. 
+        p Internacionalmente, se conoce como #[i Material Safety Data Sheet] por sus siglas en inglés MSDS, aunque es relevante mencionar que el contenido de las hojas de seguridad es igual en cualquier país, incluyendo a Colombia. 
 
         .cajon.color-gris.p-4.mb-4
           p.mb-0 Estas hojas de seguridad las deben producir los fabricantes de cada producto químico o mezcla de sustancias químicas, en Colombia estas funciones y el uso de las hojas de seguridad se encuentra regulado por el Decreto 1609 de 2002, el cual direcciona el transporte de mercancías peligrosas en Colombia y la Norma Técnica Colombiana (NTC) 4435, la cual identifica las 16 secciones que debe contener las hojas de seguridad, referente a cuatro temas elementales:
@@ -644,7 +649,7 @@
           .row(numero="1" titulo="Número de registro CAS")
             p El Servicio de Chemical Abstracts (CAS) de la Sociedad Americana de Química (ACS) le asigna un número único a cada sustancia química conocida, descubierta o sintetizada, llamado el número de registro CAS.
 
-          .row(numero="2" titulo="Límite de Techo (Ceiling limit)")
+          .row(numero="2" titulo="Límite de Techo (<i>Ceiling limit</i>)")
             p Algunas sustancias químicas muy peligrosas se caracterizan por un límite de techo además de su límite permitido de exposición (PEL) y el valor límite del umbral (TLV). El límite de techo es una concentración en partes por millón (ppm) o miligramos por metro cúbico (mg/m3) que no deben ser excedidos en un período específico de tiempo, generalmente 15 minutos.
 
           .row(numero="3" titulo="Nombre químico")
@@ -716,10 +721,11 @@
           p.mb-0 Para cumplir con esa regla se debe estudiar a profundidad las fichas de seguridad de las sustancias y según las características propias de cada sustancia identificar cómo sería su correcto almacenamiento, guiándose a su vez de un instrumento que se le conoce como matriz de compatibilidad para productos químicos, la cual se observa a continuación: 
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-11
+      .col-lg-12
         .titulo-sexto.color-secundario.mb-5
           h5 Tabla 1.
-          span Ejemplo de Tabla de compatibilidad para almacenamiento de productos químicos
+          br
+          i Ejemplo de Tabla de compatibilidad para almacenamiento de productos químicos
 
         figure
           img(src='@/assets/curso/temas/tema1/img43.svg', alt='alt')
@@ -756,7 +762,7 @@
                   p.mb-0 #[b Verde:] cuando se pueden almacenar juntos, verificar reactividad individual utilizando las MSDS.  
                 li
                   i.fas.fa-check-circle.color-vineta2
-                  p.mb-0 #[b Amarillo:] precaución posibles restricciones. Revisar las incompatibilidades individuales utilizando las MSDS, pueden ser incompatibles o pueden requerirse condiciones específicas.  
+                  p.mb-0 #[b Amarillo:] precaución, posibles restricciones. Revisar las incompatibilidades individuales utilizando las MSDS, pueden ser incompatibles o pueden requerirse condiciones específicas.  
                 li
                   i.fas.fa-check-circle.color-vineta2
                   p.mb-0 #[b Rojo:] se requiere almacenar por separado, son incompatibles.          
@@ -780,7 +786,7 @@
               figure.mb-3
                 img(src='@/assets/curso/temas/tema1/img49.svg', alt='alt')
             .col-lg-11.mb-5
-              p La lectura de la matriz se hace cruzando la característica principal de cada sustancia: suponga que va a almacenar una sustancia #2 pero en el lugar de almacenamiento ya tiene una sustancia #1, luego lo que debe hacer es tomar la matriz, ubicar la clasificación de la sustancia #1 y #2 y ver qué color tienen el cuadro que cruza las dos sustancias. Observe el siguiente ejemplo:  
+              p La lectura de la matriz se hace cruzando la característica principal de cada sustancia: suponga que va a almacenar una sustancia #2, pero en el lugar de almacenamiento ya tiene una sustancia #1, luego lo que debe hacer es tomar la matriz, ubicar la clasificación de la sustancia #1 y #2 y ver qué color tienen el cuadro que cruza las dos sustancias. Observe el siguiente ejemplo:  
 
 
     .row.justify-content-center.align-items-center.mb-5
@@ -798,7 +804,7 @@
       p En este caso se podría deducir que es compatible y se pueden guardar o almacenar juntos; sin embargo, observe este otro ejemplo:
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-11
+      .col-lg-12
         .titulo-sexto.color-secundario.mb-5
           h5 Tabla 3.
           span Ejemplo de correlación incompatibles en la matriz
