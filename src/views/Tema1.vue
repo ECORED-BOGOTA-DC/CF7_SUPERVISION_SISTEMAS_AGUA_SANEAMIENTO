@@ -625,6 +625,12 @@
           figcaption.mt-3
             p.mb-0 #[b Fuente:] IDIGER (2014)
 
+        a.anexo.mb-4.mt-5(:href="obtenerLink('/downloads/anexo.pdf')" target="_blank")
+          .anexo__icono
+            img(src="@/assets/template/icono-pdf.svg")
+          .anexo__texto
+            p Anexo. Tabla de compatibilidad para almacenamiento de productos químicos
+
     .bg6-tema1
       .row.mb-5
         p Este documento debe permanecer en la entrada del lugar donde se van a almacenar las sustancias químicas y para poder leerla adecuadamente se debe seguir los siguientes lineamientos:
@@ -683,27 +689,27 @@
 
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-11
+      .col-lg-10
         .titulo-sexto.color-secundario.mb-5
           h5 Tabla 2 <i style="font-weight: 400;">Ejemplo de correlación en la matriz</i>
 
         figure
           img(src='@/assets/curso/temas/tema1/img50.svg', alt='alt')
           figcaption.mt-3
-            p.mb-0 #[b Fuente:] IDIGER (2014)      
+            p.mb-0 #[b Fuente:] Universidad Autónoma de Occidente (2011) 
 
     .row.mb-5
       p En este caso se podría deducir que es compatible y se pueden guardar o almacenar juntos; sin embargo, observe este otro ejemplo:
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-12
+      .col-lg-10
         .titulo-sexto.color-secundario.mb-5
           h5 Tabla 3 <i style="font-weight: 400;">Ejemplo de correlación incompatibles en la matriz</i>
 
         figure
           img(src='@/assets/curso/temas/tema1/img51.svg', alt='alt')
           figcaption.mt-3
-            p.mb-0 #[b Fuente:] IDIGER (2014) 
+            p.mb-0 #[b Fuente:] Universidad Autónoma de Occidente (2011)
 
     separador
     #t_1_2.titulo-segundo.color-acento-contenido
