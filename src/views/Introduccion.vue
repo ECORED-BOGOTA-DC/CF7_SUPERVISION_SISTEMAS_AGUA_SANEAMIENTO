@@ -12,7 +12,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-10.col-lg-4.mb-4.mb-lg-0
         figure
-          img(src='@/assets/curso/temas/introduccion/img1.svg', alt='alt')  
+          img(src='@/assets/curso/temas/introduccion/img1.svg', alt='Imágen decorativa')  
       
       .col-lg-8
         p Estimado aprendiz, bienvenido a este componente formativo denominado “Manejo de insumos químicos”, por medio del cual podrá conocer los diferentes procesos sobre la potabilización del agua, principalmente los que tienen que ver con el almacenamiento de insumos y la operación sobre las unidades de almacenamiento.

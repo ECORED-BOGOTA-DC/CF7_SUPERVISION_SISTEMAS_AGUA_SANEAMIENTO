@@ -13,7 +13,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-5.mb-3
         figure
-          img(src='@/assets/curso/temas/tema1/img1.svg', alt='alt') 
+          img(src='@/assets/curso/temas/tema1/img1.svg', alt='Imágen decorativa') 
 
       .col-lg-7
         p La efectividad de cada insumo químico se ve afectada por diferentes factores, entre los que se encuentran el modo de uso y las condiciones de almacenamiento.
@@ -27,7 +27,7 @@
 
     .row.justify-content-center.align-items-center.mb-5
       figure
-        img(src='@/assets/curso/temas/tema1/img2.png', alt='alt')
+        img(src='@/assets/curso/temas/tema1/img2.png', alt='Imágen decorativa')
 
       .col-11
         .tarjeta.tarjeta-gris.p-3 
@@ -41,7 +41,7 @@
 
       .col-lg-8
         figure
-          img(src='@/assets/curso/temas/tema1/img3.svg', alt='alt')
+          img(src='@/assets/curso/temas/tema1/img3.svg', alt='magen que explica el proceso de potabilización del agua, el cual tiene la siguiente secuencia: Consumo - Coagulante - Coagulación - Sedimentación - Polímero - Filtración - Desinfectante - Desinfección - Anticorrosión - Almacenamiento - Distribución')
 
     .row.justify-content-center.align-items-center.mb-5
       p De acuerdo con Borrás (2010), en su artículo sustancias para el tratamiento de aguas para el consumo humano, define: 
@@ -49,7 +49,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .tarjeta-avatar-b.mb-5
         .tarjeta-avatar-b__img
-          img(src='@/assets/curso/temas/tema1/img4.svg' alt='AvatarTop').img_4_5_6-tema1
+          img(src='@/assets/curso/temas/tema1/img4.svg' alt='Imágen decorativa').img_4_5_6-tema1
         .tarjeta.bg-gris
           .p-3
             h4 Coagulantes
@@ -57,7 +57,7 @@
       
       .tarjeta-avatar-b.mb-5
         .tarjeta-avatar-b__img
-          img(src='@/assets/curso/temas/tema1/img5.svg' alt='AvatarTop').img_4_5_6-tema1
+          img(src='@/assets/curso/temas/tema1/img5.svg' alt='Imágen decorativa').img_4_5_6-tema1
         .tarjeta.bg-gris2
           .p-3
             h4 Floculantes
@@ -65,7 +65,7 @@
 
       .tarjeta-avatar-b.mb-5
         .tarjeta-avatar-b__img
-          img(src='@/assets/curso/temas/tema1/img6.svg' alt='AvatarTop').img_4_5_6-tema1
+          img(src='@/assets/curso/temas/tema1/img6.svg' alt='Imágen decorativa').img_4_5_6-tema1
         .tarjeta.bg-gris
           .p-3
             h4 Desinfectantes
@@ -97,7 +97,7 @@
 
           .col-10.col-md-4
             figure
-              img(src='@/assets/curso/temas/tema1/img7.svg', alt='alt')
+              img(src='@/assets/curso/temas/tema1/img7.svg', alt='Imágen decorativa')
 
       .py-3.py-md-4(titulo="Mecanismos de floculación")
         .row.justify-content-center.align-items-center
@@ -118,7 +118,7 @@
         
           .col-10.col-md-4
             figure
-              img(src='@/assets/curso/temas/tema1/img8.svg', alt='alt')
+              img(src='@/assets/curso/temas/tema1/img8.svg', alt='Imágen decorativa')
 
       .py-3.py-md-4(titulo="Mecanismos de desinfección")
         .row.justify-content-center.align-items-center
@@ -136,7 +136,7 @@
         
           .col-10.col-md-4
             figure
-              img(src='@/assets/curso/temas/tema1/img9.svg', alt='alt')
+              img(src='@/assets/curso/temas/tema1/img9.svg', alt='Imágen decorativa')
 
 
     .row.justify-content-center.mb-4
@@ -144,7 +144,7 @@
         .tarjeta.bgDescarga.p-4
           .row.justify-content-around.align-items-center
             .col-3.col-sm-2.col-lg-1
-              img(src="@/assets/curso/temas/tema1/img10.svg")
+              img(src="@/assets/curso/temas/tema1/img10.svg", alt="Imágen decorativa")
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
@@ -160,7 +160,7 @@
         .tarjeta.bgDescarga.p-4
           .row.justify-content-around.align-items-center
             .col-3.col-sm-2.col-lg-1
-              img(src="@/assets/curso/temas/tema1/img11.svg")
+              img(src="@/assets/curso/temas/tema1/img11.svg", alt="Imágen decorativa")
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
@@ -180,7 +180,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-10.col-lg-5.mb-4
         figure
-          img(src='@/assets/curso/temas/tema1/img12.svg', alt='alt')
+          img(src='@/assets/curso/temas/tema1/img12.svg', alt='Imágen decorativa')
 
       .col-lg-7
         LineaTiempoD.color-acento-contenido
@@ -198,7 +198,7 @@
         .row 
           .col-lg-3
             figure
-              img(src='@/assets/curso/temas/tema1/img13.svg', alt='alt')
+              img(src='@/assets/curso/temas/tema1/img13.svg', alt='Imágen decorativa')
 
           .col-lg-9.mt-5
             p Siempre se aconseja hacer una revisión de la normatividad aplicable para la zona o región donde se va a hacer las actividades de potabilización.
@@ -215,7 +215,7 @@
         .row
           .col-lg-5
             figure
-              img(src='@/assets/curso/temas/tema1/img14.svg', alt='alt')
+              img(src='@/assets/curso/temas/tema1/img14.svg', alt='Imágen decorativa')
           .col-lg-7
             p De acuerdo con #[b la Sociedad Americana de Química (2002)], en su libro seguridad en los laboratorios químicos académicos: hay millones de sustancias químicas individuales y cada una de estás tiene sus propias características de peligrosidad. Si se intenta prevenir accidentes cuando se trabaja con químicos en el laboratorio, se necesita conocer las características de peligrosidad de las sustancias químicas con las cuales se trabajará.
 
@@ -236,7 +236,7 @@
             .row.justify-content-center.mb-4
               .col-4
                 figure
-                  img(src='@/assets/curso/temas/tema1/img74.svg', alt='Texto que describa la imagen')
+                  img(src='@/assets/curso/temas/tema1/img74.svg', alt="Imágen decorativa")
               
             h2.text-center Productos químicos
             p.text-center Todo tipo de material de naturaleza orgánica o inorgánica, que puede estar presente como elemento o compuesto puro, o como la mezcla o combinación de los anteriores
@@ -245,7 +245,7 @@
             .row.justify-content-center.mb-4
               .col-4
                 figure
-                  img(src='@/assets/curso/temas/tema1/img74.svg', alt='Texto que describa la imagen')
+                  img(src='@/assets/curso/temas/tema1/img74.svg', alt="Imágen decorativa")
               
             h2.text-center.clr-black Productos químicos peligrosos
             p.text-center.clr-black Materiales perjudiciales que, durante la fabricación, manejo, transporte, almacenamiento o uso, pueden generar o desprender polvos, humos, gases, líquidos, vapores o fibras infecciosas, irritantes, inflamables, explosivos, corrosivos, asfixiantes, tóxicos o de otra naturaleza peligrosa, o radiaciones ionizantes en cantidades que puedan afectar la salud de las personas que entran en contacto con éstas, o que causen daño material (Decreto 1609 de 2002).
@@ -260,7 +260,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-10.col-lg-6.mb-4
         figure
-          img(src='@/assets/curso/temas/tema1/img17.svg', alt='alt')
+          img(src='@/assets/curso/temas/tema1/img17.svg', alt='Imágen decorativa')
 
       .col-lg-6
         h5 ¿Qué es el SGA?
@@ -301,7 +301,7 @@
 
       .col-10.col-lg-4
         figure
-          img(src='@/assets/curso/temas/tema1/img18.svg', alt='alt')
+          img(src='@/assets/curso/temas/tema1/img18.svg', alt='Imágen decorativa')
 
     .row.justify-content-center.align-items-center.mb-5
       .cajon.color-gris.p-3
@@ -312,7 +312,7 @@
         ImagenInfografica.color-primario
           template(v-slot:imagen)
             figure
-              img(src='@/assets/curso/temas/tema1/img19.svg', alt='alt')
+              img(src='@/assets/curso/temas/tema1/img19.svg', alt='Pictogramas sobre la clasificación de sustancias SGA y sus peligros asociados.')
 
           .tarjta-negra.p-3(x="9.4%" y="95.4%" numero="+")
             .h5.texto-blanco.mb-2 Sustancias corrosivas
@@ -467,7 +467,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-8
         figure
-          img(src='@/assets/curso/temas/tema1/img20.svg', alt='alt')      
+          img(src='@/assets/curso/temas/tema1/img20.svg', alt='Pictogramas sobre la clasificación según las condiciones especiales para el transporte')      
 
 
     .row.justify-content-center.align-items-center.mb-5
@@ -486,7 +486,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-10.col-lg-4.mb-4
         figure
-          img(src='@/assets/curso/temas/tema1/img37.svg', alt='alt')
+          img(src='@/assets/curso/temas/tema1/img37.svg', alt='Imágen decorativa')
 
       .col-lg-8
         p Son instrumentos documentales que permiten comunicar los peligros que ofrecen los productos químicos, tanto para las personas, como para las instalaciones y el ambiente; además de ello, brinda o informa sobre las precauciones requeridas y las medidas que se pueden seguir en caso de emergencia.
@@ -534,7 +534,7 @@
         .row
           .col-lg-5
             figure
-              img(src='@/assets/curso/temas/tema1/img14.svg', alt='alt')
+              img(src='@/assets/curso/temas/tema1/img14.svg', alt='Imágen decorativa')
           .col-lg-7
             p De acuerdo con la Sociedad Americana de Química (2002), en su libro “Seguridad en los Laboratorios Químicos Académicos”, se brindan unas aclaraciones que pueden ser útiles al momento de interpretar las hojas de seguridad (en algunas hojas de seguridad en especial las que vienen de una empresa internacional):
 
@@ -561,14 +561,14 @@
 
       .col-lg-5
         figure
-          img(src='@/assets/curso/temas/tema1/img38.svg', alt='alt')        
+          img(src='@/assets/curso/temas/tema1/img38.svg', alt='Imágen decorativa')        
 
     .row.justify-content-center.align-items-center.mb-5
       .cajon.color-gris.p-4
         .row.justify-content-center.align-items-center
           .col-6.col-lg-2.mb-4.mb-lg-0
             figure
-              img(src='@/assets/curso/temas/tema1/img39.svg', alt='alt')(style="width:85%")
+              img(src='@/assets/curso/temas/tema1/img39.svg', alt='Imágen decorativa')(style="width:85%")
 
           .col-lg-10
             p.mb-0 La base normativa para las etiquetas de seguridad de los productos químicos también se da a través del Decreto 1496 de 2018, por el cual se adopta el Sistema Globalmente Armonizado de Clasificación y Etiquetado de Productos Químicos y se dictan otras disposiciones en materia de seguridad química. 
@@ -583,7 +583,7 @@
           span Ejemplo de etiqueta de producto químico
         
         figure
-          img(src='@/assets/curso/temas/tema1/img40.svg', alt='alt')
+          img(src='@/assets/curso/temas/tema1/img40.svg', alt='Imagen que contiene un ejemplo de etiqueta de un producto químico, mostrando lo relacionado a los siguientes aspectos: 1. Identificación del producto 2. Palabras de advertencia 3. Indicaciones de peligro 4. Pictogramas de peligro 5. Consejos de prudencia 6. Información del fabricante o importador 7. Información complementaria ')
           figcaption.mb-5
             p.mb-0 #[b Fuente:] MinInterior (2020, p. 4)
 
@@ -593,7 +593,7 @@
           .row.justify-content-center.align-items-center
             .col-lg-2.mb-4.mb-lg-0
               figure
-                img(src='@/assets/curso/temas/tema1/img41.svg', alt='alt').img41-tm1
+                img(src='@/assets/curso/temas/tema1/img41.svg', alt='Imágen decorativa').img41-tm1
 
             .col-lg-10
               p.mb-0 Se puede definir la etiqueta como: el conjunto de elementos de información escritos, impresos o gráficos relativos a un producto peligroso, elegidos en relación a su pertenencia para el sector que lo trate, que se adhieren o se imprimen en el recipiente que contiene el producto o en su embalaje exterior” (Naciones Unidas, 2015, p.6). 
@@ -607,7 +607,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-5.mb-4
         figure
-          img(src='@/assets/curso/temas/tema1/img42.svg', alt='alt')
+          img(src='@/assets/curso/temas/tema1/img42.svg', alt='Imágen decorativa')
 
       .col-lg-7
         p En las actividades de almacenamiento una regla básica es no almacenar juntas sustancias que sean incompatibles a fin de minimizar los riesgos de incendio, explosión o contaminación.
@@ -621,7 +621,7 @@
           h5 Tabla 1   <i style="font-weight: 400;">Ejemplo de Tabla de compatibilidad para almacenamiento de productos químicos</i>
 
         figure
-          img(src='@/assets/curso/temas/tema1/img43.svg', alt='alt')
+          img(src='@/assets/curso/temas/tema1/img43.svg', alt='Imagen que contiene un ejemplo de Tabla de compatibilidad para almacenamiento de productos químicos')
           figcaption.mt-3
             p.mb-0 #[b Fuente:] IDIGER (2014)
 
@@ -632,20 +632,20 @@
       .row.justify-content-center.align-items-center.mb-5
         .col-7.col-lg-4.mb-4
           figure
-            img(src='@/assets/curso/temas/tema1/img44.svg', alt='alt')
+            img(src='@/assets/curso/temas/tema1/img44.svg', alt='Imágen decorativa')
 
         .col-lg-8
           .row
             .col-3.col-lg-1
               figure.mb-3
-                img(src='@/assets/curso/temas/tema1/img45.svg', alt='alt')
+                img(src='@/assets/curso/temas/tema1/img45.svg', alt='Imágen decorativa')
             .col-lg-11
               p La matriz se usa cruzando las diferentes clases de riesgo identificadas.      
 
             .l-p.mb-3
             .col-3.col-lg-1
               figure.mb-3
-                img(src='@/assets/curso/temas/tema1/img46.svg', alt='alt')
+                img(src='@/assets/curso/temas/tema1/img46.svg', alt='Imágen decorativa')
             .col-lg-11
               p Puede contar con tres colores dentro de los cuadros de cruce (verde, amarillo y rojo). La lectura de esos colores es:
 
@@ -663,21 +663,21 @@
             .l-p.mb-3
             .col-3.col-lg-1
               figure.mb-3
-                img(src='@/assets/curso/temas/tema1/img47.svg', alt='alt')
+                img(src='@/assets/curso/temas/tema1/img47.svg', alt='Imágen decorativa')
             .col-lg-11
               p Algunas cuentan con números dentro de las casillas de colores que implican consideraciones especiales.     
 
             .l-p.mb-3
             .col-3.col-lg-1
               figure.mb-3
-                img(src='@/assets/curso/temas/tema1/img48.svg', alt='alt')
+                img(src='@/assets/curso/temas/tema1/img48.svg', alt='Imágen decorativa')
             .col-lg-11
               p El fundamento de las matrices de compatibilidad es la misma para toda organización; sin embargo, es relevante mencionar que no se encuentra estandarizada a nivel nacional, así que podrá encontrar matrices que tienen en cuenta los dos tipos de clasificación o matrices que solo contemplan la clasificación para transporte bajo el Decreto 1609 de 2002.    
 
             .l-p.mb-3
             .col-3.col-lg-1
               figure.mb-3
-                img(src='@/assets/curso/temas/tema1/img49.svg', alt='alt')
+                img(src='@/assets/curso/temas/tema1/img49.svg', alt='Imágen decorativa')
             .col-lg-11.mb-5
               p La lectura de la matriz se hace cruzando la característica principal de cada sustancia: suponga que va a almacenar una sustancia #2, pero en el lugar de almacenamiento ya tiene una sustancia #1, luego lo que debe hacer es tomar la matriz, ubicar la clasificación de la sustancia #1 y #2 y ver qué color tienen el cuadro que cruza las dos sustancias. Observe el siguiente ejemplo:  
 
@@ -688,7 +688,7 @@
           h5 Tabla 2 <i style="font-weight: 400;">Ejemplo de correlación en la matriz</i>
 
         figure
-          img(src='@/assets/curso/temas/tema1/img50.svg', alt='alt')
+          img(src='@/assets/curso/temas/tema1/img50.svg', alt='Imagen que contiene un ejemplo de ejemplo de correlación en la matriz')
           figcaption.mt-3
             p.mb-0 #[b Fuente:] IDIGER (2014)      
 
@@ -701,7 +701,7 @@
           h5 Tabla 3 <i style="font-weight: 400;">Ejemplo de correlación incompatibles en la matriz</i>
 
         figure
-          img(src='@/assets/curso/temas/tema1/img51.svg', alt='alt')
+          img(src='@/assets/curso/temas/tema1/img51.svg', alt='Imagen que contiene un ejemplo de correlación incompatibles en la matriz')
           figcaption.mt-3
             p.mb-0 #[b Fuente:] IDIGER (2014) 
 
@@ -711,7 +711,7 @@
 
     .row.justify-content-center.align-items-center.mb-5
       figure
-        img(src='@/assets/curso/temas/tema1/img52.png', alt='alt')
+        img(src='@/assets/curso/temas/tema1/img52.png', alt='Imágen decorativa')
 
       .col-11
         .tarjeta.tarjeta-gris.p-3 
@@ -723,7 +723,7 @@
           .row.justify-content-center.align-items-center
             .col-8.col-md-2.mb-4.mb-md-0
               figure
-                img(src='@/assets/curso/temas/tema1/img53.svg', alt='alt')(style="width:80%")
+                img(src='@/assets/curso/temas/tema1/img53.svg', alt='Imágen decorativa')(style="width:80%")
 
             .col-md-10
               h4 Comprobar que están adecuadamente etiquetados
@@ -735,12 +735,12 @@
               p.texto-izq Cuando se manipule productos químicos en el ambiente laboral se debe contar con las MSDS de dichos productos. 
             .col-8.col-md-2
               figure
-                img(src='@/assets/curso/temas/tema1/img54.svg', alt='alt')(style="width:80%")
+                img(src='@/assets/curso/temas/tema1/img54.svg', alt='Imágen decorativa')(style="width:80%")
               
           .row.justify-content-center.align-items-center
             .col-8.col-md-2.mb-4.mb-md-0
               figure
-                img(src='@/assets/curso/temas/tema1/img55.svg', alt='alt')(style="width:80%")
+                img(src='@/assets/curso/temas/tema1/img55.svg', alt='Imágen decorativa')(style="width:80%")
 
             .col-md-10
               h4 No guardar los productos químicos en recipientes abiertos
@@ -753,12 +753,12 @@
 
             .col-8.col-md-2
               figure
-                img(src='@/assets/curso/temas/tema1/img56.svg', alt='alt')(style="width:80%")
+                img(src='@/assets/curso/temas/tema1/img56.svg', alt='Imágen decorativa')(style="width:80%")
 
           .row.justify-content-center.align-items-center
             .col-8.col-md-2.mb-4.mb-md-0
               figure
-                img(src='@/assets/curso/temas/tema1/img57.svg', alt='alt')(style="width:80%")
+                img(src='@/assets/curso/temas/tema1/img57.svg', alt='Imágen decorativa')(style="width:80%")
 
             .col-md-10
               h4 Clasificar los productos por su peligro
@@ -774,7 +774,7 @@
           .row.justify-content-center.align-items-center
             .col-8.col-md-2.mb-4.mb-md-0
               figure
-                img(src='@/assets/curso/temas/tema1/img58.svg', alt='alt')(style="width:80%")
+                img(src='@/assets/curso/temas/tema1/img58.svg', alt='Imágen decorativa')(style="width:80%")
 
             .col-md-10
               h4 Limitar la cantidad de productos a almacenar
@@ -786,12 +786,12 @@
               p.texto-izq Realizarlo especialmente donde se manipulen sustancias tóxicas o inflamables es fundamental. Además de la protección de los trabajadores frente a estas atmósferas peligrosas, la ausencia de vapores inflamables es una medida básica para evitar incendios y explosiones.
             .col-8.col-md-2
               figure
-                img(src='@/assets/curso/temas/tema1/img59.svg', alt='alt')(style="width:80%")
+                img(src='@/assets/curso/temas/tema1/img59.svg', alt='Imágen decorativa')(style="width:80%")
 
           .row.justify-content-center.align-items-center
             .col-8.col-md-2.mb-4.mb-md-0
               figure
-                img(src='@/assets/curso/temas/tema1/img60.svg', alt='alt')(style="width:80%")
+                img(src='@/assets/curso/temas/tema1/img60.svg', alt='Imágen decorativa')(style="width:80%")
 
             .col-md-10
               h4 Realizar ordenamiento de sustancias
@@ -803,12 +803,12 @@
               p.texto-izq Existen productos como los aceites o las pinturas a los que les afectan las temperaturas extremas, alterando su viscosidad para procesos posteriores o incluso su calidad. En estos casos se debe prever un almacenamiento a temperatura controlada (almacenes o contenedores aislados, cámaras de calentamiento, mantas calefactoras), que además son eficientes energéticamente.
             .col-8.col-md-2
               figure
-                img(src='@/assets/curso/temas/tema1/img61.svg', alt='alt')(style="width:80%")
+                img(src='@/assets/curso/temas/tema1/img61.svg', alt='Imágen decorativa')(style="width:80%")
 
           .row.justify-content-center.align-items-center
             .col-8.col-md-2.mb-4.mb-md-0
               figure
-                img(src='@/assets/curso/temas/tema1/img62.svg', alt='alt')(style="width:80%")
+                img(src='@/assets/curso/temas/tema1/img62.svg', alt='Imágen decorativa')(style="width:80%")
 
             .col-md-10
               h3 Formar e informar sobre los peligros
@@ -821,7 +821,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-5.mb-4
         figure
-          img(src='@/assets/curso/temas/tema1/img63.svg', alt='alt')
+          img(src='@/assets/curso/temas/tema1/img63.svg', alt='Imágen decorativa')
 
       .col-lg-7
         .cajon.color-gris.p-4
@@ -836,12 +836,12 @@
 
           .col-md-6
             figure
-              img(src='@/assets/curso/temas/tema1/img64.svg', alt='alt')
+              img(src='@/assets/curso/temas/tema1/img64.svg', alt='Imágen decorativa')
 
         .row.justify-content-center.align-items-center
           .col-md-6.mb-4
             figure
-              img(src='@/assets/curso/temas/tema1/img65.svg', alt='alt')
+              img(src='@/assets/curso/temas/tema1/img65.svg', alt='Imágen decorativa')
 
           .col-md-6.mb-4.mb-md-0
             h4 Diseño
@@ -856,12 +856,12 @@
 
           .col-md-6
             figure
-              img(src='@/assets/curso/temas/tema1/img66.svg', alt='alt')
+              img(src='@/assets/curso/temas/tema1/img66.svg', alt='Imágen decorativa')
 
         .row.justify-content-center.align-items-center
           .col-md-6.mb-4
             figure
-              img(src='@/assets/curso/temas/tema1/img67.svg', alt='alt')
+              img(src='@/assets/curso/temas/tema1/img67.svg', alt='Imágen decorativa')
 
           .col-md-6.mb-4.mb-md-0
             h4 Piso
@@ -874,12 +874,12 @@
 
           .col-md-6
             figure
-              img(src='@/assets/curso/temas/tema1/img68.svg', alt='alt')
+              img(src='@/assets/curso/temas/tema1/img68.svg', alt='Imágen decorativa')
 
         .row.justify-content-center.align-items-center
           .col-md-6.mb-4
             figure
-              img(src='@/assets/curso/temas/tema1/img69.svg', alt='alt')
+              img(src='@/assets/curso/temas/tema1/img69.svg', alt='Imágen decorativa')
 
           .col-md-6.mb-4.mb-md-0
             h4 Ventilación
@@ -892,12 +892,12 @@
 
           .col-md-6
             figure
-              img(src='@/assets/curso/temas/tema1/img70.svg', alt='alt')
+              img(src='@/assets/curso/temas/tema1/img70.svg', alt='Imágen decorativa')
 
         .row.justify-content-center.align-items-center
           .col-md-6.mb-4
             figure
-              img(src='@/assets/curso/temas/tema1/img71.svg', alt='alt')
+              img(src='@/assets/curso/temas/tema1/img71.svg', alt='Imágen decorativa')
 
           .col-md-6.mb-4.mb-md-0
             h4 Protección contra relámpagos
@@ -910,12 +910,12 @@
 
           .col-md-6
             figure
-              img(src='@/assets/curso/temas/tema1/img70.svg', alt='alt')
+              img(src='@/assets/curso/temas/tema1/img70.svg', alt='Imágen decorativa')
 
         .row.justify-content-center.align-items-center
           .col-md-6.mb-4
             figure
-              img(src='@/assets/curso/temas/tema1/img71.svg', alt='alt')
+              img(src='@/assets/curso/temas/tema1/img71.svg', alt='Imágen decorativa')
 
           .col-md-6.mb-4.mb-md-0
             h4 Dispositivos de detección de fuego y sistemas de respuesta
@@ -926,7 +926,7 @@
         .tarjeta.bgDescarga.p-4
           .row.justify-content-around.align-items-center
             .col-3.col-sm-2.col-lg-1
-              img(src="@/assets/curso/temas/tema1/img10.svg")
+              img(src="@/assets/curso/temas/tema1/img10.svg", alt="Imágen decorativa")
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0

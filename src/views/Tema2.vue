@@ -9,7 +9,7 @@
 
     .row.justify-content-center.align-items-center   
       figure
-        img(src='@/assets/curso/temas/tema2/img1.png', alt='alt')
+        img(src='@/assets/curso/temas/tema2/img1.png', alt='Imágen decorativa')
 
     .row.justify-content-center.align-items-center
       .col-10.bg1-tema2
@@ -18,7 +18,7 @@
     .row.justify-content-center.align-items-center.mt-5
       .col-10.col-lg-4.mb-4
         figure
-          img(src='@/assets/curso/temas/tema2/img2.png', alt='alt')
+          img(src='@/assets/curso/temas/tema2/img2.png', alt='Imágen decorativa')
 
       .col-lg-8
         ul.lista-ul--color.lista-ul--separador.fa-ul2
@@ -82,7 +82,7 @@
 
       .col-10.col-lg-5
         figure
-          img(src='@/assets/curso/temas/tema2/img3.png', alt='alt')
+          img(src='@/assets/curso/temas/tema2/img3.png', alt='Imágen decorativa')
 
 
     separador
@@ -95,7 +95,7 @@
     .row.justify-content-center.align-items-center.mt-5
       .col-10.col-lg-4.mb-4
         figure
-          img(src='@/assets/curso/temas/tema2/img4.png', alt='alt')
+          img(src='@/assets/curso/temas/tema2/img4.png', alt='Imágen decorativa')
 
       .col-lg-8
         ul.lista-ul--color.lista-ul--separador.fa-ul2
@@ -151,7 +151,7 @@
 
       .col-10.col-lg-5
         figure
-          img(src='@/assets/curso/temas/tema2/img5.png', alt='alt')
+          img(src='@/assets/curso/temas/tema2/img5.png', alt='Imágen decorativa')
 
     separador
     #t_2_3.titulo-segundo.color-acento-contenido
@@ -162,7 +162,7 @@
         .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5
           .bloque-texto-g__img(
             :style="{'background-image': `url(${require('@/assets/curso/temas/tema2/img6.png')})`}"
-          )
+          )(alt="Imágen decorativa")
           .bloque-texto-g__texto.p-4
             p.mb-0 El manejo de sustancias químicas debe realizarse con todas las medidas de seguridad para el personal que se han indicado en laboratorio.
               br
@@ -206,7 +206,7 @@
 
       .col-10.col-lg-3
         figure
-          img(src='@/assets/curso/temas/tema2/img7.png', alt='alt')
+          img(src='@/assets/curso/temas/tema2/img7.png', alt='Imágen decorativa')
 
     separador
     #t_2_4.titulo-segundo.color-acento-contenido
@@ -217,7 +217,7 @@
     .row.justify-content-center.align-items-center   
       .col-lg-5.mb-4
         figure
-          img(src='@/assets/curso/temas/tema2/img8.png', alt='alt')
+          img(src='@/assets/curso/temas/tema2/img8.png', alt='Imágen decorativa')
 
       .col-lg-7
         p Todos los residuos incluyendo material de empaque, deberán ser manejados de una manera ambientalmente segura y responsable. Residuos potencialmente peligrosos incluyen productos obsoletos, productos fuera de especificación, material contaminado, residuos líquidos y material absorbente que ha sido utilizado para la limpieza de derrames. La disposición ambientalmente segura de estos residuos es a menudo difícil, lo que implica que en algunos casos se deba consultar a personal experto o a las autoridades ambientales. A menudo las hojas de seguridad, en la sección 13, pueden indicar la forma más adecuada de disposición de sustancias químicas (p.29).
@@ -230,7 +230,7 @@
     .row.justify-content-center.align-items-center   
       .col-10.col-lg-3
         figure
-          img(src='@/assets/curso/temas/tema2/img9.png', alt='alt')
+          img(src='@/assets/curso/temas/tema2/img9.png', alt='Imágen decorativa')
       .col-lg-9
         .cajon.color-tema2.p-4
           p.mb-0 Aquel residuo o desecho que, por sus características corrosivas, reactivas, explosivas, tóxicas, inflamables, infecciosas o radiactivas, puede causar riesgos, daños o efectos no deseados, directos e indirectos, a la salud humana y el ambiente. Así mismo, se considerará residuo peligroso los empaques, envases y embalajes que estuvieron en contacto con ellos.
@@ -242,7 +242,7 @@
     .row.justify-content-center.align-items-center   
       .col-10
         figure
-          img(src='@/assets/curso/temas/tema2/img10.svg', alt='alt')
+          img(src='@/assets/curso/temas/tema2/img10.svg', alt='Imágen decorativa')
 
     .row.justify-content-center.align-items-center.mt-3
       p El siguiente diagrama presenta las partes de un plan de gestión integral de residuos peligrosos:
@@ -252,7 +252,7 @@
         span Etapas del manejo integral de residuos
 
       figure
-        img(src='@/assets/curso/temas/tema2/img11.svg', alt='alt')  
+        img(src='@/assets/curso/temas/tema2/img11.svg', alt='Imagen que contiene un esquema sobre las etapas del manejo integral de residuos, el cual está compuesto por: Componente I. Prevención y  minimizació Apunta hacia prevención y minimización Diagnóstico: - Identificación de fuentes - Codificación e identificación de peligrosidad - Cuantificación de la generación Fase 1 -Manejo interno -Acondicionamiento -Movilización interna -Almacenamiento Alternativas de Producción limpia Componente II. Manejo interno ambientalmente seguro Apunta hacia prevención y minimización Manejo intern: -Acondicionamiento -Movilización interna -Almacenamiento Medidas de contingencia Medidas para la entrega de residuos al transportador Fase 2 Componente III. manejo externo ambientalmente seguro Clasificación y descripción del residuo Cantidad de residuo Tratamiento y disposición final Datos del receptor y empresa trasportadora Fase 3 Componente IV. Ejecución, seguimiento y evaluación del plan Personal responsable de la ejecución del plan Capacitación Seguimiento y evaluación Cronograma de actividades Fase 4')  
 
     .row.justify-content-center.align-items-center.mt-3
       .cajon.color-tema2-1.p-4
@@ -265,7 +265,7 @@
     .row.justify-content-center.align-items-center   
       .col-lg-4.mb-4
         figure
-          img(src='@/assets/curso/temas/tema2/img12.png', alt='alt')
+          img(src='@/assets/curso/temas/tema2/img12.png', alt='Imágen decorativa')
 
       .col-lg-8
         p Los planes de contingencia son instrumentos que se encuentran inmersos dentro de los llamados planes de emergencia de acuerdo con el Decreto 2157 de 2017 de presidencia, por medio del cual se adoptan directrices generales para la elaboración del plan de gestión del riesgo de desastres de las entidades públicas y privadas en el marco del artículo 42 de la Ley 1523 de 2012 donde se describe que el plan de emergencia y contingencia (PEC):
@@ -294,7 +294,7 @@
 
       .col-10.col-lg-4
         figure
-          img(src='@/assets/curso/temas/tema2/img13.png', alt='alt')
+          img(src='@/assets/curso/temas/tema2/img13.png', alt='Imágen decorativa')
 
     .row.align-items-center.mt-5
       h4.bg2-tema2-v2.text-white.mt-2.p-3 Componente de preparación para la respuesta a emergencias
@@ -304,7 +304,7 @@
       .row.justify-content-center.align-items-center.mt-3
         .col-lg-4.mb-4
           figure
-            img(src='@/assets/curso/temas/tema2/img14.png', alt='alt')
+            img(src='@/assets/curso/temas/tema2/img14.png', alt='Imágen decorativa')
 
         .col-lg-8
           ul.lista-ul--color.lista-ul--separador.fa-ul2
@@ -354,7 +354,7 @@
               | Protocolos y procedimientos de respuesta para cada tipo de emergencia.
         .col-lg-5.col-xs-12
           figure
-            img(src='@/assets/curso/temas/tema2/img15.png', alt='alt')
+            img(src='@/assets/curso/temas/tema2/img15.png', alt='Imágen decorativa')
 
         
     .row.align-items-center.mt-5
@@ -363,7 +363,7 @@
     .row.justify-content-center.align-items-center.mt-3
       .col-lg-4.mb-4
         figure
-          img(src='@/assets/curso/temas/tema2/img16.png', alt='alt')
+          img(src='@/assets/curso/temas/tema2/img16.png', alt='Imágen decorativa')
 
       .col-lg-8
         p Con el fin de disminuir el riesgo al cual puede verse sometido el personal, el medio ambiente o la propiedad en sí, donde se realicen las actividades de almacenamiento de sustancias se debe analizar los posibles eventos que se pueden dar y las medidas de contingencia que se deben realizar. 
@@ -468,7 +468,7 @@
 
       .col-10.col-lg-4
         figure
-          img(src='@/assets/curso/temas/tema2/img17.png', alt='alt')
+          img(src='@/assets/curso/temas/tema2/img17.png', alt='Imágen decorativa')
 
 
 
