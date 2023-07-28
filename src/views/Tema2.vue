@@ -374,9 +374,9 @@
     .row.justify-content-center.align-items-center.mt-5
       .col-lg-8.mb-4
         LineaTiempoD.color-acento-contenido
-          .row(numero="1" titulo="Evento: Derrame de sustancias peligrosas")
+          .row(numero="1" titulo="Evento: derrame de sustancias peligrosas")
             .col-md-12.mb-4.mb-md-0
-              ul.lista-ul--color.lista-ul--separador.fa-ul2.text-small
+              ul.lista-ul--color.lista-ul--separador.fa-ul2
                 li
                   i.fas.fa-check-circle
                   | Ventilar el área y evacuar a las personas.
@@ -400,7 +400,7 @@
                   | Ubicarse dando la espalda a la dirección del viento para prevenir que posibles gases emanados le puedan afectar.
                 li
                   i.fas.fa-check-circle
-                  | Hacer uso de los #[i kits] antiderrames para recoger el producto.
+                  | Hacer uso de los  kits antiderrames para recoger el producto.
                 li
                   i.fas.fa-check-circle
                   | Depositar el material absorbente contaminado en bolsas rojas marcadas.
@@ -410,7 +410,7 @@
 
           .row(numero="2" titulo="Goteo o fugas de sustancias líquidas químicas")
             .col-md-12.mb-4.mb-md-0
-              ul.lista-ul--color.lista-ul--separador.fa-ul2.text-small
+              ul.lista-ul--color.lista-ul--separador.fa-ul2
                 li
                   i.fas.fa-check-circle
                   | Recoger, limpiar y secar la sustancia con materiales absorbentes (kits antiderrames).
@@ -420,7 +420,7 @@
 
           .row(numero="3" titulo="Incendio en la unidad de almacenamiento")
             .col-md-12.mb-4.mb-md-0
-              ul.lista-ul--color.lista-ul--separador.fa-ul2.text-small
+              ul.lista-ul--color.lista-ul--separador.fa-ul2
                 li
                   i.fas.fa-check-circle
                   | Mantener la calma y suspender las actividades.
@@ -450,7 +450,7 @@
             .col-md-12.mb-4.mb-md-0
               p Medidas de contingencia sugeridas:
 
-              ul.lista-ul--color.lista-ul--separador.fa-ul2.text-small
+              ul.lista-ul--color.lista-ul--separador.fa-ul2
                 li
                   i.fas.fa-check-circle
                   | Lavado de la herida con abundante agua y jabón bactericida.

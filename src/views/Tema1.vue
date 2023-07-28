@@ -91,7 +91,9 @@
                 i.fas.fa-check-circle.color-vineta2
                 P #[b Puente químico:] se presenta cuando las cadenas poliméricas del coagulante se entrelazan con las partículas coloidales y se unen entre sí.
 
-              P Una mezcla de los mecanismos anteriores (p.15).
+              li
+                i.fas.fa-check-circle.color-vineta2
+                P Una mezcla de los mecanismos anteriores (p.15).
 
           .col-10.col-md-4
             figure
@@ -215,7 +217,7 @@
             figure
               img(src='@/assets/curso/temas/tema1/img14.svg', alt='alt')
           .col-lg-7
-            p De acuerdo con #[b la Sociedad Americana de Química (2002)], en su libro seguridad en los laboratorios químicos académicos: hay millones de sustancias químicas individuales y cada una de éstás tiene sus propias características de peligrosidad. Si se intenta prevenir accidentes cuando se trabaja con químicos en el laboratorio, se necesita conocer las características de peligrosidad de las sustancias químicas con las cuales se trabajará.
+            p De acuerdo con #[b la Sociedad Americana de Química (2002)], en su libro seguridad en los laboratorios químicos académicos: hay millones de sustancias químicas individuales y cada una de estás tiene sus propias características de peligrosidad. Si se intenta prevenir accidentes cuando se trabaja con químicos en el laboratorio, se necesita conocer las características de peligrosidad de las sustancias químicas con las cuales se trabajará.
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10
@@ -225,6 +227,29 @@
 
     .row.justify-content-center.align-items-center.mb-5
       p Teniendo esto claro se podría mencionar dos formas de clasificar las sustancias, la primera es:
+
+    
+    .row.justify-content-center.align-items-center.mb-5
+      .col-10
+        .tarjeta--container.row.mb-5
+          .col-md.tarjeta.color-primario.p-5.bg-tarjeta-1
+            .row.justify-content-center.mb-4
+              .col-4
+                figure
+                  img(src='@/assets/curso/temas/tema1/img74.svg', alt='Texto que describa la imagen')
+              
+            h2.text-center Productos químicos
+            p.text-center Todo tipo de material de naturaleza orgánica o inorgánica, que puede estar presente como elemento o compuesto puro, o como la mezcla o combinación de los anteriores
+          
+          .col-md.tarjeta.p-5.bg-tarjeta-2
+            .row.justify-content-center.mb-4
+              .col-4
+                figure
+                  img(src='@/assets/curso/temas/tema1/img74.svg', alt='Texto que describa la imagen')
+              
+            h2.text-center.clr-black Productos químicos peligrosos
+            p.text-center.clr-black Materiales perjudiciales que, durante la fabricación, manejo, transporte, almacenamiento o uso, pueden generar o desprender polvos, humos, gases, líquidos, vapores o fibras infecciosas, irritantes, inflamables, explosivos, corrosivos, asfixiantes, tóxicos o de otra naturaleza peligrosa, o radiaciones ionizantes en cantidades que puedan afectar la salud de las personas que entran en contacto con éstas, o que causen daño material (Decreto 1609 de 2002).
+      
 
     .row.bg3-tema1.align-items-center.p-3.mb-5
       h4.mb-0.texto-derecha Clasificación según su peligrosidad
@@ -446,7 +471,7 @@
 
 
     .row.justify-content-center.align-items-center.mb-5
-      p.mb-5 Observe el siguiente video
+      p.mb-5 Observe el siguiente video:
 
       .col-lg-10
         figure.mb-lg-5
@@ -593,9 +618,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-12
         .titulo-sexto.color-secundario.mb-5
-          h5 Tabla 1.
-          br
-          i Ejemplo de Tabla de compatibilidad para almacenamiento de productos químicos
+          h5 Tabla 1   <i style="font-weight: 400;">Ejemplo de Tabla de compatibilidad para almacenamiento de productos químicos</i>
 
         figure
           img(src='@/assets/curso/temas/tema1/img43.svg', alt='alt')
@@ -662,9 +685,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-11
         .titulo-sexto.color-secundario.mb-5
-          h5 Tabla 2.
-          br
-          i Ejemplo de correlación en la matriz
+          h5 Tabla 2 <i style="font-weight: 400;">Ejemplo de correlación en la matriz</i>
 
         figure
           img(src='@/assets/curso/temas/tema1/img50.svg', alt='alt')
@@ -677,9 +698,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-12
         .titulo-sexto.color-secundario.mb-5
-          h5 Tabla 3.
-          br
-          i Ejemplo de correlación incompatibles en la matriz
+          h5 Tabla 3 <i style="font-weight: 400;">Ejemplo de correlación incompatibles en la matriz</i>
 
         figure
           img(src='@/assets/curso/temas/tema1/img51.svg', alt='alt')
