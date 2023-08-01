@@ -226,7 +226,7 @@
             iframe(width="560" height="315" src="https://www.youtube.com/embed/GpslExHSYso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     .row.justify-content-center.align-items-center.mb-5
-      p Teniendo esto claro se podría mencionar dos formas de clasificar las sustancias, la primera es:
+      p Por lo cual se hace relevante aclarar dos definiciones claves:
 
     
     .row.justify-content-center.align-items-center.mb-5
@@ -579,7 +579,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10
         .titulo-sexto.color-secundario.mb-5
-          h5 Figura 1.
+          h5 Figura 1
           span Ejemplo de etiqueta de producto químico
         
         figure
@@ -618,7 +618,8 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-12
         .titulo-sexto.color-secundario.mb-5
-          h5 Tabla 1   <i style="font-weight: 400;">Ejemplo de Tabla de compatibilidad para almacenamiento de productos químicos</i>
+          h5 Tabla 1
+          span Ejemplo de Tabla de compatibilidad para almacenamiento de productos químicos
 
         figure
           img(src='@/assets/curso/temas/tema1/img43.svg', alt='Imagen que contiene un ejemplo de Tabla de compatibilidad para almacenamiento de productos químicos')
@@ -691,7 +692,8 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10
         .titulo-sexto.color-secundario.mb-5
-          h5 Tabla 2 <i style="font-weight: 400;">Ejemplo de correlación en la matriz</i>
+          h5 Tabla 2 
+          span Ejemplo de correlación en la matriz
 
         figure
           img(src='@/assets/curso/temas/tema1/img50.svg', alt='Imagen que contiene un ejemplo de ejemplo de correlación en la matriz')
@@ -704,7 +706,8 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10
         .titulo-sexto.color-secundario.mb-5
-          h5 Tabla 3 <i style="font-weight: 400;">Ejemplo de correlación incompatibles en la matriz</i>
+          h5 Tabla 3 
+          span Ejemplo de correlación incompatibles en la matriz
 
         figure
           img(src='@/assets/curso/temas/tema1/img51.svg', alt='Imagen que contiene un ejemplo de correlación incompatibles en la matriz')

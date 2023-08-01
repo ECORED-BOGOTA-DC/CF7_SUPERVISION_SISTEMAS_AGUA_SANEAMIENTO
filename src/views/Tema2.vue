@@ -248,7 +248,7 @@
       p El siguiente diagrama presenta las partes de un plan de gestión integral de residuos peligrosos:
 
       .titulo-sexto.color-acento-contenido.mb-3
-        h5 Figura 2. 
+        h5 Figura 2
         span Etapas del manejo integral de residuos
 
       figure
@@ -326,7 +326,7 @@
 
             li
               i.fas.fa-check-circle
-              p.mb-0 <b>Inventario de recursos:</b> Mantener actualizado los recursos físicos y humanos.
+              p.mb-0 <b>Inventario de recursos:</b> mantener actualizado los recursos físicos y humanos.
 
       
     .row.align-items-center.mt-5
@@ -400,13 +400,13 @@
                   | Ubicarse dando la espalda a la dirección del viento para prevenir que posibles gases emanados le puedan afectar.
                 li
                   i.fas.fa-check-circle
-                  | Hacer uso de los  kits antiderrames para recoger el producto.
+                  | Hacer uso de los kits antiderrames para recoger el producto.
                 li
                   i.fas.fa-check-circle
                   | Depositar el material absorbente contaminado en bolsas rojas marcadas.
                 li
                   i.fas.fa-check-circle
-                  | Asegúrese que nuevamente se dote completamente el #[i kits] antiderrame.
+                  | Asegúrese que nuevamente se dote completamente el kits antiderrame.
 
           .row(numero="2" titulo="Goteo o fugas de sustancias líquidas químicas")
             .col-md-12.mb-4.mb-md-0
