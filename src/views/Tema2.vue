@@ -248,7 +248,7 @@
       p El siguiente diagrama presenta las partes de un plan de gestión integral de residuos peligrosos:
 
       .titulo-sexto.color-acento-contenido.mb-3
-        h5 Figura 2
+        h5 Figura 2.
         span Etapas del manejo integral de residuos
 
       figure

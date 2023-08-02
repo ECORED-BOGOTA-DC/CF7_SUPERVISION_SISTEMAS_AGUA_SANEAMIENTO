@@ -225,30 +225,6 @@
           .video
             iframe(width="560" height="315" src="https://www.youtube.com/embed/GpslExHSYso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
-    .row.justify-content-center.align-items-center.mb-5
-      p Por lo cual se hace relevante aclarar dos definiciones claves:
-
-    
-    .row.justify-content-center.align-items-center.mb-5
-      .col-10
-        .tarjeta--container.row.mb-5
-          .col-md.tarjeta.color-primario.p-5.bg-tarjeta-1
-            .row.justify-content-center.mb-4
-              .col-4
-                figure
-                  img(src='@/assets/curso/temas/tema1/img74.svg', alt="Imágen decorativa")
-              
-            h2.text-center Productos químicos
-            p.text-center Todo tipo de material de naturaleza orgánica o inorgánica, que puede estar presente como elemento o compuesto puro, o como la mezcla o combinación de los anteriores
-          
-          .col-md.tarjeta.p-5.bg-tarjeta-2
-            .row.justify-content-center.mb-4
-              .col-4
-                figure
-                  img(src='@/assets/curso/temas/tema1/img74.svg', alt="Imágen decorativa")
-              
-            h2.text-center.clr-black Productos químicos peligrosos
-            p.text-center.clr-black Materiales perjudiciales que, durante la fabricación, manejo, transporte, almacenamiento o uso, pueden generar o desprender polvos, humos, gases, líquidos, vapores o fibras infecciosas, irritantes, inflamables, explosivos, corrosivos, asfixiantes, tóxicos o de otra naturaleza peligrosa, o radiaciones ionizantes en cantidades que puedan afectar la salud de las personas que entran en contacto con éstas, o que causen daño material (Decreto 1609 de 2002).
       
 
     .row.bg3-tema1.align-items-center.p-3.mb-5
@@ -579,7 +555,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10
         .titulo-sexto.color-secundario.mb-5
-          h5 Figura 1
+          h5 Figura 1.
           span Ejemplo de etiqueta de producto químico
         
         figure
@@ -618,7 +594,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-12
         .titulo-sexto.color-secundario.mb-5
-          h5 Tabla 1
+          h5 Tabla 1.
           span Ejemplo de Tabla de compatibilidad para almacenamiento de productos químicos
 
         figure
@@ -692,7 +668,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10
         .titulo-sexto.color-secundario.mb-5
-          h5 Tabla 2 
+          h5 Tabla 2.
           span Ejemplo de correlación en la matriz
 
         figure
@@ -706,7 +682,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10
         .titulo-sexto.color-secundario.mb-5
-          h5 Tabla 3 
+          h5 Tabla 3.
           span Ejemplo de correlación incompatibles en la matriz
 
         figure
