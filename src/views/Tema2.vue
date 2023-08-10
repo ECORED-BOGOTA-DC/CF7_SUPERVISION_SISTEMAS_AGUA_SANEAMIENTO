@@ -252,7 +252,8 @@
         span Etapas del manejo integral de residuos
 
       figure
-        img(src='@/assets/curso/temas/tema2/img11.svg', alt='Imagen que contiene un esquema sobre las etapas del manejo integral de residuos, el cual está compuesto por: Componente I. Prevención y  minimizació Apunta hacia prevención y minimización Diagnóstico: - Identificación de fuentes - Codificación e identificación de peligrosidad - Cuantificación de la generación Fase 1 -Manejo interno -Acondicionamiento -Movilización interna -Almacenamiento Alternativas de Producción limpia Componente II. Manejo interno ambientalmente seguro Apunta hacia prevención y minimización Manejo intern: -Acondicionamiento -Movilización interna -Almacenamiento Medidas de contingencia Medidas para la entrega de residuos al transportador Fase 2 Componente III. manejo externo ambientalmente seguro Clasificación y descripción del residuo Cantidad de residuo Tratamiento y disposición final Datos del receptor y empresa trasportadora Fase 3 Componente IV. Ejecución, seguimiento y evaluación del plan Personal responsable de la ejecución del plan Capacitación Seguimiento y evaluación Cronograma de actividades Fase 4')  
+        img(src='@/assets/curso/temas/tema2/img11.svg', alt='Imagen que contiene un esquema sobre las etapas del manejo integral de residuos, el cual está compuesto por: Componente I. Prevención y  minimizació Apunta hacia prevención y minimización Diagnóstico: - Identificación de fuentes - Codificación e identificación de peligrosidad - Cuantificación de la generación Fase 1 -Manejo interno -Acondicionamiento -Movilización interna -Almacenamiento Alternativas de Producción limpia Componente II. Manejo interno ambientalmente seguro Apunta hacia prevención y minimización Manejo intern: -Acondicionamiento -Movilización interna -Almacenamiento Medidas de contingencia Medidas para la entrega de residuos al transportador Fase 2 Componente III. manejo externo ambientalmente seguro Clasificación y descripción del residuo Cantidad de residuo Tratamiento y disposición final Datos del receptor y empresa trasportadora Fase 3 Componente IV. Ejecución, seguimiento y evaluación del plan Personal responsable de la ejecución del plan Capacitación Seguimiento y evaluación Cronograma de actividades Fase 4')
+        figcaption Fuente: elaboración propia  
 
     .row.justify-content-center.align-items-center.mt-3
       .cajon.color-tema2-1.p-4
@@ -400,20 +401,20 @@
                   | Ubicarse dando la espalda a la dirección del viento para prevenir que posibles gases emanados le puedan afectar.
                 li
                   i.fas.fa-check-circle
-                  | Hacer uso de los kits antiderrames para recoger el producto.
+                  p.mb-0 Hacer uso de los <i>kits</i> antiderrames para recoger el producto.
                 li
                   i.fas.fa-check-circle
                   | Depositar el material absorbente contaminado en bolsas rojas marcadas.
                 li
                   i.fas.fa-check-circle
-                  | Asegúrese que nuevamente se dote completamente el kits antiderrame.
+                  p.mb-0 Asegúrese que nuevamente se dote completamente el <i>kit</i> antiderrame.
 
           .row(numero="2" titulo="Goteo o fugas de sustancias líquidas químicas")
             .col-md-12.mb-4.mb-md-0
               ul.lista-ul--color.lista-ul--separador.fa-ul2
                 li
                   i.fas.fa-check-circle
-                  | Recoger, limpiar y secar la sustancia con materiales absorbentes (kits antiderrames).
+                  p.mb-0 Recoger, limpiar y secar la sustancia con materiales absorbentes (<i>kits</i> antiderrames).
                 li
                   i.fas.fa-check-circle
                   | Depositar el material absorbente contaminado en bolsas rojas marcadas.

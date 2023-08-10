@@ -144,7 +144,7 @@ export default {
       tema:
         'Determinar las propiedades de las sustancias químicas para potabilización',
       referencia:
-        'Ministerio de Vivienda. (2010). <i>Reglamento técnico del sector de agua y saneamiento. Titulo C. Potabilización de agua.</i>',
+        'Ministerio de Vivienda. (2010). <i>Reglamento técnico del sector de agua y saneamiento. Título C. Sistemas de potabilización.</i>',
       tipo: 'Libro',
       link: 'https://www.catorce6.com/images/legal/Titulo_C_Potabilizacion.pdf',
     },
@@ -199,66 +199,66 @@ export default {
   referencias: [
     {
       referencia:
-        'Administradora de Riesgos Laborales [ARL] SURA. (2018). <i>Sistema globalmente armonizado para la clasificación y etiquetado de productos químicos.</i>',
+        'Administradora de Riesgos Laborales [ARL] SURA. (2018). <i>Sistema globalmente armonizado para la clasificación y etiquetado de productos químicos.</i><br>',
       link: 'https://www.arlsura.com/files/2018/Sistema-SGA-ARL.pdf',
     },
     {
       referencia:
-        'Borrás, X. (2010). <i>Sustancias para el tratamiento de aguas para el consumo humano.</i>',
+        'Borrás, X. (2010). <i>Sustancias para el tratamiento de aguas para el consumo humano.</i><br>',
       link:
         'https://www.interempresas.net/Agua/Articulos/45745-Sustancias-para-el-tratamiento-de-aguas-para-el-consumo-humano.html',
     },
     {
       referencia:
-        'Consejo Colombiano de Seguridad [CCS]. (2019). <i>Almacenamiento y compatibilidad de sustancias químicas.</i> [Artículo]. ',
+        'Consejo Colombiano de Seguridad [CCS]. (2019). <i>Almacenamiento y compatibilidad de sustancias químicas.</i> [Artículo].<br>',
       link:
         'https://ccs.org.co/portfolio/almacenamiento-y-compatibilidad-de-sustancias-quimicas/ ',
     },
     {
       referencia:
-        'Consejo Colombiano de Seguridad [CCS] y Ministerio de Ambiente, Vivienda y Desarrollo Territorial [MAVDT]. (s.f.). </i>Guías ambientales de almacenamiento y transporte por carretera de sustancias químicas peligrosas y residuos peligrosos.</i>',
+        'Consejo Colombiano de Seguridad [CCS] y Ministerio de Ambiente, Vivienda y Desarrollo Territorial [MAVDT]. (s.f.). </i>Guías ambientales de almacenamiento y transporte por carretera de sustancias químicas peligrosas y residuos peligrosos.</i><br>',
       link:
         'https://www.minambiente.gov.co/wp-content/uploads/2021/10/guias_ambientales_almacenam_transp_x_carretera_sust_quimicas_res_pelig.pdf',
     },
     {
       referencia:
-        'Decreto 1609 de 2002. [Presidencia de la República]. “Por el cual se reglamenta el manejo y transporte terrestre automotor de mercancías peligrosas por carretera”. 31 de julio de 2002.',
+        'Decreto 1609 de 2002. [Presidencia de la República]. “Por el cual se reglamenta el manejo y transporte terrestre automotor de mercancías peligrosas por carretera”. 31 de julio de 2002.<br>',
       link:
         'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=6101#:~:text=El%20presente%20decreto%20tiene%20por,y%20el%20medio%20ambiente%2C%20de',
     },
     {
       referencia:
-        'Decreto 423 de 2006. [Alcaldía Mayor de Bogotá, D.C.]. “Por el cual se adopta el Plan Distrital para la Prevención y Atención de Emergencias para Bogotá D.C.”. 11 de octubre de 2006. ',
+        'Decreto 423 de 2006. [Alcaldía Mayor de Bogotá, D.C.]. “Por el cual se adopta el Plan Distrital para la Prevención y Atención de Emergencias para Bogotá D.C.”. 11 de octubre de 2006.<br>',
       link:
         'https://www.alcaldiabogota.gov.co/sisjur/normas/Norma1.jsp?i=21916&dt=S',
     },
     {
       referencia:
-        'Decreto 4741 de 2005. [Ministerio de Ambiente y Desarrollo Sostenible. “por el cual se reglamenta parcialmente la prevención y el manejo de los residuos o desechos peligrosos generados en el marco de la gestión integral”. 30 de diciembre de 2005.',
+        'Decreto 4741 de 2005. [Ministerio de Ambiente y Desarrollo Sostenible. “Por el cual se reglamenta parcialmente la prevención y el manejo de los residuos o desechos peligrosos generados en el marco de la gestión integral”. 30 de diciembre de 2005.<br>',
       link:
         'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=18718',
     },
     {
       referencia:
-        'Decreto 351 de 2014. [Ministerio de Salud y Protección Social]. “Por el cual se reglamenta la gestión integral de los residuos generados en la atención en salud y otras actividades”. 19 de febrero de 2014.',
+        'Decreto 351 de 2014. [Ministerio de Salud y Protección Social]. “Por el cual se reglamenta la gestión integral de los residuos generados en la atención en salud y otras actividades”. 19 de febrero de 2014.<br>',
       link:
         'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=56755#:~:text=Es%20el%20documento%20mediante%20el,que%20trata%20el%20presente%20decreto.',
     },
     {
       referencia:
-        'Decreto 1076 de 2015. [Ministerio de Ambiente y Desarrollo Sostenible]. “Por medio del cual se expide el Decreto Único Reglamentario del Sector Ambiente y Desarrollo Sostenible”. 26 de mayo de 2015.',
+        'Decreto 1076 de 2015. [Ministerio de Ambiente y Desarrollo Sostenible]. “Por medio del cual se expide el Decreto Único Reglamentario del Sector Ambiente y Desarrollo Sostenible”. 26 de mayo de 2015.<br>',
       link:
         'https://www.minambiente.gov.co/wp-content/uploads/2021/06/Decreto-1076-de-2015.pdf',
     },
     {
       referencia:
-        'Decreto 2157 de 2017. [Presidencia de la República]. “Por medio del cual se adoptan directrices generales para la elaboración del plan de gestión del riesgo de desastres de las entidades públicas y privadas en el marco del artículo 42 de la Ley 1523 de 2012”. 20 de diciembre de 2017.',
+        'Decreto 2157 de 2017. [Presidencia de la República]. “Por medio del cual se adoptan directrices generales para la elaboración del plan de gestión del riesgo de desastres de las entidades públicas y privadas en el marco del artículo 42 de la Ley 1523 de 2012”. 20 de diciembre de 2017.<br>',
       link:
         'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=199583 ',
     },
     {
       referencia:
-        'Decreto 1496 de 2018. [Ministerio de Trabajo]. “Por el cual se crea Sistema Globalmente Armonizado de Clasificación y Etiquetado de Productos Químicos y se dictan otras disposiciones en materia de seguridad química”. 6 de agosto de 2018. ',
+        'Decreto 1496 de 2018. [Ministerio de Trabajo]. “Por el cual se adopta el Sistema Globalmente Armonizado de Clasificación y Etiquetado de Productos Químicos y se dictan otras disposiciones en materia de seguridad química”. 6 de agosto de 2018.<br>',
       link:
         'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=87910',
     },
@@ -269,12 +269,13 @@ export default {
     },
     {
       referencia:
-        'Ministerio del Interior. (2002). <i>Manejo seguro de sustancias químicas.</i>',
+        'Ministerio del Interior. (2002). <i>Manejo seguro de sustancias químicas.</i><br>',
       link:
         'https://www.mininterior.gov.co/wp-content/uploads/2022/10/MANUAL-Manejo-seguro-de-productos-quimicos.pdf',
     },
     {
-      referencia: 'Ministerio de Transporte. (s.f.). <i>Norma NTC 4335.</i>',
+      referencia:
+        'Ministerio de Transporte. (s.f.). <i>Norma NTC 4435.</i><br>',
       link:
         'https://web.mintransporte.gov.co/consultas/mercapeli/Reglamento/Anexos/NTC4435.pdf',
     },
@@ -290,7 +291,7 @@ export default {
     },
     {
       referencia:
-        'Sociedad Americana de Química. (2002). <i>Seguridad en los laboratorios químicos académicos.</i>',
+        'Sociedad Americana de Química. (2002). <i>Seguridad en los laboratorios químicos académicos.</i><br>',
       link:
         'https://www.acs.org/content/dam/acsorg/about/governance/committees/chemicalsafety/publications/seguridad-en-los-laboratorios-quu00edmicos-acadu00e9mico.pdf',
     },
@@ -322,49 +323,52 @@ export default {
         {
           nombre: 'Xiomara Becerra Aldana',
           cargo: 'Instructora Ambiental',
-          centro: 'Centro de Gestión Industrial',
+          centro: 'Centro de Gestión Industrial - Regional Distrito Capital',
         },
         {
           nombre: 'Lubin Andrés Hernández Sanabria',
           cargo: 'Instructor',
-          centro: 'Centro de Gestión Industrial',
+          centro: 'Centro de Gestión Industrial - Regional Distrito Capital',
         },
         {
           nombre: 'Jesús Ricardo Arias Munevar',
           cargo: 'Instructor',
-          centro: 'Centro de Gestión Industrial',
+          centro: 'Centro de Gestión Industrial - Regional Distrito Capital',
         },
         {
           nombre: 'Javier Ricardo Luna Pineda',
           cargo: 'Diseñador Instruccional',
-          centro: 'Centro para la Industria de la Comunicación Gráfica',
+          centro:
+            'Centro para la Industria de la Comunicación Gráfica - Regional Distrito Capital',
         },
         {
           nombre: 'Silvia Milena Sequeda Cárdenas',
           cargo: 'Evaluador Instruccional',
-          centro: 'Centro de diseño y metrología',
+          centro: 'Centro de diseño y metrología - Regional Distrito Capital',
         },
         {
           nombre: 'Rafael Neftali Lizcano Reyes',
           cargo: 'Asesor Pedagógico',
-          centro: 'Centro Industrial del Diseño y la Manufactura',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
         {
           nombre: 'Martha Isabel Martínez Vargas',
           cargo: 'Productora audiovisual',
-          centro: 'Centro Industrial del Diseño y la Manufactura',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
         {
           nombre: 'Gloria Amparo López Escudero',
           cargo: 'Adecuador Instruccional',
           centro:
-            'Centro de gestión de Mercados, Logística y Tecnologías de la Información',
+            'Centro de gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
         {
           nombre: 'Alix Cecilia Chinchilla Rueda',
           cargo: 'Asesor metodológico',
           centro:
-            'Centro de gestión de Mercados, Logística y Tecnologías de la Información',
+            'Centro de gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
       ],
     },
@@ -384,7 +388,19 @@ export default {
             'Centro de Gestión De Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
         {
-          nombre: 'Nombre',
+          nombre: 'Lady Adriana Ariza Luque',
+          cargo: 'Animador y Producción audiovisual',
+          centro:
+            'Centro de Gestión De Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
+        },
+        {
+          nombre: 'Laura Gisselle Murcia Pardo',
+          cargo: 'Animador y Producción audiovisual',
+          centro:
+            'Centro de Gestión De Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
+        },
+        {
+          nombre: 'Ernesto Navarro Jaimes',
           cargo: 'Animador y Producción audiovisual',
           centro:
             'Centro de Gestión De Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
@@ -398,19 +414,19 @@ export default {
           nombre: 'Zuleidy María Ruiz Torres',
           cargo: 'Validación y vinculación en plataforma LMS',
           centro:
-            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
         {
           nombre: 'Luis Gabriel Urueta Alvarez',
           cargo: 'Validación y vinculación en plataforma LMS',
           centro:
-            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
         {
           nombre: 'Daniel Ricardo Mutis Gómez',
           cargo: 'Validación de contenidos accesibles',
           centro:
-            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
       ],
     },

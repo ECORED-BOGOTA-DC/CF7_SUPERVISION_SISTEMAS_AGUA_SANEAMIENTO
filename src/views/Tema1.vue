@@ -149,7 +149,7 @@
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
                   h4.texto-blanco Título C - Sistemas de potabilización
-                  p.texto-blanco Consulte la página del Ministerio de Vivienda donde encontrará el Reglamento Técnico del Sector de Agua y Saneamiento. Título C. Potabilización de agua. Con esto aclarará un poco más la temática relacionada con los manuales del reglamento técnico. Recuerde que también se encuentra en los materiales complementarios.
+                  p.texto-blanco Consulte la página del Ministerio de Vivienda donde encontrará el Reglamento Técnico del Sector de Agua y Saneamiento. Título C. Sistemas de potabilización. Con esto aclarará un poco más la temática relacionada con los manuales del reglamento técnico. Recuerde que también se encuentra en los materiales complementarios.
                 .col-sm-auto
                   a.boton.color-primario(href="https://www.catorce6.com/images/legal/Titulo_C_Potabilizacion.pdf" target="_blank")
                     span.texto-negro Ir a página
@@ -175,7 +175,7 @@
       h4.texto-blanco.mb-0 Base normativa para el uso de sustancias químicas en potabilización de agua
 
     .row.mb-5
-      p Es importante aclarar que el uso del insumo químico debe estar acorde a la normatividad aplicable en el momento de su requerimiento. Al Respecto:
+      p Es importante aclarar que el uso del insumo químico debe estar acorde a la normatividad aplicable en el momento de su requerimiento. Al respecto:
 
     .row.justify-content-center.align-items-center.mb-5
       .col-10.col-lg-5.mb-4
@@ -188,7 +188,7 @@
             p En Colombia se cuenta con el Reglamento técnico del sector Agua potable y Saneamiento (RAS) bajo la Resolución 330 de 2017, en el cual en su título C aborda los sistemas de potabilización y con Normas Técnicas Colombianas como la NTC  531 Productos químicos para uso industrial. Sulfato de Aluminio; NTC 925 Productos químicos para uso industrial. Cloro Líquido; NTC 1398 Productos químicos para uso industrial. Cal viva y Cal hidratada para el tratamiento de agua para consumo humano; NTC 1847 Productos químicos para uso industrial. Hipocloritos utilizados en el tratamiento de aguas, entre otras.
           
           .row(numero="2" titulo="Resolución 2115 de 2007")
-            p También se encuentra vigente la Resolución 2115 de 2007 del ministerio de protección social y el Ministerio de Ambiente, Vivienda y Desarrollo Territorial, Por medio de la cual se señalan características, instrumentos básicos y frecuencias del sistema de control y vigilancia para la calidad del agua para consumo humano, que en su artículo 9° específica sobre características químicas de otras sustancias utilizadas en la potabilización.
+            p También se encuentra vigente la Resolución 2115 de 2007 del ministerio de protección social y el Ministerio de Ambiente, Vivienda y Desarrollo Territorial, Por medio de la cual se señalan características, instrumentos básicos y frecuencias del sistema de control y vigilancia para la calidad del agua para consumo humano, que en su artículo 9° especifica sobre características químicas de otras sustancias utilizadas en la potabilización.
 
           .row(numero="3" titulo="Decreto 1496 de 2018")
             p Así como el Decreto 1496 de 2018 del Ministerio de trabajo, por el cual se adopta el sistema globalmente armonizado de clasificación y etiquetado de productos químicos y se dictan otras disposiciones en materia de seguridad química.   
@@ -217,7 +217,7 @@
             figure
               img(src='@/assets/curso/temas/tema1/img14.svg', alt='Imágen decorativa')
           .col-lg-7
-            p De acuerdo con #[b la Sociedad Americana de Química (2002)], en su libro seguridad en los laboratorios químicos académicos: hay millones de sustancias químicas individuales y cada una de estás tiene sus propias características de peligrosidad. Si se intenta prevenir accidentes cuando se trabaja con químicos en el laboratorio, se necesita conocer las características de peligrosidad de las sustancias químicas con las cuales se trabajará.
+            p De acuerdo con #[b la Sociedad Americana de Química (2002)], en su libro seguridad en los laboratorios químicos académicos: hay millones de sustancias químicas individuales y cada una de estas tiene sus propias características de peligrosidad. Si se intenta prevenir accidentes cuando se trabaja con químicos en el laboratorio, se necesita conocer las características de peligrosidad de las sustancias químicas con las cuales se trabajará.
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10
@@ -521,13 +521,13 @@
             p El Servicio de Chemical Abstracts (CAS) de la Sociedad Americana de Química (ACS) le asigna un número único a cada sustancia química conocida, descubierta o sintetizada, llamado el número de registro CAS.
 
           .row(numero="2" titulo="Límite de Techo (<i>Ceiling limit</i>)")
-            p Algunas sustancias químicas muy peligrosas se caracterizan por un límite de techo además de su límite permitido de exposición (PEL) y el valor límite del umbral (TLV). El límite de techo es una concentración en partes por millón (ppm) o miligramos por metro cúbico (mg/m3) que no deben ser excedidos en un período específico de tiempo, generalmente 15 minutos.
+            p Algunas sustancias químicas muy peligrosas se caracterizan por un límite de techo además de su límite permitido de exposición (PEL) y el valor límite del umbral (TLV). El límite de techo es una concentración en partes por millón (ppm) o miligramos por metro cúbico (mg/m<sup>3</sup>) que no deben ser excedidos en un período específico de tiempo, generalmente 15 minutos.
 
           .row(numero="3" titulo="Nombre químico")
             p Generalmente se proporciona el nombre dado por la Unión Internacional de Química Pura y Aplicada (IUPAC) o el número químico CAS, pero se puede dar un nombre común para la sustancia química (como, por ejemplo: glicol de etileno es aceptado en vez de su nombre IUPAC correcto; 1,2-etanodiol).
 
           .row(numero="4" titulo="Composición de mezclas")
-            p Incluye todos los componentes peligrosos en concentraciones mayores de 1% y todos los cancerígenos en concentraciones mayores a 0.1%.
+            p Incluye todos los componentes peligrosos en concentraciones mayores de 1 % y todos los cancerígenos en concentraciones mayores a 0.1 %.
             
           .row(numero="5" titulo="Medidas de control")
             p Da una lista de ropa protectora, guantes y equipo protector respiratorio. Si el material debe ser manipulado en una capilla o extractor de laboratorio o con ventilación extra, todas estas recomendaciones vienen dadas en esta sección.
@@ -572,7 +572,7 @@
                 img(src='@/assets/curso/temas/tema1/img41.svg', alt='Imágen decorativa').img41-tm1
 
             .col-lg-10
-              p.mb-0 Se puede definir la etiqueta como: el conjunto de elementos de información escritos, impresos o gráficos relativos a un producto peligroso, elegidos en relación a su pertenencia para el sector que lo trate, que se adhieren o se imprimen en el recipiente que contiene el producto o en su embalaje exterior” (Naciones Unidas, 2015, p.6). 
+              p.mb-0 Se puede definir la etiqueta como: el conjunto de elementos de información escritos, impresos o gráficos relativos a un producto peligroso, elegidos en relación con su pertenencia para el sector que lo trate, que se adhieren o se imprimen en el recipiente que contiene el producto o en su embalaje exterior (Naciones Unidas, 2015, p.6). 
 
     .row.bg2-tema1.align-items-center.p-3.mb-5
       h4.texto-blanco.mb-0 Compatibilidad de sustancias químicas
