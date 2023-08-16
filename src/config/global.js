@@ -199,83 +199,82 @@ export default {
   referencias: [
     {
       referencia:
-        'Administradora de Riesgos Laborales [ARL] SURA. (2018). <i>Sistema globalmente armonizado para la clasificación y etiquetado de productos químicos.</i><br>',
+        'Administradora de Riesgos Laborales [ARL] SURA. (2018). <i>Sistema globalmente armonizado para la clasificación y etiquetado de productos químicos.</i> ',
       link: 'https://www.arlsura.com/files/2018/Sistema-SGA-ARL.pdf',
     },
     {
       referencia:
-        'Borrás, X. (2010). <i>Sustancias para el tratamiento de aguas para el consumo humano.</i><br>',
+        'Borrás, X. (2010). <i>Sustancias para el tratamiento de aguas para el consumo humano.</i> ',
       link:
         'https://www.interempresas.net/Agua/Articulos/45745-Sustancias-para-el-tratamiento-de-aguas-para-el-consumo-humano.html',
     },
     {
       referencia:
-        'Consejo Colombiano de Seguridad [CCS]. (2019). <i>Almacenamiento y compatibilidad de sustancias químicas.</i> [Artículo].<br>',
+        'Consejo Colombiano de Seguridad [CCS]. (2019). <i>Almacenamiento y compatibilidad de sustancias químicas.</i> [Artículo]. ',
       link:
         'https://ccs.org.co/portfolio/almacenamiento-y-compatibilidad-de-sustancias-quimicas/ ',
     },
     {
       referencia:
-        'Consejo Colombiano de Seguridad [CCS] y Ministerio de Ambiente, Vivienda y Desarrollo Territorial [MAVDT]. (s.f.). </i>Guías ambientales de almacenamiento y transporte por carretera de sustancias químicas peligrosas y residuos peligrosos.</i><br>',
+        'Consejo Colombiano de Seguridad [CCS] y Ministerio de Ambiente, Vivienda y Desarrollo Territorial [MAVDT]. (s.f.). </i>Guías ambientales de almacenamiento y transporte por carretera de sustancias químicas peligrosas y residuos peligrosos.</i>  ',
       link:
         'https://www.minambiente.gov.co/wp-content/uploads/2021/10/guias_ambientales_almacenam_transp_x_carretera_sust_quimicas_res_pelig.pdf',
     },
     {
       referencia:
-        'Decreto 1609 de 2002. [Presidencia de la República]. “Por el cual se reglamenta el manejo y transporte terrestre automotor de mercancías peligrosas por carretera”. 31 de julio de 2002.<br>',
+        'Decreto 1609 de 2002. [Presidencia de la República]. “Por el cual se reglamenta el manejo y transporte terrestre automotor de mercancías peligrosas por carretera”. 31 de julio de 2002.  ',
       link:
-        'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=6101#:~:text=El%20presente%20decreto%20tiene%20por,y%20el%20medio%20ambiente%2C%20de',
+        'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=6101#:~:text=El%20presente%20decreto%20tiene%20por,y%20el%20medio%20ambiente%2C%20de ',
     },
     {
       referencia:
-        'Decreto 423 de 2006. [Alcaldía Mayor de Bogotá, D.C.]. “Por el cual se adopta el Plan Distrital para la Prevención y Atención de Emergencias para Bogotá D.C.”. 11 de octubre de 2006.<br>',
+        'Decreto 423 de 2006. [Alcaldía Mayor de Bogotá, D.C.]. “Por el cual se adopta el Plan Distrital para la Prevención y Atención de Emergencias para Bogotá D.C.”. 11 de octubre de 2006.  ',
       link:
-        'https://www.alcaldiabogota.gov.co/sisjur/normas/Norma1.jsp?i=21916&dt=S',
+        'https://www.alcaldiabogota.gov.co/sisjur/normas/Norma1.jsp?i=21916&dt=S ',
     },
     {
       referencia:
-        'Decreto 4741 de 2005. [Ministerio de Ambiente y Desarrollo Sostenible. “Por el cual se reglamenta parcialmente la prevención y el manejo de los residuos o desechos peligrosos generados en el marco de la gestión integral”. 30 de diciembre de 2005.<br>',
+        'Decreto 4741 de 2005. [Ministerio de Ambiente y Desarrollo Sostenible. “Por el cual se reglamenta parcialmente la prevención y el manejo de los residuos o desechos peligrosos generados en el marco de la gestión integral”. 30 de diciembre de 2005. ',
       link:
         'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=18718',
     },
     {
       referencia:
-        'Decreto 351 de 2014. [Ministerio de Salud y Protección Social]. “Por el cual se reglamenta la gestión integral de los residuos generados en la atención en salud y otras actividades”. 19 de febrero de 2014.<br>',
+        'Decreto 351 de 2014. [Ministerio de Salud y Protección Social]. “Por el cual se reglamenta la gestión integral de los residuos generados en la atención en salud y otras actividades”. 19 de febrero de 2014.  ',
       link:
         'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=56755#:~:text=Es%20el%20documento%20mediante%20el,que%20trata%20el%20presente%20decreto.',
     },
     {
       referencia:
-        'Decreto 1076 de 2015. [Ministerio de Ambiente y Desarrollo Sostenible]. “Por medio del cual se expide el Decreto Único Reglamentario del Sector Ambiente y Desarrollo Sostenible”. 26 de mayo de 2015.<br>',
+        'Decreto 1076 de 2015. [Ministerio de Ambiente y Desarrollo Sostenible]. “Por medio del cual se expide el Decreto Único Reglamentario del Sector Ambiente y Desarrollo Sostenible”. 26 de mayo de 2015. ',
       link:
         'https://www.minambiente.gov.co/wp-content/uploads/2021/06/Decreto-1076-de-2015.pdf',
     },
     {
       referencia:
-        'Decreto 2157 de 2017. [Presidencia de la República]. “Por medio del cual se adoptan directrices generales para la elaboración del plan de gestión del riesgo de desastres de las entidades públicas y privadas en el marco del artículo 42 de la Ley 1523 de 2012”. 20 de diciembre de 2017.<br>',
+        'Decreto 2157 de 2017. [Presidencia de la República]. “Por medio del cual se adoptan directrices generales para la elaboración del plan de gestión del riesgo de desastres de las entidades públicas y privadas en el marco del artículo 42 de la Ley 1523 de 2012”. 20 de diciembre de 2017. ',
       link:
         'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=199583 ',
     },
     {
       referencia:
-        'Decreto 1496 de 2018. [Ministerio de Trabajo]. “Por el cual se adopta el Sistema Globalmente Armonizado de Clasificación y Etiquetado de Productos Químicos y se dictan otras disposiciones en materia de seguridad química”. 6 de agosto de 2018.<br>',
+        'Decreto 1496 de 2018. [Ministerio de Trabajo]. “Por el cual se adopta el Sistema Globalmente Armonizado de Clasificación y Etiquetado de Productos Químicos y se dictan otras disposiciones en materia de seguridad química”. 6 de agosto de 2018. ',
       link:
         'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=87910',
     },
     {
       referencia:
-        'Instituto Distrital de Gestión de Riesgos y Cambio Climático (IDIGER). (2014). <i>Matriz para almacenamiento de sustancias peligrosas centro de reserva.</i> Autor.',
+        'Instituto Distrital de Gestión de Riesgos y Cambio Climático (IDIGER). (2014). <i>Matriz para almacenamiento de sustancias peligrosas centro de reserva.</i> Autor. ',
       link: '',
     },
     {
       referencia:
-        'Ministerio del Interior. (2002). <i>Manejo seguro de sustancias químicas.</i><br>',
+        'Ministerio del Interior. (2002). <i>Manejo seguro de sustancias químicas.</i>  ',
       link:
         'https://www.mininterior.gov.co/wp-content/uploads/2022/10/MANUAL-Manejo-seguro-de-productos-quimicos.pdf',
     },
     {
-      referencia:
-        'Ministerio de Transporte. (s.f.). <i>Norma NTC 4435.</i><br>',
+      referencia: 'Ministerio de Transporte. (s.f.). <i>Norma NTC 4435.</i>  ',
       link:
         'https://web.mintransporte.gov.co/consultas/mercapeli/Reglamento/Anexos/NTC4435.pdf',
     },
@@ -291,13 +290,9 @@ export default {
     },
     {
       referencia:
-        'Sociedad Americana de Química. (2002). <i>Seguridad en los laboratorios químicos académicos.</i><br>',
+        'Sociedad Americana de Química. (2002). <i>Seguridad en los laboratorios químicos académicos.</i>',
       link:
         'https://www.acs.org/content/dam/acsorg/about/governance/committees/chemicalsafety/publications/seguridad-en-los-laboratorios-quu00edmicos-acadu00e9mico.pdf',
-    },
-    {
-      referencia: '',
-      link: '',
     },
   ],
   creditos: [
