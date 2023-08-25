@@ -1,0 +1,971 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="433" height="489.062" viewBox="0 0 433 489.062">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_33841" data-name="Rectángulo 33841" width="382.83" height="319.264" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="BG" width="433" height="489" transform="translate(-0.211 -0.434)" fill="none" opacity="0.949"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <rect id="Rectángulo_346394" data-name="Rectángulo 346394" width="150.033" height="97.333" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-5">
+      <path id="Trazado_716103" data-name="Trazado 716103" d="M0,61.35A35.413,35.413,0,1,0,35.412,25.937,35.413,35.413,0,0,0,0,61.35" transform="translate(0 -25.937)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-6">
+      <rect id="Rectángulo_347579" data-name="Rectángulo 347579" width="5.382" height="13.015" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-7">
+      <rect id="Rectángulo_347580" data-name="Rectángulo 347580" width="19.035" height="1.46" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-8">
+      <rect id="Rectángulo_347581" data-name="Rectángulo 347581" width="2.801" height="1.459" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-9">
+      <rect id="Rectángulo_347582" data-name="Rectángulo 347582" width="5.903" height="1.46" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-10">
+      <rect id="Rectángulo_347583" data-name="Rectángulo 347583" width="16.417" height="1.46" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-11">
+      <rect id="Rectángulo_347584" data-name="Rectángulo 347584" width="11.996" height="1.459" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-12">
+      <rect id="Rectángulo_347585" data-name="Rectángulo 347585" width="17.74" height="1.46" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-13">
+      <rect id="Rectángulo_347586" data-name="Rectángulo 347586" width="9.141" height="1.459" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-14">
+      <rect id="Rectángulo_347587" data-name="Rectángulo 347587" width="9.141" height="1.46" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_1009397" data-name="Grupo 1009397" transform="translate(-954 -12031.938)">
+    <g id="Grupo_1009022" data-name="Grupo 1009022" transform="translate(774.211 6866.434)">
+      <g id="Grupo_1009020" data-name="Grupo 1009020" transform="translate(180 5166)">
+        <path id="Trazado_113636" data-name="Trazado 113636" d="M315.362,306.7A157.681,157.681,0,1,1,157.681,149.018,157.681,157.681,0,0,1,315.362,306.7" transform="translate(0 -149.018)" fill="#0078bb"/>
+        <path id="Trazado_113637" data-name="Trazado 113637" d="M1216.752,552.737A114.257,114.257,0,1,1,1102.5,438.48a114.257,114.257,0,0,1,114.257,114.257" transform="translate(-806.78 -351.632)" fill="#008b8a"/>
+        <path id="Trazado_113638" data-name="Trazado 113638" d="M1246.782,605.3a91.728,91.728,0,1,1-91.728-91.728,91.728,91.728,0,0,1,91.728,91.728" transform="translate(-859.339 -404.192)" fill="#fff"/>
+        <path id="Trazado_113665" data-name="Trazado 113665" d="M130.523,381.652A3.524,3.524,0,1,1,127,378.128a3.524,3.524,0,0,1,3.524,3.524" transform="translate(-86.429 -309.388)" fill="#fff"/>
+        <path id="Trazado_113666" data-name="Trazado 113666" d="M182.2,381.652a3.524,3.524,0,1,1-3.524-3.524,3.524,3.524,0,0,1,3.524,3.524" transform="translate(-122.6 -309.388)" fill="#fff"/>
+        <path id="Trazado_113667" data-name="Trazado 113667" d="M233.874,381.652a3.524,3.524,0,1,1-3.524-3.524,3.524,3.524,0,0,1,3.524,3.524" transform="translate(-158.771 -309.388)" fill="#fff"/>
+        <path id="Trazado_113668" data-name="Trazado 113668" d="M285.549,381.652a3.524,3.524,0,1,1-3.524-3.524,3.524,3.524,0,0,1,3.524,3.524" transform="translate(-194.942 -309.388)" fill="#fff"/>
+        <path id="Trazado_113669" data-name="Trazado 113669" d="M337.223,381.652a3.524,3.524,0,1,1-3.524-3.524,3.524,3.524,0,0,1,3.524,3.524" transform="translate(-231.113 -309.388)" fill="#fff"/>
+        <path id="Trazado_113670" data-name="Trazado 113670" d="M130.523,430.978A3.524,3.524,0,1,1,127,427.454a3.524,3.524,0,0,1,3.524,3.523" transform="translate(-86.429 -343.915)" fill="#fff"/>
+        <path id="Trazado_113671" data-name="Trazado 113671" d="M182.2,430.978a3.524,3.524,0,1,1-3.524-3.523,3.524,3.524,0,0,1,3.524,3.523" transform="translate(-122.6 -343.915)" fill="#fff"/>
+        <path id="Trazado_113672" data-name="Trazado 113672" d="M233.874,430.978a3.524,3.524,0,1,1-3.524-3.523,3.524,3.524,0,0,1,3.524,3.523" transform="translate(-158.771 -343.915)" fill="#fff"/>
+        <path id="Trazado_113673" data-name="Trazado 113673" d="M285.549,430.978a3.524,3.524,0,1,1-3.524-3.523,3.524,3.524,0,0,1,3.524,3.523" transform="translate(-194.942 -343.915)" fill="#fff"/>
+        <path id="Trazado_113674" data-name="Trazado 113674" d="M337.223,430.978a3.524,3.524,0,1,1-3.524-3.523,3.524,3.524,0,0,1,3.524,3.523" transform="translate(-231.113 -343.915)" fill="#fff"/>
+        <path id="Trazado_113675" data-name="Trazado 113675" d="M130.523,480.3A3.524,3.524,0,1,1,127,476.781a3.524,3.524,0,0,1,3.524,3.523" transform="translate(-86.429 -378.442)" fill="#fff"/>
+        <path id="Trazado_113676" data-name="Trazado 113676" d="M182.2,480.3a3.524,3.524,0,1,1-3.524-3.523A3.524,3.524,0,0,1,182.2,480.3" transform="translate(-122.6 -378.442)" fill="#fff"/>
+        <path id="Trazado_113677" data-name="Trazado 113677" d="M233.874,480.3a3.524,3.524,0,1,1-3.524-3.523,3.524,3.524,0,0,1,3.524,3.523" transform="translate(-158.771 -378.442)" fill="#fff"/>
+        <path id="Trazado_113678" data-name="Trazado 113678" d="M285.549,480.3a3.524,3.524,0,1,1-3.524-3.523,3.524,3.524,0,0,1,3.524,3.523" transform="translate(-194.942 -378.442)" fill="#fff"/>
+        <path id="Trazado_113679" data-name="Trazado 113679" d="M337.223,480.3a3.524,3.524,0,1,1-3.524-3.523,3.524,3.524,0,0,1,3.524,3.523" transform="translate(-231.113 -378.442)" fill="#fff"/>
+        <path id="Trazado_113680" data-name="Trazado 113680" d="M130.523,529.63A3.524,3.524,0,1,1,127,526.107a3.524,3.524,0,0,1,3.524,3.524" transform="translate(-86.429 -412.968)" fill="#fff"/>
+        <path id="Trazado_113681" data-name="Trazado 113681" d="M182.2,529.63a3.524,3.524,0,1,1-3.524-3.524,3.523,3.523,0,0,1,3.524,3.524" transform="translate(-122.6 -412.968)" fill="#fff"/>
+        <path id="Trazado_113682" data-name="Trazado 113682" d="M233.874,529.63a3.524,3.524,0,1,1-3.524-3.524,3.524,3.524,0,0,1,3.524,3.524" transform="translate(-158.771 -412.968)" fill="#fff"/>
+        <path id="Trazado_113683" data-name="Trazado 113683" d="M285.549,529.63a3.524,3.524,0,1,1-3.524-3.524,3.524,3.524,0,0,1,3.524,3.524" transform="translate(-194.942 -412.968)" fill="#fff"/>
+        <path id="Trazado_113684" data-name="Trazado 113684" d="M337.223,529.63a3.524,3.524,0,1,1-3.524-3.524,3.524,3.524,0,0,1,3.524,3.524" transform="translate(-231.113 -412.968)" fill="#fff"/>
+        <path id="Trazado_113685" data-name="Trazado 113685" d="M130.523,578.957A3.524,3.524,0,1,1,127,575.433a3.524,3.524,0,0,1,3.524,3.523" transform="translate(-86.429 -447.495)" fill="#fff"/>
+        <path id="Trazado_113686" data-name="Trazado 113686" d="M182.2,578.957a3.524,3.524,0,1,1-3.524-3.523,3.524,3.524,0,0,1,3.524,3.523" transform="translate(-122.6 -447.495)" fill="#fff"/>
+        <path id="Trazado_113687" data-name="Trazado 113687" d="M233.874,578.957a3.524,3.524,0,1,1-3.524-3.523,3.524,3.524,0,0,1,3.524,3.523" transform="translate(-158.771 -447.495)" fill="#fff"/>
+        <path id="Trazado_113688" data-name="Trazado 113688" d="M285.549,578.957a3.524,3.524,0,1,1-3.524-3.523,3.524,3.524,0,0,1,3.524,3.523" transform="translate(-194.942 -447.495)" fill="#fff"/>
+        <path id="Trazado_113689" data-name="Trazado 113689" d="M337.223,578.957a3.524,3.524,0,1,1-3.524-3.523,3.524,3.524,0,0,1,3.524,3.523" transform="translate(-231.113 -447.495)" fill="#fff"/>
+        <g id="Grupo_1002336" data-name="Grupo 1002336" transform="translate(42.652 10.645)" opacity="0.251">
+          <g id="Grupo_80323" data-name="Grupo 80323" clip-path="url(#clip-path)">
+            <path id="Trazado_113615" data-name="Trazado 113615" d="M244.624,314.241c-3.616-.28-7.306-.44-11.085-.411-19.993.151-39.549,5.636-59.666,5.424-42.624-.449-86.492-4.953-123.331-32.786C-31.072,224.8-4.319,92.71,63.338,38.48,99.289,9.665,144.068.854,186.97.039,242.2-1.01,313.035,16.8,352.6,64.2c27.568,33.026,34.423,109.97,27.979,153.568-5.13,34.7-24.382,67.43-48.7,86.479-30.33,23.756-56.046,12.407-87.257,9.992" transform="translate(0 0.004)" fill="#e0f4fe"/>
+          </g>
+        </g>
+      </g>
+      <g id="Grupo_1009021" data-name="Grupo 1009021" transform="translate(180 5166)">
+        <g id="Enmascarar_grupo_998583" data-name="Enmascarar grupo 998583" transform="translate(0 0)" clip-path="url(#clip-path-2)">
+          <rect id="dylan-shaw-UxyWwU6n_ts-unsplash" width="460.673" height="545.729" transform="translate(-12.451 -28.371)" fill="none"/>
+        </g>
+        <g id="Grupo_842615" data-name="Grupo 842615" transform="translate(13.796 123.021)">
+          <g id="Grupo_842604" data-name="Grupo 842604" transform="translate(215.401 0)">
+            <ellipse id="Elipse_5682" data-name="Elipse 5682" cx="9.343" cy="9.343" rx="9.343" ry="9.343" transform="translate(0 0)" fill="#005bff"/>
+          </g>
+          <g id="Grupo_842521" data-name="Grupo 842521" transform="translate(0 3.56)">
+            <g id="Grupo_842408" data-name="Grupo 842408" transform="translate(241.417 0)">
+              <path id="Trazado_299415" data-name="Trazado 299415" d="M2407.717,953.229l106.838,61.681,21.736-12.51-106.863-61.7Z" transform="translate(-2405.345 -832.008)" fill="#0d0d0d" opacity="0.3"/>
+              <g id="Grupo_842391" data-name="Grupo 842391" transform="translate(18.969 20.799)">
+                <path id="Trazado_299416" data-name="Trazado 299416" d="M2467.482,930.533V935.6l4.411-2.5v-5.077Z" transform="translate(-2360.644 -866.326)" fill="#0b577d"/>
+                <path id="Trazado_299417" data-name="Trazado 299417" d="M2420.142,898.146l-4.389,2.523,106.839,61.684,4.411-2.517Z" transform="translate(-2415.753 -898.146)" fill="#1078ad"/>
+                <path id="Trazado_299418" data-name="Trazado 299418" d="M2415.753,899.368v5.066l106.839,61.682v-5.065Z" transform="translate(-2415.753 -896.845)" fill="#083c57"/>
+              </g>
+              <g id="Grupo_842393" data-name="Grupo 842393" transform="translate(37.025 14.188)">
+                <g id="Grupo_842392" data-name="Grupo 842392" transform="translate(7.69 37.523)">
+                  <path id="Trazado_299419" data-name="Trazado 299419" d="M2428.241,914.451v54.57a4.662,4.662,0,0,0,4.667,4.664h.1a4.682,4.682,0,0,0,4.674-4.664v-54.57Z" transform="translate(-2428.195 -911.688)" fill="#083c57"/>
+                  <path id="Trazado_299420" data-name="Trazado 299420" d="M2429.6,917.8a7.49,7.49,0,0,0,6.752,0c1.9-1.088,1.9-2.821,0-3.879a7.463,7.463,0,0,0-6.752,0C2427.758,914.978,2427.758,916.711,2429.6,917.8Z" transform="translate(-2428.219 -913.113)" fill="#0b577d"/>
+                </g>
+                <path id="Trazado_299421" data-name="Trazado 299421" d="M2429.861,899.13v86.649a6.056,6.056,0,0,0,6.04,6.095h.141a6.1,6.1,0,0,0,6.089-6.095V899.13h4.368v86.649a10.486,10.486,0,0,1-10.457,10.488h-.141a10.487,10.487,0,0,1-10.469-10.488V899.13Z" transform="translate(-2423.498 -890.487)" fill="#295e87"/>
+                <path id="Trazado_299422" data-name="Trazado 299422" d="M2428.144,899.13v86.649c0,3.375,2.757,5.692,2.757,0V899.13Z" transform="translate(-2420.608 -890.487)" fill="#fff" opacity="0.2"/>
+                <path id="Trazado_299423" data-name="Trazado 299423" d="M2431.571,899.13v86.649c0,3.375,2.761,5.692,2.761,0V899.13Z" transform="translate(-2416.957 -890.487)" opacity="0.3"/>
+                <path id="Trazado_299424" data-name="Trazado 299424" d="M2428.134,907.176c4.847,2.832,12.764,2.832,17.589,0,4.874-2.794,4.874-7.276,0-10.118-4.825-2.817-12.741-2.817-17.589,0C2423.282,899.9,2423.282,904.381,2428.134,907.176Zm4.5-9.936a9.645,9.645,0,0,1,8.649,0c2.431,1.384,2.431,3.631,0,5.031a9.8,9.8,0,0,1-8.649,0C2430.243,900.871,2430.243,898.623,2432.635,897.24Z" transform="translate(-2424.495 -894.945)" fill="#517fa2"/>
+                <path id="Trazado_299425" data-name="Trazado 299425" d="M2438.663,901.155c-.167-.11-.386-.266-.649-.413a9.594,9.594,0,0,0-8.65,0c-.239.147-.483.3-.625.413-1.75-1.373-1.547-3.307.625-4.571a9.646,9.646,0,0,1,8.65,0C2440.206,897.848,2440.389,899.781,2438.663,901.155Z" transform="translate(-2421.226 -894.289)" fill="#295e87"/>
+              </g>
+              <g id="Grupo_842395" data-name="Grupo 842395" transform="translate(62.511 28.873)">
+                <g id="Grupo_842394" data-name="Grupo 842394" transform="translate(7.689 37.487)">
+                  <path id="Trazado_299426" data-name="Trazado 299426" d="M2440.571,921.553v54.595a4.672,4.672,0,0,0,4.667,4.664h.095a4.642,4.642,0,0,0,4.645-4.664V921.553Z" transform="translate(-2440.546 -918.772)" fill="#295e87"/>
+                  <path id="Trazado_299427" data-name="Trazado 299427" d="M2441.957,924.954a7.489,7.489,0,0,0,6.72,0c1.906-1.093,1.906-2.848,0-3.935a7.348,7.348,0,0,0-6.72,0C2440.092,922.106,2440.092,923.861,2441.957,924.954Z" transform="translate(-2440.558 -920.206)" fill="#517fa2"/>
+                </g>
+                <path id="Trazado_299428" data-name="Trazado 299428" d="M2442.151,906.244v86.624a6.115,6.115,0,0,0,6.089,6.118h.124a6.093,6.093,0,0,0,6.086-6.118V906.244h4.405v86.624a10.512,10.512,0,0,1-10.491,10.5h-.124a10.5,10.5,0,0,1-10.471-10.5V906.244Z" transform="translate(-2435.841 -897.593)" fill="#295e87"/>
+                <path id="Trazado_299429" data-name="Trazado 299429" d="M2440.481,906.244v86.624c0,3.367,2.762,5.738,2.762,0V906.244Z" transform="translate(-2432.951 -897.593)" fill="#fff" opacity="0.2"/>
+                <path id="Trazado_299430" data-name="Trazado 299430" d="M2443.918,906.244v86.624c0,3.367,2.759,5.738,2.759,0V906.244Z" transform="translate(-2429.29 -897.593)" opacity="0.3"/>
+                <path id="Trazado_299431" data-name="Trazado 299431" d="M2440.489,914.341c4.848,2.77,12.7,2.77,17.566,0,4.875-2.84,4.875-7.371,0-10.188-4.864-2.8-12.718-2.8-17.566,0C2435.617,906.97,2435.617,911.5,2440.489,914.341Zm4.461-9.976a9.666,9.666,0,0,1,8.69,0c2.408,1.376,2.408,3.6,0,5a9.6,9.6,0,0,1-8.69,0C2442.558,907.968,2442.558,905.741,2444.949,904.366Z" transform="translate(-2436.835 -902.056)" fill="#517fa2"/>
+                <path id="Trazado_299432" data-name="Trazado 299432" d="M2451.024,908.258a5.107,5.107,0,0,0-.64-.394,9.487,9.487,0,0,0-8.689,0,4.912,4.912,0,0,0-.647.394c-1.728-1.359-1.526-3.311.647-4.552a9.665,9.665,0,0,1,8.689,0C2452.569,904.948,2452.792,906.9,2451.024,908.258Z" transform="translate(-2433.58 -901.396)" fill="#295e87"/>
+              </g>
+              <g id="Grupo_842397" data-name="Grupo 842397" transform="translate(88.847 44.118)">
+                <g id="Grupo_842396" data-name="Grupo 842396" transform="translate(7.69 37.54)">
+                  <path id="Trazado_299433" data-name="Trazado 299433" d="M2453.325,928.936v54.628A4.7,4.7,0,0,0,2458,988.2h.082a4.657,4.657,0,0,0,4.662-4.633V928.936Z" transform="translate(-2453.294 -926.204)" fill="#8deaff"/>
+                  <path id="Trazado_299434" data-name="Trazado 299434" d="M2454.721,932.3a7.388,7.388,0,0,0,6.74,0c1.848-1.074,1.848-2.875,0-3.9a7.609,7.609,0,0,0-6.74,0C2452.84,929.429,2452.84,931.229,2454.721,932.3Z" transform="translate(-2453.31 -927.613)" fill="#c7f2ff"/>
+                </g>
+                <path id="Trazado_299435" data-name="Trazado 299435" d="M2454.919,913.623v86.657a6.051,6.051,0,0,0,6.066,6.059h.126a6.048,6.048,0,0,0,6.1-6.059V913.623h4.39v86.657a10.5,10.5,0,0,1-10.489,10.5h-.126a10.527,10.527,0,0,1-10.465-10.5V913.623Z" transform="translate(-2448.593 -904.977)" fill="#295e87"/>
+                <path id="Trazado_299436" data-name="Trazado 299436" d="M2453.237,913.623v86.657c0,3.387,2.744,5.727,2.744,0V913.623Z" transform="translate(-2445.699 -904.977)" fill="#fff" opacity="0.2"/>
+                <path id="Trazado_299437" data-name="Trazado 299437" d="M2456.668,913.623v86.657c0,3.387,2.778,5.727,2.778,0V913.623Z" transform="translate(-2442.042 -904.977)" opacity="0.3"/>
+                <path id="Trazado_299438" data-name="Trazado 299438" d="M2453.25,921.691c4.854,2.8,12.723,2.8,17.576,0,4.87-2.8,4.87-7.367,0-10.149-4.853-2.807-12.722-2.807-17.576,0C2448.365,914.324,2448.365,918.894,2453.25,921.691Zm4.506-9.984a9.792,9.792,0,0,1,8.644,0c2.392,1.421,2.392,3.645,0,5.054a9.647,9.647,0,0,1-8.644,0C2455.323,915.353,2455.323,913.128,2457.756,911.707Z" transform="translate(-2449.586 -909.437)" fill="#517fa2"/>
+                <path id="Trazado_299439" data-name="Trazado 299439" d="M2463.766,915.658a2.691,2.691,0,0,0-.63-.4,9.4,9.4,0,0,0-8.644,0,3.1,3.1,0,0,0-.687.4c-1.746-1.382-1.506-3.319.687-4.6a9.793,9.793,0,0,1,8.644,0C2465.287,912.339,2465.489,914.276,2463.766,915.658Z" transform="translate(-2446.323 -908.784)" fill="#295e87"/>
+              </g>
+              <g id="Grupo_842398" data-name="Grupo 842398" transform="translate(2.372 103.633)">
+                <path id="Trazado_299440" data-name="Trazado 299440" d="M2412.159,946.869v5.044l-4.442-2.535v-5.057Z" transform="translate(-2407.717 -931.788)" fill="#083c57"/>
+                <path id="Trazado_299441" data-name="Trazado 299441" d="M2429.428,938.253l4.4,2.537-21.674,12.543-4.442-2.548Z" transform="translate(-2407.717 -938.253)" fill="#1078ad"/>
+                <path id="Trazado_299442" data-name="Trazado 299442" d="M2431.542,939.481v5.032l-21.674,12.556v-5.044Z" transform="translate(-2405.426 -936.944)" fill="#0b577d"/>
+              </g>
+              <g id="Grupo_842399" data-name="Grupo 842399" transform="translate(10.745 30.583)">
+                <path id="Trazado_299443" data-name="Trazado 299443" d="M2416.159,907.934l-4.388-2.517,4.388-2.533,4.359,2.533Z" transform="translate(-2411.771 -902.883)" fill="#1d374e"/>
+                <path id="Trazado_299444" data-name="Trazado 299444" d="M2418.255,982.331l-4.359,2.5V906.627l4.359-2.517Z" transform="translate(-2409.507 -901.577)" fill="#0b577d"/>
+                <path id="Trazado_299445" data-name="Trazado 299445" d="M2416.159,984.834l-4.388-2.525v-78.2l4.388,2.517Z" transform="translate(-2411.771 -901.577)" fill="#083c57"/>
+              </g>
+              <g id="Grupo_842400" data-name="Grupo 842400" transform="translate(4.378 23.323)">
+                <path id="Trazado_299446" data-name="Trazado 299446" d="M2413.092,906.007v5.032l-4.4-2.5v-5.1Z" transform="translate(-2408.688 -895.037)" fill="#1d374e"/>
+                <path id="Trazado_299447" data-name="Trazado 299447" d="M2423.28,899.368l4.389,2.507-14.577,8.463-4.4-2.574Z" transform="translate(-2408.688 -899.368)" fill="#1078ad"/>
+                <path id="Trazado_299448" data-name="Trazado 299448" d="M2425.4,900.582v5.063l-14.576,8.433v-5.032Z" transform="translate(-2406.417 -898.075)" fill="#0b577d"/>
+              </g>
+              <g id="Grupo_842402" data-name="Grupo 842402" transform="translate(12.294)">
+                <g id="Grupo_842401" data-name="Grupo 842401" transform="translate(7.661 37.532)">
+                  <path id="Trazado_299449" data-name="Trazado 299449" d="M2416.251,907.575v54.593a4.633,4.633,0,0,0,4.651,4.643h.118a4.624,4.624,0,0,0,4.653-4.643V907.575Z" transform="translate(-2416.208 -904.834)" fill="#68cce3"/>
+                  <path id="Trazado_299450" data-name="Trazado 299450" d="M2417.632,910.968a7.656,7.656,0,0,0,6.767,0c1.854-1.085,1.854-2.842,0-3.914a7.511,7.511,0,0,0-6.767,0C2415.762,908.125,2415.762,909.883,2417.632,910.968Z" transform="translate(-2416.23 -906.248)" fill="#8deaff"/>
+                </g>
+                <path id="Trazado_299451" data-name="Trazado 299451" d="M2417.84,892.282v86.626A6.079,6.079,0,0,0,2423.9,985h.147a6.074,6.074,0,0,0,6.066-6.095V892.282h4.419v86.626a10.5,10.5,0,0,1-10.485,10.486h-.147a10.464,10.464,0,0,1-10.447-10.486V892.282Z" transform="translate(-2411.528 -883.594)" fill="#295e87"/>
+                <path id="Trazado_299452" data-name="Trazado 299452" d="M2416.151,892.282v86.626c0,3.362,2.766,5.713,2.766,0V892.282Z" transform="translate(-2408.655 -883.594)" fill="#fff" opacity="0.2"/>
+                <path id="Trazado_299453" data-name="Trazado 299453" d="M2419.591,892.282v86.626c0,3.362,2.78,5.713,2.78,0V892.282Z" transform="translate(-2404.989 -883.594)" opacity="0.3"/>
+                <path id="Trazado_299454" data-name="Trazado 299454" d="M2416.19,900.351c4.824,2.784,12.683,2.784,17.524,0,4.876-2.813,4.876-7.334,0-10.129-4.841-2.862-12.7-2.862-17.524,0C2411.3,893.017,2411.3,897.538,2416.19,900.351Zm4.436-9.986a10.07,10.07,0,0,1,8.688,0c2.415,1.435,2.415,3.682,0,5.068a9.6,9.6,0,0,1-8.688,0C2418.22,894.047,2418.22,891.8,2420.626,890.365Z" transform="translate(-2412.521 -888.076)" fill="#517fa2"/>
+                <path id="Trazado_299455" data-name="Trazado 299455" d="M2426.69,894.292a3.407,3.407,0,0,0-.628-.384,9.5,9.5,0,0,0-8.689,0,6.619,6.619,0,0,0-.638.384c-1.768-1.365-1.483-3.331.638-4.6a10.072,10.072,0,0,1,8.689,0C2428.23,890.96,2428.462,892.927,2426.69,894.292Z" transform="translate(-2409.268 -887.403)" fill="#295e87"/>
+              </g>
+              <g id="Grupo_842403" data-name="Grupo 842403" transform="translate(15.134 111.315)">
+                <path id="Trazado_299456" data-name="Trazado 299456" d="M2461.484,972.07v5.086l4.362-2.592v-5.054Z" transform="translate(-2363.198 -912.635)" fill="#1d374e"/>
+                <path id="Trazado_299457" data-name="Trazado 299457" d="M2418.255,941.973,2413.9,944.5l98.286,56.909,4.361-2.559Z" transform="translate(-2413.896 -941.973)" fill="#1078ad"/>
+                <path id="Trazado_299458" data-name="Trazado 299458" d="M2413.9,943.2v5.066l98.286,56.93V1000.1Z" transform="translate(-2413.896 -940.67)" fill="#083c57"/>
+              </g>
+              <g id="Grupo_842404" data-name="Grupo 842404" transform="translate(104.734 162.878)">
+                <path id="Trazado_299459" data-name="Trazado 299459" d="M2461.683,975.541v5.1l-4.4-2.558v-5.068Z" transform="translate(-2457.279 -960.468)" fill="#083c57"/>
+                <path id="Trazado_299460" data-name="Trazado 299460" d="M2478.99,966.938l4.379,2.549-21.686,12.523-4.4-2.529Z" transform="translate(-2457.279 -966.938)" fill="#1078ad"/>
+                <path id="Trazado_299461" data-name="Trazado 299461" d="M2481.1,968.173v5.042l-21.685,12.578v-5.1Z" transform="translate(-2455.007 -965.623)" fill="#0b577d"/>
+              </g>
+              <g id="Grupo_842405" data-name="Grupo 842405" transform="translate(113.42 89.702)">
+                <path id="Trazado_299462" data-name="Trazado 299462" d="M2465.846,936.53l-4.362-2.495,4.362-2.527,4.365,2.527Z" transform="translate(-2461.484 -931.508)" fill="#1d374e"/>
+                <path id="Trazado_299463" data-name="Trazado 299463" d="M2467.963,1010.917l-4.366,2.525V935.226l4.366-2.495Z" transform="translate(-2459.234 -930.204)" fill="#0b577d"/>
+                <path id="Trazado_299464" data-name="Trazado 299464" d="M2465.846,1013.443l-4.362-2.525V932.731l4.362,2.495Z" transform="translate(-2461.484 -930.204)" fill="#083c57"/>
+              </g>
+              <g id="Grupo_842406" data-name="Grupo 842406" transform="translate(106.886 82.489)">
+                <path id="Trazado_299465" data-name="Trazado 299465" d="M2462.685,934.64V939.7l-4.364-2.539v-5.075Z" transform="translate(-2458.321 -923.682)" fill="#1d374e"/>
+                <path id="Trazado_299466" data-name="Trazado 299466" d="M2472.883,928.016l4.36,2.517-14.558,8.441-4.364-2.557Z" transform="translate(-2458.321 -928.016)" fill="#1078ad"/>
+                <path id="Trazado_299467" data-name="Trazado 299467" d="M2474.992,929.234V934.3l-14.559,8.433v-5.057Z" transform="translate(-2456.07 -926.717)" fill="#0b577d"/>
+              </g>
+              <g id="Grupo_842407" data-name="Grupo 842407" transform="translate(0 31.719)">
+                <path id="Trazado_299468" data-name="Trazado 299468" d="M2458.321,935.838V940.9l4.364-2.523v-5.056Z" transform="translate(-2351.435 -871.593)" fill="#0b577d"/>
+                <path id="Trazado_299469" data-name="Trazado 299469" d="M2410.946,903.434l-4.378,2.573,106.887,61.672,4.363-2.517Z" transform="translate(-2406.568 -903.434)" fill="#1078ad"/>
+                <path id="Trazado_299470" data-name="Trazado 299470" d="M2406.568,904.68v5.032l106.887,61.7v-5.062Z" transform="translate(-2406.568 -902.106)" fill="#083c57"/>
+              </g>
+            </g>
+            <g id="Grupo_842489" data-name="Grupo 842489" transform="translate(94.896 8.092)">
+              <g id="Grupo_842411" data-name="Grupo 842411" transform="translate(22.528)">
+                <path id="Trazado_299471" data-name="Trazado 299471" d="M2395.258,908.548s.244-2.526-3.974-2.526-3.986,2.8-3.986,2.8l.289,2.547,3.412,2.259,4.125-2.325Z" transform="translate(-2303.106 -877.048)" fill="#b4caed"/>
+                <path id="Trazado_299472" data-name="Trazado 299472" d="M2393.708,910.183l-.563-4.086-4.958,1.3.189,5.278,4.768-.516Z" transform="translate(-2302.157 -876.969)" fill="#ffc654"/>
+                <path id="Trazado_299473" data-name="Trazado 299473" d="M2371.745,906.37s5.275-.188,7.945.776,4.506,2.77,8.02,4.2,16.746,4.386,16.746,4.386a27.009,27.009,0,0,0,.89-7.264c.289,2.276,6.835,3.253,7.959-.273.218,3.4,1.037,10.488.589,12.9s-2.951,4.23-7.062,4-23.809-4.684-25.552-5.306-7.439-.483-7.439-.483l-3.486-8.67Z" transform="translate(-2321.154 -876.694)" fill="#dae5f8"/>
+                <path id="Trazado_299474" data-name="Trazado 299474" d="M2387.125,917.684s-2.668-4.651.583-6.425A20.557,20.557,0,0,0,2387.125,917.684Z" transform="translate(-2304.386 -871.469)" fill="#b4caed"/>
+                <path id="Trazado_299475" data-name="Trazado 299475" d="M2392.206,903.511c-4.459,1.237-6.975.155-7.061.824-.379,2.863,6.188,1.975,6.188,1.975A7.842,7.842,0,0,0,2392.206,903.511Z" transform="translate(-2305.416 -879.723)" fill="#f0c6b4"/>
+                <path id="Trazado_299476" data-name="Trazado 299476" d="M2395.48,1005.5c-10.7,6.171-28.039,6.171-38.729,0s-10.686-16.184,0-22.357,28.029-6.182,38.729,0S2406.17,999.324,2395.48,1005.5Z" transform="translate(-2344.185 -799.832)" opacity="0.3"/>
+                <path id="Trazado_299477" data-name="Trazado 299477" d="M2351.027,981.723c-.141.762-.723,1.26-.312,2.865a62.472,62.472,0,0,0,4.435,10.963c1.468,3.075,5.291,4.977,8.143,3.99,4.474-1.547,1.805-5.692,1.805-5.692s-.844-1.468-1.847-3.535Z" transform="translate(-2342.232 -796.401)"/>
+                <path id="Trazado_299478" data-name="Trazado 299478" d="M2363.016,1009.937c-1.446-3.03-3.207-7.336-3.071-10.215.7-14.581,6.433-24.784,7.243-27.764a11.455,11.455,0,0,0-.076-5.814l-10.6-2.842a10.958,10.958,0,0,0-2.369,3.837c-1.115,3.868,1,14.362-2.021,30.1-.195,1-.839,2.066-1.332,4.11,2.676,4.977,4.4,10.209,7.349,10.963C2363.006,1013.549,2363.016,1009.937,2363.016,1009.937Z" transform="translate(-2341.996 -816.026)" fill="#f0c6b4"/>
+                <path id="Trazado_299479" data-name="Trazado 299479" d="M2360.331,983.719c-.341,2.111-.337,4.063,1.152,4.591,2.687.944,7.9.64,10.046,1.158s5.405,2.563,7.443,3.428,9.521,1.785,10.161-.8-4.756-4.992-7.666-6.427Z" transform="translate(-2332.03 -794.275)"/>
+                <path id="Trazado_299480" data-name="Trazado 299480" d="M2381.372,1010.512c-.774-.615-8.046-2.006-9.126-7.939-2.241-12.367,4.329-32.1,6.479-36.278a5.723,5.723,0,0,0-.217-5.89l-15.8,10.457s-.627,1.349-1.091,2.7,1.282,13.6-.484,30.311c-.123,1.2-.754,3.618-.9,4.68-.071.8,3.95,1.685,8.507,2.767C2375.379,1012.906,2383.179,1014.209,2381.372,1010.512Z" transform="translate(-2331.936 -819.112)" fill="#f0c6b4"/>
+                <path id="Trazado_299481" data-name="Trazado 299481" d="M2394.53,938.2s-1.383,36.414-2.778,44.613-19.055,13.631-29.825,13.638c-8.441,0-9.249-5.789-8.788-7.4,2.208-7.718,2.557-18.359,2.557-18.359l5.69-27.644Z" transform="translate(-2339.604 -842.767)" fill="#003552"/>
+                <path id="Trazado_299482" data-name="Trazado 299482" d="M2361.461,905.721a31.985,31.985,0,0,1,.045,7.316v6.388l9.322,5.463,7.279-7.433v-9.381l-9.333-5.18-5.537.229S2361.043,904.939,2361.461,905.721Z" transform="translate(-2330.687 -880.381)" fill="#c7a495"/>
+                <path id="Trazado_299483" data-name="Trazado 299483" d="M2362.306,909.771s3.472,8.011,10.211,5.221c4.408-1.822,2.559-7.353,2.559-7.353l5.657.343,9.562,23.588s-4.378,38.964-4.453,39.886c-7.9,6.582-13.016,8.509-13.016,8.509l1.089-40.03-12.785-22.766Z" transform="translate(-2330.982 -875.326)" fill="#ffc654"/>
+                <path id="Trazado_299484" data-name="Trazado 299484" d="M2367.882,908.541c.776,9.693,10.954,18.889,11.691,28.353.486,6.194-3.874,35.011-4.49,70.178a12.047,12.047,0,0,0,8.363-11.791c0-30.683,4.149-55.442,2.943-61.025s-4.448-9.17-6.425-16.264c-1.348-4.827-.939-9.267-6.818-12.006C2373.146,905.986,2368.7,906.509,2367.882,908.541Z" transform="translate(-2323.789 -877.086)" fill="#fff"/>
+                <path id="Trazado_299485" data-name="Trazado 299485" d="M2358.658,920.557s9.166-9.959,11.227-12.752c.72,5.758,13.815,19.014,15.828,27.934,2.014,8.9-3.869,44.144-2.554,73.885-7.6,4.8-29.617,3.406-29.617-4.18,0-11.469-.138-25.65,3.193-32.765,3.329-7.138,9.315-11.111,9.224-15.254-.142-6.622-8.437-19.365-8.437-19.365Z" transform="translate(-2339.066 -875.149)" fill="#fff"/>
+                <path id="Trazado_299486" data-name="Trazado 299486" d="M2365.149,939.718s1.885,2.487.227,4.407-4.87,4.376-6.234,4.616c-.886.161-8.234,1-7.508-4.168.3-2.115,6.448-1.008,6.448-1.008l3.436-4.35Z" transform="translate(-2341.15 -841.685)" fill="#f0c6b4"/>
+                <path id="Trazado_299487" data-name="Trazado 299487" d="M2363.929,892.784c-1.6-1.053-9.926,6.386-9.926,14.172.006,9.453,6.708,13.356,7.481,17.266,4.68-1.51,6.039-7.778,6.039-7.778l-3.248-6.473,2.478-13.226S2365.535,893.833,2363.929,892.784Z" transform="translate(-2338.574 -891.258)" fill="#572b26"/>
+                <path id="Trazado_299488" data-name="Trazado 299488" d="M2365.917,896.814a4.24,4.24,0,1,1-4.245-4.195A4.223,4.223,0,0,1,2365.917,896.814Z" transform="translate(-2334.917 -891.327)" fill="#ffc654"/>
+                <path id="Trazado_299489" data-name="Trazado 299489" d="M2383.116,898.144s2.78,6.132,3.164,7.662a4.153,4.153,0,0,1-.332,1.873,19.443,19.443,0,0,1,.706,4.056,86.612,86.612,0,0,1-1.572,11.475c-.384,1.029-2.361,2.125-3.548,2.191s-7.722-1.221-9.8-2.923-3.614-5.5-3.614-5.5-2.616.287-3.841-1.628c-.537-.289-3.133-1.679-3.133-1.679l-2.324-6.917,5.928-10.052,11.621-3.071Z" transform="translate(-2333.439 -890.247)" fill="#f0c6b4"/>
+                <path id="Trazado_299490" data-name="Trazado 299490" d="M2365.759,917.1c-.339-.7-2.437-5-1.078-5.389,1.253-.146,1.6,1.266,4.8,2.774,1.927.919.345-1.4,4.417-3.658,1.039-.578-.758-3.077.75-4.878s7.67-.06,9.9-4.825c1.206-2.58-6.524-11.733-16.8-8.414-10.707,3.433-11.446,14.571-9.4,19.858C2360.927,919.232,2366.112,917.8,2365.759,917.1Z" transform="translate(-2334.917 -891.993)" fill="#85413a"/>
+                <path id="Trazado_299491" data-name="Trazado 299491" d="M2354.6,943.817a30.239,30.239,0,0,1,2.736,1.811c2.084,1.471,5.922-3.9,4.249-5.33-1.667-1.452-2.417-2.1-2.417-2.1Z" transform="translate(-2337.932 -842.767)" fill="#ffc654"/>
+                <path id="Trazado_299492" data-name="Trazado 299492" d="M2372.5,915.112c-4.341-3.156-9.444-.328-11.168,3.78s-12.072,28.772-14.507,33.805,11.124,14.645,14.2,17.9,10.644-4.042,7.115-7.324a107.373,107.373,0,0,1-10.048-11.5s12.706-20.447,15.488-24.094S2376.2,917.8,2372.5,915.112Z" transform="translate(-2346.533 -868.804)" fill="#dae5f8"/>
+                <path id="Trazado_299493" data-name="Trazado 299493" d="M2363,925.975c3.259,5.581,10.075,3.253,10.075,3.253S2366.026,934.726,2363,925.975Z" transform="translate(-2328.985 -855.792)" fill="#dae5f8"/>
+                <g id="Grupo_842410" data-name="Grupo 842410" transform="translate(82.324 20.059)">
+                  <path id="Trazado_299494" data-name="Trazado 299494" d="M2386.866,902.341l1.625-.432,1.75.7v21.6l-1,1.2h-1.484l-.889-1.2Z" transform="translate(-2385.888 -901.489)" fill="#659ec9" opacity="0.7"/>
+                  <g id="Grupo_842409" data-name="Grupo 842409" transform="translate(1.612 14.198)">
+                    <path id="Trazado_299495" data-name="Trazado 299495" d="M2387.178,908.859v7.448a.974.974,0,0,0,.977.965h.016a.974.974,0,0,0,.978-.965v-7.448Z" transform="translate(-2387.167 -908.282)" fill="#4fbeff"/>
+                    <path id="Trazado_299496" data-name="Trazado 299496" d="M2387.469,909.559a1.488,1.488,0,0,0,1.407,0c.392-.219.392-.586,0-.814a1.576,1.576,0,0,0-1.407,0C2387.074,908.973,2387.074,909.34,2387.469,909.559Z" transform="translate(-2387.173 -908.58)" fill="#8dd5ff"/>
+                  </g>
+                  <path id="Trazado_299497" data-name="Trazado 299497" d="M2387.5,902.584v20.5a1.275,1.275,0,0,0,1.274,1.274h.023a1.277,1.277,0,0,0,1.28-1.274v-20.5h.913v20.5a2.188,2.188,0,0,1-2.194,2.183h-.023a2.18,2.18,0,0,1-2.185-2.183v-20.5Z" transform="translate(-2386.179 -900.77)" fill="#517fa2"/>
+                  <path id="Trazado_299498" data-name="Trazado 299498" d="M2387.157,902.584v20.5c0,.7.578,1.188.578,0v-20.5Z" transform="translate(-2385.578 -900.77)" fill="#fff" opacity="0.2"/>
+                  <path id="Trazado_299499" data-name="Trazado 299499" d="M2387.878,902.584v20.5c0,.7.564,1.188.564,0v-20.5Z" transform="translate(-2384.811 -900.77)" opacity="0.3"/>
+                  <path id="Trazado_299500" data-name="Trazado 299500" d="M2387.157,904.272a4.083,4.083,0,0,0,3.688,0,1.128,1.128,0,0,0,0-2.129,4.111,4.111,0,0,0-3.687,0A1.123,1.123,0,0,0,2387.157,904.272Zm.938-2.08a2.007,2.007,0,0,1,1.821,0,.546.546,0,0,1,0,1.041,2,2,0,0,1-1.821,0A.548.548,0,0,1,2388.1,902.192Z" transform="translate(-2386.392 -901.706)" fill="#659ec9"/>
+                  <path id="Trazado_299501" data-name="Trazado 299501" d="M2389.36,903.006a.588.588,0,0,0-.126-.1,2.072,2.072,0,0,0-1.821,0,.675.675,0,0,0-.129.1c-.373-.3-.328-.7.129-.952a2.007,2.007,0,0,1,1.821,0C2389.687,902.3,2389.73,902.71,2389.36,903.006Z" transform="translate(-2385.71 -901.568)" fill="#295e87"/>
+                </g>
+                <path id="Trazado_299502" data-name="Trazado 299502" d="M2391.713,903.449c-1.146-.31-1.765.177-2.673.384-.912.19-2.532,1.442-2.154,4.724s2.041,5.82,3.262,6.049c4.447.828,4.442-4.11,4.442-7.156C2394.594,904.25,2392.859,903.765,2391.713,903.449Z" transform="translate(-2303.603 -879.896)" fill="#f0c6b4"/>
+              </g>
+              <g id="Grupo_842488" data-name="Grupo 842488" transform="translate(0 77.082)">
+                <g id="Grupo_842417" data-name="Grupo 842417">
+                  <g id="Grupo_842416" data-name="Grupo 842416">
+                    <path id="Trazado_299503" data-name="Trazado 299503" d="M2413.3,1100.593l-77.679-44.849,152.026-87.772,77.686,44.85Z" transform="translate(-2335.625 -888.134)" fill="#b2b1b1" opacity="0.3"/>
+                    <g id="Grupo_842412" data-name="Grupo 842412" transform="translate(135.779 16.778)">
+                      <path id="Trazado_299504" data-name="Trazado 299504" d="M2446.829,1007.266V972.407l17.126,6.964,3.022-1.741v-8.678L2412.4,937.439l-3.009,1.741,23.155,24.972v34.861l-28.159-4.034-3.015,1.741,5.55,20.513,3.019-1.735v-3.538l57.513,32.583,2.578,9.125,3.021-1.741,1.939-16.178ZM2464,1034.714l-54.064-31.211v-2.551l29.753,9.348,16.657,18.16Z" transform="translate(-2401.367 -937.439)" fill="#003552"/>
+                      <path id="Trazado_299505" data-name="Trazado 299505" d="M2443.816,1008.111V973.255l20.139,5.219V969.8l-54.568-31.521v8.679L2429.528,965v34.859l-28.161-4.034,1.944,18.433,3.606,2.08v-6.683l59.508,34.35v6.688l3.6,2.08,1.947-16.178Zm22.609,30.591-59.508-34.357v-2.555l29.755,9.346,29.753,25.007Z" transform="translate(-2401.367 -936.541)" fill="#00537d"/>
+                    </g>
+                    <g id="Grupo_842413" data-name="Grupo 842413" transform="translate(53.177 100.338)">
+                      <path id="Trazado_299506" data-name="Trazado 299506" d="M2366.112,1012.94v5.476l-4.739-2.739v-5.47Z" transform="translate(-2361.373 -943.477)" fill="#1d374e"/>
+                      <path id="Trazado_299507" data-name="Trazado 299507" d="M2476.945,977.9l4.749,2.739-115.582,66.724-4.739-2.733Z" transform="translate(-2361.373 -977.897)" fill="#1078ad"/>
+                      <path id="Trazado_299508" data-name="Trazado 299508" d="M2479.25,979.223V984.7l-115.582,66.722v-5.476Z" transform="translate(-2358.928 -976.484)" fill="#003552"/>
+                    </g>
+                    <g id="Grupo_842414" data-name="Grupo 842414" transform="translate(20.172 83.524)">
+                      <path id="Trazado_299509" data-name="Trazado 299509" d="M2390.854,1039.583v-34.851l17.13,6.964,3.017-1.743v-8.687l-54.588-31.511L2353.4,971.5l23.154,24.98v34.853l-28.154-4.042-3.009,1.75,5.551,20.513,3.01-1.741v-3.523l57.515,32.574,2.58,9.131,3.014-1.735,1.95-16.194Zm17.159,27.457-54.06-31.213v-2.557l29.757,9.339,16.659,18.169Z" transform="translate(-2345.392 -969.756)" fill="#003552"/>
+                      <path id="Trazado_299510" data-name="Trazado 299510" d="M2387.843,1040.43v-34.859l20.142,5.228v-8.687L2353.4,970.6v8.679l20.141,18.039v34.859l-28.15-4.036,1.941,18.433,3.61,2.08v-6.677l59.5,34.344v6.694l3.6,2.08,1.949-16.184Zm22.6,30.6-59.5-34.352v-2.557l29.753,9.345,29.749,25Z" transform="translate(-2345.392 -968.858)" fill="#00537d"/>
+                    </g>
+                    <g id="Grupo_842415" data-name="Grupo 842415">
+                      <path id="Trazado_299511" data-name="Trazado 299511" d="M2335.625,976.893l77.679,44.852v-5.087l-77.679-44.85Z" transform="translate(-2335.625 -884.046)" fill="#ffc654"/>
+                      <path id="Trazado_299512" data-name="Trazado 299512" d="M2525.269,956.109l-152.033,87.777V1038.8l152.033-87.773Z" transform="translate(-2295.557 -906.186)" fill="#f5a52e"/>
+                      <path id="Trazado_299513" data-name="Trazado 299513" d="M2413.3,1061.928l-77.679-44.85,152.026-87.763,77.686,44.84Z" transform="translate(-2335.625 -929.315)" fill="#ffec7a"/>
+                    </g>
+                  </g>
+                </g>
+                <g id="Grupo_842425" data-name="Grupo 842425" transform="translate(102.644 6.092)">
+                  <g id="Grupo_842418" data-name="Grupo 842418" transform="translate(0 1.384)">
+                    <path id="Trazado_299514" data-name="Trazado 299514" d="M2414.727,977l-29.4-16.974,45.842-26.462,29.4,16.968Z" transform="translate(-2385.324 -932.263)" fill="#0d0d0d" opacity="0.3"/>
+                    <path id="Trazado_299515" data-name="Trazado 299515" d="M2386.508,947.7l27.126,15.657v-2.689l-27.126-15.657Z" transform="translate(-2384.062 -920.065)" fill="#a7a9ac"/>
+                    <path id="Trazado_299516" data-name="Trazado 299516" d="M2442.864,943.205l-43.222,24.951v-2.688l43.222-24.951Z" transform="translate(-2370.071 -924.859)" fill="#939598"/>
+                    <path id="Trazado_299517" data-name="Trazado 299517" d="M2413.634,973.544l-27.126-15.657,43.216-24.952,27.132,15.658Z" transform="translate(-2384.062 -932.935)" fill="#bcbec0"/>
+                    <path id="Trazado_299518" data-name="Trazado 299518" d="M2452.078,947.7l-1.683.974-22.441-12.947-38.4,22.188-1.684-.972,40.087-23.166Z" transform="translate(-2382.614 -932.041)" fill="#939598"/>
+                    <path id="Trazado_299519" data-name="Trazado 299519" d="M2449.527,947.666l-38.411,22.19-22.433-12.949,38.4-22.188Z" transform="translate(-2381.745 -931.035)" fill="#a7a9ac"/>
+                  </g>
+                  <g id="Grupo_842420" data-name="Grupo 842420" transform="translate(33.996)">
+                    <path id="Trazado_299520" data-name="Trazado 299520" d="M2407.731,944.674a8.316,8.316,0,0,1-4.142-1,2.718,2.718,0,0,1,0-5.12,9.1,9.1,0,0,1,8.278,0,2.719,2.719,0,0,1,0,5.12A8.332,8.332,0,0,1,2407.731,944.674Z" transform="translate(-2401.784 -926.621)" fill="#0d0d0d" opacity="0.3"/>
+                    <path id="Trazado_299521" data-name="Trazado 299521" d="M2402.1,935.024l1.19-1.545,1.7-.768,2.1-.306h1.546l1.3.49,1.133.409,1.182.982.5,1.083v11.4l-1.073,1.593-1.93,1-2.083.248-1.992-.145-1.381-.339-1.105-.7-.671-.694-.42-.96Z" transform="translate(-2401.452 -932.117)" fill="#659ec9" opacity="0.7"/>
+                    <g id="Grupo_842419" data-name="Grupo 842419" transform="translate(1.372 4.234)">
+                      <path id="Trazado_299522" data-name="Trazado 299522" d="M2407.023,945.382a6.6,6.6,0,0,1-3.179-.752,2.4,2.4,0,0,1-1.4-1.979v-7.014h9.145v7.014a2.406,2.406,0,0,1-1.387,1.979A6.642,6.642,0,0,1,2407.023,945.382Z" transform="translate(-2402.448 -932.906)" fill="#70ab44"/>
+                      <path id="Trazado_299523" data-name="Trazado 299523" d="M2407.023,939.786a6.426,6.426,0,0,1-3.179-.764,2.087,2.087,0,0,1,0-3.939,6.968,6.968,0,0,1,6.362,0,2.091,2.091,0,0,1,0,3.939A6.452,6.452,0,0,1,2407.023,939.786Z" transform="translate(-2402.448 -934.315)" fill="#9de368"/>
+                    </g>
+                    <path id="Trazado_299524" data-name="Trazado 299524" d="M2404.519,946.348l-1.524-.581V935.133l1.524.426Z" transform="translate(-2400.495 -929.209)" fill="#fff" opacity="0.2"/>
+                    <path id="Trazado_299525" data-name="Trazado 299525" d="M2405.522,946.923l2.505-1.174V934.787l-2.505,1.142Z" transform="translate(-2397.802 -929.578)" fill="#0d0d0d" opacity="0.2"/>
+                    <path id="Trazado_299526" data-name="Trazado 299526" d="M2413.127,935.6a2.9,2.9,0,0,0-1.687-2.4,8.554,8.554,0,0,0-7.788,0,2.892,2.892,0,0,0-1.694,2.4v11.023a2.917,2.917,0,0,0,1.694,2.414,8.6,8.6,0,0,0,7.784,0,2.919,2.919,0,0,0,1.691-2.414V935.6Zm-10.608,0a2.408,2.408,0,0,1,1.411-1.919,8.1,8.1,0,0,1,7.22,0,2.016,2.016,0,0,1,0,3.846,8.048,8.048,0,0,1-7.22,0,2.391,2.391,0,0,1-1.411-1.921V935.6Zm10.042,11.023a2.372,2.372,0,0,1-1.411,1.923,7.959,7.959,0,0,1-7.22,0,2.391,2.391,0,0,1-1.411-1.923v-9.544a3.983,3.983,0,0,0,1.132.936,8.512,8.512,0,0,0,7.784,0,3.909,3.909,0,0,0,1.125-.936Z" transform="translate(-2401.599 -932.265)" fill="#517fa2"/>
+                  </g>
+                  <g id="Grupo_842422" data-name="Grupo 842422" transform="translate(37.03 12.377)">
+                    <path id="Trazado_299527" data-name="Trazado 299527" d="M2409.193,950.664a8.367,8.367,0,0,1-4.135-.989,2.722,2.722,0,0,1,0-5.126,8.438,8.438,0,0,1,4.135-1,8.331,8.331,0,0,1,4.137,1,2.719,2.719,0,0,1,0,5.118A8.378,8.378,0,0,1,2409.193,950.664Z" transform="translate(-2403.253 -932.617)" fill="#0d0d0d" opacity="0.3"/>
+                    <path id="Trazado_299528" data-name="Trazado 299528" d="M2403.562,941.011l1.19-1.537,1.7-.768,2.1-.308h1.546l1.3.49,1.124.4,1.19.974.5,1.1v11.393l-1.075,1.59-1.935,1-2.083.25-1.983-.139-1.381-.337-1.11-.712-.67-.68-.42-.968Z" transform="translate(-2402.924 -938.11)" fill="#659ec9" opacity="0.7"/>
+                    <g id="Grupo_842421" data-name="Grupo 842421" transform="translate(1.367 4.226)">
+                      <path id="Trazado_299529" data-name="Trazado 299529" d="M2408.487,951.377a6.507,6.507,0,0,1-3.174-.76,2.383,2.383,0,0,1-1.4-1.979v-7.008h9.145v7.008a2.4,2.4,0,0,1-1.388,1.979A6.526,6.526,0,0,1,2408.487,951.377Z" transform="translate(-2403.915 -938.89)" fill="#ffc654"/>
+                      <path id="Trazado_299530" data-name="Trazado 299530" d="M2408.487,945.785a6.351,6.351,0,0,1-3.174-.77,2.088,2.088,0,0,1,0-3.941,6.351,6.351,0,0,1,3.174-.77,6.431,6.431,0,0,1,3.185.77,2.093,2.093,0,0,1,0,3.941A6.431,6.431,0,0,1,2408.487,945.785Z" transform="translate(-2403.915 -940.304)" fill="#ffec7a"/>
+                    </g>
+                    <path id="Trazado_299531" data-name="Trazado 299531" d="M2405.989,952.344l-1.53-.581V941.124l1.53.425Z" transform="translate(-2401.968 -935.205)" fill="#fff" opacity="0.2"/>
+                    <path id="Trazado_299532" data-name="Trazado 299532" d="M2406.989,952.916l2.505-1.174V940.78l-2.505,1.135Z" transform="translate(-2399.273 -935.571)" fill="#0d0d0d" opacity="0.2"/>
+                    <path id="Trazado_299533" data-name="Trazado 299533" d="M2414.595,941.6a2.9,2.9,0,0,0-1.69-2.41,8.6,8.6,0,0,0-7.784,0,2.887,2.887,0,0,0-1.7,2.41v11.023a2.9,2.9,0,0,0,1.7,2.408,8.607,8.607,0,0,0,7.78,0,2.908,2.908,0,0,0,1.694-2.408V941.6Zm-10.61,0a2.381,2.381,0,0,1,1.415-1.919,8.045,8.045,0,0,1,7.218,0,2.009,2.009,0,0,1,0,3.837,7.973,7.973,0,0,1-7.218,0,2.367,2.367,0,0,1-1.415-1.912V941.6Zm10.046,11.023a2.386,2.386,0,0,1-1.413,1.925,8.018,8.018,0,0,1-7.218,0,2.406,2.406,0,0,1-1.415-1.925v-9.544a4.093,4.093,0,0,0,1.135.932,8.537,8.537,0,0,0,7.78,0,4,4,0,0,0,1.13-.932Z" transform="translate(-2403.07 -938.258)" fill="#517fa2"/>
+                  </g>
+                  <g id="Grupo_842424" data-name="Grupo 842424" transform="translate(50.593 4.021)">
+                    <path id="Trazado_299534" data-name="Trazado 299534" d="M2415.752,946.623a8.4,8.4,0,0,1-4.128-1,2.721,2.721,0,0,1,0-5.124,9.064,9.064,0,0,1,8.263.006,2.716,2.716,0,0,1,0,5.118A8.428,8.428,0,0,1,2415.752,946.623Z" transform="translate(-2409.82 -928.57)" fill="#0d0d0d" opacity="0.3"/>
+                    <path id="Trazado_299535" data-name="Trazado 299535" d="M2410.123,936.966l1.19-1.545,1.7-.772,2.106-.3h1.545l1.3.5,1.132.4,1.183.972.5,1.091v11.4l-1.073,1.587-1.926,1-2.087.256-1.989-.145-1.38-.339-1.113-.71-.667-.688-.425-.958Z" transform="translate(-2409.497 -934.065)" fill="#659ec9" opacity="0.7"/>
+                    <g id="Grupo_842423" data-name="Grupo 842423" transform="translate(1.365 4.226)">
+                      <path id="Trazado_299536" data-name="Trazado 299536" d="M2415.048,947.33a6.533,6.533,0,0,1-3.178-.76,2.367,2.367,0,0,1-1.388-1.973v-7.014h9.133V944.6a2.365,2.365,0,0,1-1.386,1.973A6.524,6.524,0,0,1,2415.048,947.33Z" transform="translate(-2410.482 -934.846)" fill="#ff6669"/>
+                      <path id="Trazado_299537" data-name="Trazado 299537" d="M2415.048,941.735a6.416,6.416,0,0,1-3.178-.774,2.088,2.088,0,0,1,0-3.934,6.961,6.961,0,0,1,6.358,0,2.089,2.089,0,0,1,0,3.934A6.406,6.406,0,0,1,2415.048,941.735Z" transform="translate(-2410.482 -936.258)" fill="#ff8d8f"/>
+                    </g>
+                    <path id="Trazado_299538" data-name="Trazado 299538" d="M2412.549,948.3l-1.527-.579V937.077l1.527.432Z" transform="translate(-2408.54 -931.16)" fill="#fff" opacity="0.2"/>
+                    <path id="Trazado_299539" data-name="Trazado 299539" d="M2413.554,948.873l2.5-1.174v-10.97l-2.5,1.15Z" transform="translate(-2405.843 -931.53)" fill="#0d0d0d" opacity="0.2"/>
+                    <path id="Trazado_299540" data-name="Trazado 299540" d="M2421.163,937.544a2.906,2.906,0,0,0-1.7-2.4,8.623,8.623,0,0,0-7.789,0,2.915,2.915,0,0,0-1.691,2.4v11.031a2.913,2.913,0,0,0,1.691,2.408,8.616,8.616,0,0,0,7.785,0,2.9,2.9,0,0,0,1.7-2.408V937.544Zm-10.616,0a2.389,2.389,0,0,1,1.417-1.911,8.086,8.086,0,0,1,7.222,0,2.011,2.011,0,0,1,0,3.837,8,8,0,0,1-7.222,0,2.379,2.379,0,0,1-1.417-1.921v-.006Zm10.048,11.031a2.382,2.382,0,0,1-1.409,1.923,8.04,8.04,0,0,1-7.222,0,2.4,2.4,0,0,1-1.417-1.923v-9.552a3.97,3.97,0,0,0,1.131.938,8.53,8.53,0,0,0,7.785,0,3.678,3.678,0,0,0,1.132-.938Z" transform="translate(-2409.643 -934.212)" fill="#517fa2"/>
+                  </g>
+                </g>
+                <g id="Grupo_842443" data-name="Grupo 842443" transform="translate(62.78 76.837)">
+                  <path id="Trazado_299541" data-name="Trazado 299541" d="M2385.306,976.014l-19.283,11.13,3.91,2.264,19.288-11.141Z" transform="translate(-2366.022 -956.402)" fill="#0d0d0d" opacity="0.3"/>
+                  <g id="Grupo_842426" data-name="Grupo 842426" transform="translate(0.122 3.741)">
+                    <path id="Trazado_299542" data-name="Trazado 299542" d="M2366.884,974.178v.914l-.8-.46v-.91Z" transform="translate(-2366.081 -962.585)" fill="#00537d"/>
+                    <path id="Trazado_299543" data-name="Trazado 299543" d="M2385.375,968.33l.79.46-19.281,11.134-.8-.456Z" transform="translate(-2366.081 -968.33)" fill="#1078ad"/>
+                    <path id="Trazado_299544" data-name="Trazado 299544" d="M2385.752,968.552v.91L2366.47,980.6v-.914Z" transform="translate(-2365.667 -968.092)" fill="#003552"/>
+                  </g>
+                  <g id="Grupo_842428" data-name="Grupo 842428" transform="translate(12.457 2.549)">
+                    <g id="Grupo_842427" data-name="Grupo 842427" transform="translate(1.386 6.773)">
+                      <path id="Trazado_299545" data-name="Trazado 299545" d="M2372.731,971.272v9.854a.836.836,0,0,0,.841.832h.01a.834.834,0,0,0,.838-.832v-9.854Z" transform="translate(-2372.718 -970.775)" fill="#003552"/>
+                      <path id="Trazado_299546" data-name="Trazado 299546" d="M2372.974,971.881a1.364,1.364,0,0,0,1.22,0,.372.372,0,0,0,0-.7,1.351,1.351,0,0,0-1.22,0A.373.373,0,0,0,2372.974,971.881Z" transform="translate(-2372.725 -971.032)" fill="#00537d"/>
+                    </g>
+                    <path id="Trazado_299547" data-name="Trazado 299547" d="M2373.019,968.511v15.637a1.1,1.1,0,0,0,1.1,1.1h.017a1.1,1.1,0,0,0,1.1-1.1V968.511h.791v15.637a1.887,1.887,0,0,1-1.891,1.886h-.017a1.893,1.893,0,0,1-1.895-1.886V968.511Z" transform="translate(-2371.875 -966.944)" fill="#517fa2"/>
+                    <path id="Trazado_299548" data-name="Trazado 299548" d="M2372.71,968.511v15.637c0,.6.5,1.024.5,0V968.511Z" transform="translate(-2371.354 -966.944)" fill="#fff" opacity="0.2"/>
+                    <path id="Trazado_299549" data-name="Trazado 299549" d="M2373.331,968.511v15.637c0,.6.494,1.024.494,0V968.511Z" transform="translate(-2370.692 -966.944)" opacity="0.3"/>
+                    <path id="Trazado_299550" data-name="Trazado 299550" d="M2372.707,969.964a3.531,3.531,0,0,0,3.178,0,.967.967,0,0,0,0-1.832,3.517,3.517,0,0,0-3.178,0A.969.969,0,0,0,2372.707,969.964Zm.81-1.795a1.748,1.748,0,0,1,1.569,0c.434.25.434.651,0,.907a1.736,1.736,0,0,1-1.569,0C2373.083,968.82,2373.083,968.419,2373.517,968.169Z" transform="translate(-2372.054 -967.752)" fill="#659ec9"/>
+                    <path id="Trazado_299551" data-name="Trazado 299551" d="M2374.612,968.876a1.18,1.18,0,0,0-.114-.072,1.735,1.735,0,0,0-1.569,0,.539.539,0,0,0-.108.072c-.322-.248-.281-.6.108-.826a1.749,1.749,0,0,1,1.569,0C2374.887,968.277,2374.926,968.628,2374.612,968.876Z" transform="translate(-2371.466 -967.633)" fill="#295e87"/>
+                  </g>
+                  <g id="Grupo_842430" data-name="Grupo 842430" transform="translate(7.857 5.202)">
+                    <g id="Grupo_842429" data-name="Grupo 842429" transform="translate(1.388 6.768)">
+                      <path id="Trazado_299552" data-name="Trazado 299552" d="M2370.5,972.556v9.852a.84.84,0,0,0,.838.84h.012a.842.842,0,0,0,.845-.84v-9.852Z" transform="translate(-2370.494 -972.056)" fill="#295e87"/>
+                      <path id="Trazado_299553" data-name="Trazado 299553" d="M2370.741,973.165a1.326,1.326,0,0,0,1.226,0c.344-.2.344-.512,0-.708a1.388,1.388,0,0,0-1.226,0A.38.38,0,0,0,2370.741,973.165Z" transform="translate(-2370.499 -972.314)" fill="#517fa2"/>
+                    </g>
+                    <path id="Trazado_299554" data-name="Trazado 299554" d="M2370.789,969.791v15.636a1.09,1.09,0,0,0,1.1,1.1h.016a1.091,1.091,0,0,0,1.1-1.1V969.791h.8v15.636a1.9,1.9,0,0,1-1.894,1.9h-.016a1.9,1.9,0,0,1-1.9-1.9V969.791Z" transform="translate(-2369.648 -968.234)" fill="#517fa2"/>
+                    <path id="Trazado_299555" data-name="Trazado 299555" d="M2370.483,969.791v15.636c0,.614.5,1.039.5,0V969.791Z" transform="translate(-2369.127 -968.234)" fill="#fff" opacity="0.2"/>
+                    <path id="Trazado_299556" data-name="Trazado 299556" d="M2371.1,969.791v15.636c0,.614.5,1.039.5,0V969.791Z" transform="translate(-2368.466 -968.234)" opacity="0.3"/>
+                    <path id="Trazado_299557" data-name="Trazado 299557" d="M2370.48,971.245a3.5,3.5,0,0,0,3.174,0,.96.96,0,0,0,0-1.824,3.469,3.469,0,0,0-3.174,0A.963.963,0,0,0,2370.48,971.245Zm.814-1.795a1.749,1.749,0,0,1,1.57,0,.483.483,0,0,1,0,.909,1.737,1.737,0,0,1-1.57,0A.48.48,0,0,1,2371.294,969.45Z" transform="translate(-2369.826 -969.037)" fill="#659ec9"/>
+                    <path id="Trazado_299558" data-name="Trazado 299558" d="M2372.389,970.163a.58.58,0,0,0-.113-.074,1.7,1.7,0,0,0-1.57,0,.453.453,0,0,0-.118.074c-.312-.25-.275-.6.118-.83a1.751,1.751,0,0,1,1.57,0C2372.664,969.56,2372.7,969.913,2372.389,970.163Z" transform="translate(-2369.238 -968.92)" fill="#295e87"/>
+                  </g>
+                  <g id="Grupo_842432" data-name="Grupo 842432" transform="translate(3.103 7.955)">
+                    <g id="Grupo_842431" data-name="Grupo 842431" transform="translate(1.389 6.769)">
+                      <path id="Trazado_299559" data-name="Trazado 299559" d="M2368.2,973.886v9.858a.84.84,0,0,0,.843.834h.022a.833.833,0,0,0,.834-.834v-9.858Z" transform="translate(-2368.196 -973.393)" fill="#8dd5ff"/>
+                      <path id="Trazado_299560" data-name="Trazado 299560" d="M2368.45,974.494a1.329,1.329,0,0,0,1.216,0,.368.368,0,0,0,0-.7,1.317,1.317,0,0,0-1.216,0A.367.367,0,0,0,2368.45,974.494Z" transform="translate(-2368.197 -973.647)" fill="#c7f2ff"/>
+                    </g>
+                    <path id="Trazado_299561" data-name="Trazado 299561" d="M2368.492,971.124v15.634a1.086,1.086,0,0,0,1.086,1.1h.025a1.088,1.088,0,0,0,1.1-1.1V971.124h.8v15.634a1.9,1.9,0,0,1-1.894,1.9h-.025a1.9,1.9,0,0,1-1.885-1.9V971.124Z" transform="translate(-2367.345 -969.566)" fill="#517fa2"/>
+                    <path id="Trazado_299562" data-name="Trazado 299562" d="M2368.182,971.124v15.634c0,.617.5,1.033.5,0V971.124Z" transform="translate(-2366.825 -969.566)" fill="#fff" opacity="0.2"/>
+                    <path id="Trazado_299563" data-name="Trazado 299563" d="M2368.8,971.124v15.634c0,.617.5,1.033.5,0V971.124Z" transform="translate(-2366.162 -969.566)" opacity="0.3"/>
+                    <path id="Trazado_299564" data-name="Trazado 299564" d="M2368.184,972.578a3.48,3.48,0,0,0,3.166,0,.966.966,0,0,0,0-1.832,3.518,3.518,0,0,0-3.166,0A.966.966,0,0,0,2368.184,972.578Zm.8-1.795a1.741,1.741,0,0,1,1.572,0,.477.477,0,0,1,0,.9,1.767,1.767,0,0,1-1.572,0A.481.481,0,0,1,2368.988,970.783Z" transform="translate(-2367.525 -970.37)" fill="#659ec9"/>
+                    <path id="Trazado_299565" data-name="Trazado 299565" d="M2370.085,971.489c-.038-.027-.068-.043-.114-.072a1.741,1.741,0,0,0-1.572,0c-.035.029-.078.045-.115.072-.308-.242-.277-.6.115-.822a1.74,1.74,0,0,1,1.572,0C2370.357,970.886,2370.4,971.247,2370.085,971.489Z" transform="translate(-2366.937 -970.253)" fill="#295e87"/>
+                  </g>
+                  <g id="Grupo_842433" data-name="Grupo 842433" transform="translate(18.49 18.695)">
+                    <path id="Trazado_299566" data-name="Trazado 299566" d="M2376.87,977.121v.915l.794-.464v-.906Z" transform="translate(-2372.956 -974.402)" fill="#003552"/>
+                    <path id="Trazado_299567" data-name="Trazado 299567" d="M2375.768,975.57l-.793.454,3.914,2.265.794-.454Z" transform="translate(-2374.975 -975.57)" fill="#1078ad"/>
+                    <path id="Trazado_299568" data-name="Trazado 299568" d="M2374.975,975.79v.909l3.914,2.271v-.915Z" transform="translate(-2374.975 -975.336)" fill="#00537d"/>
+                  </g>
+                  <g id="Grupo_842434" data-name="Grupo 842434" transform="translate(20.108 5.504)">
+                    <path id="Trazado_299569" data-name="Trazado 299569" d="M2376.553,970.1l.788-.456-.788-.464-.794.464Z" transform="translate(-2375.758 -969.183)" fill="#1d374e"/>
+                    <path id="Trazado_299570" data-name="Trazado 299570" d="M2375.758,983.52l.794.454v-14.11l-.794-.456Z" transform="translate(-2375.758 -968.944)" fill="#00537d"/>
+                    <path id="Trazado_299571" data-name="Trazado 299571" d="M2376.143,983.974l.788-.454V969.408l-.788.456Z" transform="translate(-2375.348 -968.944)" fill="#003552"/>
+                  </g>
+                  <g id="Grupo_842435" data-name="Grupo 842435" transform="translate(19.416 4.201)">
+                    <path id="Trazado_299572" data-name="Trazado 299572" d="M2376.7,969.743v.914l.792-.454v-.915Z" transform="translate(-2374.068 -967.77)" fill="#1d374e"/>
+                    <path id="Trazado_299573" data-name="Trazado 299573" d="M2376.214,968.552l-.791.456,2.628,1.517.792-.456Z" transform="translate(-2375.423 -968.552)" fill="#1078ad"/>
+                    <path id="Trazado_299574" data-name="Trazado 299574" d="M2375.423,968.773v.914l2.628,1.517v-.914Z" transform="translate(-2375.423 -968.317)" fill="#00537d"/>
+                  </g>
+                  <g id="Grupo_842437" data-name="Grupo 842437" transform="translate(16.921)">
+                    <g id="Grupo_842436" data-name="Grupo 842436" transform="translate(1.388 6.763)">
+                      <path id="Trazado_299575" data-name="Trazado 299575" d="M2374.891,970.035v9.85a.845.845,0,0,0,.842.845h.02a.844.844,0,0,0,.832-.845v-9.85Z" transform="translate(-2374.883 -969.535)" fill="#4fbeff"/>
+                      <path id="Trazado_299576" data-name="Trazado 299576" d="M2375.141,970.646a1.337,1.337,0,0,0,1.208,0c.343-.2.343-.514,0-.7a1.3,1.3,0,0,0-1.208,0C2374.8,970.132,2374.8,970.448,2375.141,970.646Z" transform="translate(-2374.887 -969.793)" fill="#8dd5ff"/>
+                    </g>
+                    <path id="Trazado_299577" data-name="Trazado 299577" d="M2375.18,967.274v15.633a1.1,1.1,0,0,0,1.1,1.1h.019a1.1,1.1,0,0,0,1.1-1.1V967.274h.795v15.633a1.9,1.9,0,0,1-1.891,1.9h-.019a1.9,1.9,0,0,1-1.894-1.9V967.274Z" transform="translate(-2374.035 -965.713)" fill="#517fa2"/>
+                    <path id="Trazado_299578" data-name="Trazado 299578" d="M2374.871,967.274v15.633c0,.6.5,1.035.5,0V967.274Z" transform="translate(-2373.516 -965.713)" fill="#fff" opacity="0.2"/>
+                    <path id="Trazado_299579" data-name="Trazado 299579" d="M2375.5,967.274v15.633c0,.6.489,1.035.489,0V967.274Z" transform="translate(-2372.851 -965.713)" opacity="0.3"/>
+                    <path id="Trazado_299580" data-name="Trazado 299580" d="M2374.872,968.722a3.509,3.509,0,0,0,3.174,0,.966.966,0,0,0,0-1.83,3.561,3.561,0,0,0-3.174,0A.966.966,0,0,0,2374.872,968.722Zm.81-1.795a1.8,1.8,0,0,1,1.57,0c.433.25.433.653,0,.911a1.764,1.764,0,0,1-1.57,0C2375.25,967.58,2375.25,967.177,2375.682,966.927Z" transform="translate(-2374.215 -966.518)" fill="#659ec9"/>
+                    <path id="Trazado_299581" data-name="Trazado 299581" d="M2376.777,967.639a.885.885,0,0,0-.114-.074,1.7,1.7,0,0,0-1.57,0,.557.557,0,0,0-.118.074c-.314-.25-.274-.6.118-.83a1.8,1.8,0,0,1,1.57,0C2377.06,967.036,2377.093,967.389,2376.777,967.639Z" transform="translate(-2373.627 -966.4)" fill="#295e87"/>
+                  </g>
+                  <g id="Grupo_842438" data-name="Grupo 842438" transform="translate(2.37 20.081)">
+                    <path id="Trazado_299582" data-name="Trazado 299582" d="M2367.957,981.665v.916l-.787-.46v-.91Z" transform="translate(-2367.17 -970.946)" fill="#1d374e"/>
+                    <path id="Trazado_299583" data-name="Trazado 299583" d="M2384.907,976.241l.794.454-17.745,10.266-.787-.454Z" transform="translate(-2367.17 -976.241)" fill="#1078ad"/>
+                    <path id="Trazado_299584" data-name="Trazado 299584" d="M2385.3,976.461v.916l-17.745,10.266v-.916Z" transform="translate(-2366.763 -976.007)" fill="#003552"/>
+                  </g>
+                  <g id="Grupo_842439" data-name="Grupo 842439" transform="translate(0.019 29.379)">
+                    <path id="Trazado_299585" data-name="Trazado 299585" d="M2367.927,982.3v.922l.787-.468v-.91Z" transform="translate(-2364.012 -979.572)" fill="#003552"/>
+                    <path id="Trazado_299586" data-name="Trazado 299586" d="M2366.823,980.743l-.792.464,3.915,2.263.788-.456Z" transform="translate(-2366.031 -980.743)" fill="#1078ad"/>
+                    <path id="Trazado_299587" data-name="Trazado 299587" d="M2366.031,980.968v.914l3.915,2.271v-.922Z" transform="translate(-2366.031 -980.504)" fill="#00537d"/>
+                  </g>
+                  <g id="Grupo_842440" data-name="Grupo 842440" transform="translate(1.58 16.176)">
+                    <path id="Trazado_299588" data-name="Trazado 299588" d="M2367.577,975.262l.787-.456-.787-.456-.79.456Z" transform="translate(-2366.787 -974.35)" fill="#1d374e"/>
+                    <path id="Trazado_299589" data-name="Trazado 299589" d="M2366.787,988.688l.79.45V975.027l-.79-.456Z" transform="translate(-2366.787 -974.115)" fill="#00537d"/>
+                    <path id="Trazado_299590" data-name="Trazado 299590" d="M2367.17,989.137l.787-.456v-14.11l-.787.456Z" transform="translate(-2366.38 -974.115)" fill="#003552"/>
+                  </g>
+                  <g id="Grupo_842441" data-name="Grupo 842441" transform="translate(0.925 14.879)">
+                    <path id="Trazado_299591" data-name="Trazado 299591" d="M2367.741,974.913v.914l.79-.456v-.914Z" transform="translate(-2365.115 -972.94)" fill="#1d374e"/>
+                    <path id="Trazado_299592" data-name="Trazado 299592" d="M2367.252,973.722l-.783.456,2.626,1.517.79-.456Z" transform="translate(-2366.47 -973.722)" fill="#1078ad"/>
+                    <path id="Trazado_299593" data-name="Trazado 299593" d="M2366.47,973.943v.914l2.626,1.517v-.914Z" transform="translate(-2366.47 -973.487)" fill="#00537d"/>
+                  </g>
+                  <g id="Grupo_842442" data-name="Grupo 842442" transform="translate(3.551 5.718)">
+                    <path id="Trazado_299594" data-name="Trazado 299594" d="M2368.531,975.135v.92l-.79-.464v-.914Z" transform="translate(-2367.741 -963.544)" fill="#00537d"/>
+                    <path id="Trazado_299595" data-name="Trazado 299595" d="M2387.026,969.287l.8.456-19.29,11.135-.79-.458Z" transform="translate(-2367.741 -969.287)" fill="#1078ad"/>
+                    <path id="Trazado_299596" data-name="Trazado 299596" d="M2387.414,969.508v.914l-19.29,11.141v-.92Z" transform="translate(-2367.334 -969.052)" fill="#003552"/>
+                  </g>
+                </g>
+                <g id="Grupo_842461" data-name="Grupo 842461" transform="translate(98.244 71.834)">
+                  <path id="Trazado_299597" data-name="Trazado 299597" d="M2402.477,973.593l-19.284,11.132,3.92,2.255,19.284-11.134Z" transform="translate(-2383.193 -953.979)" fill="#0d0d0d" opacity="0.3"/>
+                  <g id="Grupo_842444" data-name="Grupo 842444" transform="translate(0.131 3.752)">
+                    <path id="Trazado_299598" data-name="Trazado 299598" d="M2384.051,971.755v.914l-.794-.452V971.3Z" transform="translate(-2383.257 -960.17)" fill="#00537d"/>
+                    <path id="Trazado_299599" data-name="Trazado 299599" d="M2402.543,965.913l.791.454L2384.051,977.5l-.794-.452Z" transform="translate(-2383.257 -965.913)" fill="#1078ad"/>
+                    <path id="Trazado_299600" data-name="Trazado 299600" d="M2402.924,966.133v.916l-19.283,11.13v-.914Z" transform="translate(-2382.847 -965.679)" fill="#003552"/>
+                  </g>
+                  <g id="Grupo_842446" data-name="Grupo 842446" transform="translate(12.458 2.554)">
+                    <g id="Grupo_842445" data-name="Grupo 842445" transform="translate(1.389 6.776)">
+                      <path id="Trazado_299601" data-name="Trazado 299601" d="M2389.9,968.851V978.7a.843.843,0,0,0,.843.841h.018a.844.844,0,0,0,.843-.841v-9.853Z" transform="translate(-2389.894 -968.362)" fill="#003552"/>
+                      <path id="Trazado_299602" data-name="Trazado 299602" d="M2390.147,969.457a1.359,1.359,0,0,0,1.218,0c.343-.2.343-.512,0-.7a1.372,1.372,0,0,0-1.218,0C2389.814,968.945,2389.814,969.259,2390.147,969.457Z" transform="translate(-2389.897 -968.614)" fill="#00537d"/>
+                    </g>
+                    <path id="Trazado_299603" data-name="Trazado 299603" d="M2390.193,966.091v15.635a1.093,1.093,0,0,0,1.091,1.1h.024a1.1,1.1,0,0,0,1.1-1.1V966.091h.785v15.635a1.892,1.892,0,0,1-1.886,1.89h-.024a1.891,1.891,0,0,1-1.888-1.89V966.091Z" transform="translate(-2389.044 -964.526)" fill="#517fa2"/>
+                    <path id="Trazado_299604" data-name="Trazado 299604" d="M2389.884,966.091v15.635c0,.605.5,1.024.5,0V966.091Z" transform="translate(-2388.522 -964.526)" fill="#fff" opacity="0.2"/>
+                    <path id="Trazado_299605" data-name="Trazado 299605" d="M2390.5,966.091v15.635c0,.605.5,1.024.5,0V966.091Z" transform="translate(-2387.864 -964.526)" opacity="0.3"/>
+                    <path id="Trazado_299606" data-name="Trazado 299606" d="M2389.882,967.541a3.475,3.475,0,0,0,3.177,0c.877-.5.877-1.311,0-1.824a3.478,3.478,0,0,0-3.177,0C2389.007,966.229,2389.007,967.037,2389.882,967.541Zm.814-1.792a1.715,1.715,0,0,1,1.56,0,.476.476,0,0,1,0,.907,1.756,1.756,0,0,1-1.56,0A.48.48,0,0,1,2390.7,965.748Z" transform="translate(-2389.225 -965.333)" fill="#659ec9"/>
+                    <path id="Trazado_299607" data-name="Trazado 299607" d="M2391.782,966.455a1.061,1.061,0,0,0-.118-.072,1.727,1.727,0,0,0-1.559,0,1.128,1.128,0,0,0-.113.072c-.314-.248-.279-.6.113-.824a1.714,1.714,0,0,1,1.559,0C2392.061,965.856,2392.093,966.207,2391.782,966.455Z" transform="translate(-2388.634 -965.216)" fill="#295e87"/>
+                  </g>
+                  <g id="Grupo_842448" data-name="Grupo 842448" transform="translate(7.861 5.203)">
+                    <g id="Grupo_842447" data-name="Grupo 842447" transform="translate(1.387 6.772)">
+                      <path id="Trazado_299608" data-name="Trazado 299608" d="M2387.673,970.135v9.852a.841.841,0,0,0,.841.843h.02a.835.835,0,0,0,.838-.843v-9.852Z" transform="translate(-2387.668 -969.638)" fill="#295e87"/>
+                      <path id="Trazado_299609" data-name="Trazado 299609" d="M2387.923,970.743a1.346,1.346,0,0,0,1.212,0c.345-.2.345-.51,0-.7a1.3,1.3,0,0,0-1.212,0C2387.587,970.232,2387.587,970.546,2387.923,970.743Z" transform="translate(-2387.671 -969.894)" fill="#517fa2"/>
+                    </g>
+                    <path id="Trazado_299610" data-name="Trazado 299610" d="M2387.959,967.374v15.634a1.1,1.1,0,0,0,1.1,1.1h.022a1.1,1.1,0,0,0,1.1-1.1V967.374h.8v15.634a1.9,1.9,0,0,1-1.894,1.89h-.022a1.894,1.894,0,0,1-1.888-1.89V967.374Z" transform="translate(-2386.82 -965.807)" fill="#517fa2"/>
+                    <path id="Trazado_299611" data-name="Trazado 299611" d="M2387.657,967.374v15.634c0,.6.5,1.033.5,0V967.374Z" transform="translate(-2386.299 -965.807)" fill="#fff" opacity="0.2"/>
+                    <path id="Trazado_299612" data-name="Trazado 299612" d="M2388.279,967.374v15.634c0,.6.5,1.033.5,0V967.374Z" transform="translate(-2385.637 -965.807)" opacity="0.3"/>
+                    <path id="Trazado_299613" data-name="Trazado 299613" d="M2387.658,968.833a3.543,3.543,0,0,0,3.172,0,.969.969,0,0,0,0-1.836,3.492,3.492,0,0,0-3.172,0A.969.969,0,0,0,2387.658,968.833Zm.807-1.8a1.781,1.781,0,0,1,1.565,0c.438.248.438.653,0,.909a1.728,1.728,0,0,1-1.565,0C2388.031,967.684,2388.031,967.28,2388.465,967.032Z" transform="translate(-2387 -966.616)" fill="#659ec9"/>
+                    <path id="Trazado_299614" data-name="Trazado 299614" d="M2389.561,967.739a1.361,1.361,0,0,0-.118-.074,1.693,1.693,0,0,0-1.566,0,1.281,1.281,0,0,0-.119.074c-.31-.25-.272-.6.119-.828a1.781,1.781,0,0,1,1.566,0C2389.84,967.136,2389.881,967.489,2389.561,967.739Z" transform="translate(-2386.412 -966.494)" fill="#295e87"/>
+                  </g>
+                  <g id="Grupo_842450" data-name="Grupo 842450" transform="translate(3.104 7.958)">
+                    <g id="Grupo_842449" data-name="Grupo 842449" transform="translate(1.388 6.776)">
+                      <path id="Trazado_299615" data-name="Trazado 299615" d="M2385.372,971.469v9.858a.844.844,0,0,0,.842.834h.015a.838.838,0,0,0,.841-.834v-9.858Z" transform="translate(-2385.364 -970.976)" fill="#8dd5ff"/>
+                      <path id="Trazado_299616" data-name="Trazado 299616" d="M2385.624,972.075a1.32,1.32,0,0,0,1.217,0c.332-.2.332-.52,0-.7a1.357,1.357,0,0,0-1.217,0C2385.283,971.554,2385.283,971.879,2385.624,972.075Z" transform="translate(-2385.369 -971.23)" fill="#c7f2ff"/>
+                    </g>
+                    <path id="Trazado_299617" data-name="Trazado 299617" d="M2385.658,968.7v15.641a1.092,1.092,0,0,0,1.1,1.09h.022a1.09,1.09,0,0,0,1.1-1.09V968.7h.791v15.641a1.892,1.892,0,0,1-1.892,1.89h-.022a1.9,1.9,0,0,1-1.89-1.89V968.7Z" transform="translate(-2384.517 -967.145)" fill="#517fa2"/>
+                    <path id="Trazado_299618" data-name="Trazado 299618" d="M2385.356,968.7v15.641c0,.61.493,1.035.493,0V968.7Z" transform="translate(-2383.993 -967.145)" fill="#fff" opacity="0.2"/>
+                    <path id="Trazado_299619" data-name="Trazado 299619" d="M2385.975,968.7v15.641c0,.61.5,1.035.5,0V968.7Z" transform="translate(-2383.335 -967.145)" opacity="0.3"/>
+                    <path id="Trazado_299620" data-name="Trazado 299620" d="M2385.359,970.156a3.486,3.486,0,0,0,3.17,0,.963.963,0,0,0,0-1.828,3.5,3.5,0,0,0-3.17,0A.961.961,0,0,0,2385.359,970.156Zm.813-1.8a1.768,1.768,0,0,1,1.559,0,.487.487,0,0,1,0,.917,1.767,1.767,0,0,1-1.559,0C2385.733,969.017,2385.733,968.612,2386.173,968.358Z" transform="translate(-2384.696 -967.949)" fill="#659ec9"/>
+                    <path id="Trazado_299621" data-name="Trazado 299621" d="M2387.256,969.075a.52.52,0,0,0-.114-.074,1.679,1.679,0,0,0-1.56,0,.5.5,0,0,0-.124.074c-.316-.25-.273-.6.124-.835a1.771,1.771,0,0,1,1.56,0C2387.53,968.472,2387.568,968.825,2387.256,969.075Z" transform="translate(-2384.107 -967.832)" fill="#295e87"/>
+                  </g>
+                  <g id="Grupo_842451" data-name="Grupo 842451" transform="translate(18.491 18.699)">
+                    <path id="Trazado_299622" data-name="Trazado 299622" d="M2394.04,974.7v.914l.8-.464v-.905Z" transform="translate(-2390.13 -971.983)" fill="#003552"/>
+                    <path id="Trazado_299623" data-name="Trazado 299623" d="M2392.94,973.15l-.794.452,3.911,2.267.8-.456Z" transform="translate(-2392.146 -973.15)" fill="#1078ad"/>
+                    <path id="Trazado_299624" data-name="Trazado 299624" d="M2392.146,973.369v.912l3.911,2.269v-.913Z" transform="translate(-2392.146 -972.917)" fill="#00537d"/>
+                  </g>
+                  <g id="Grupo_842452" data-name="Grupo 842452" transform="translate(20.112 5.517)">
+                    <path id="Trazado_299625" data-name="Trazado 299625" d="M2393.719,967.677l.792-.456-.792-.454-.788.454Z" transform="translate(-2392.931 -966.768)" fill="#1d374e"/>
+                    <path id="Trazado_299626" data-name="Trazado 299626" d="M2392.931,981.11l.788.444v-14.11l-.788-.456Z" transform="translate(-2392.931 -966.533)" fill="#00537d"/>
+                    <path id="Trazado_299627" data-name="Trazado 299627" d="M2393.313,981.553l.792-.452V966.987l-.792.456Z" transform="translate(-2392.525 -966.533)" fill="#003552"/>
+                  </g>
+                  <g id="Grupo_842453" data-name="Grupo 842453" transform="translate(19.416 4.206)">
+                    <path id="Trazado_299628" data-name="Trazado 299628" d="M2393.868,967.329v.907l.793-.456v-.914Z" transform="translate(-2391.238 -965.35)" fill="#1d374e"/>
+                    <path id="Trazado_299629" data-name="Trazado 299629" d="M2393.385,966.133l-.791.454,2.63,1.525.794-.462Z" transform="translate(-2392.594 -966.133)" fill="#1078ad"/>
+                    <path id="Trazado_299630" data-name="Trazado 299630" d="M2392.594,966.352v.91l2.63,1.523v-.908Z" transform="translate(-2392.594 -965.899)" fill="#00537d"/>
+                  </g>
+                  <g id="Grupo_842455" data-name="Grupo 842455" transform="translate(16.929)">
+                    <g id="Grupo_842454" data-name="Grupo 842454" transform="translate(1.384 6.766)">
+                      <path id="Trazado_299631" data-name="Trazado 299631" d="M2392.063,967.615v9.85a.833.833,0,0,0,.839.835h.023a.83.83,0,0,0,.836-.835v-9.85Z" transform="translate(-2392.056 -967.114)" fill="#4fbeff"/>
+                      <path id="Trazado_299632" data-name="Trazado 299632" d="M2392.31,968.225a1.366,1.366,0,0,0,1.221,0,.37.37,0,0,0,0-.7,1.316,1.316,0,0,0-1.221,0A.371.371,0,0,0,2392.31,968.225Z" transform="translate(-2392.06 -967.372)" fill="#8dd5ff"/>
+                    </g>
+                    <path id="Trazado_299633" data-name="Trazado 299633" d="M2392.348,964.853v15.634a1.1,1.1,0,0,0,1.094,1.1h.027a1.094,1.094,0,0,0,1.094-1.1V964.853h.8v15.634a1.894,1.894,0,0,1-1.893,1.89h-.027a1.887,1.887,0,0,1-1.886-1.89V964.853Z" transform="translate(-2391.211 -963.29)" fill="#517fa2"/>
+                    <path id="Trazado_299634" data-name="Trazado 299634" d="M2392.046,964.853v15.634c0,.607.5,1.035.5,0V964.853Z" transform="translate(-2390.692 -963.29)" fill="#fff" opacity="0.2"/>
+                    <path id="Trazado_299635" data-name="Trazado 299635" d="M2392.666,964.853v15.634c0,.607.5,1.035.5,0V964.853Z" transform="translate(-2390.03 -963.29)" opacity="0.3"/>
+                    <path id="Trazado_299636" data-name="Trazado 299636" d="M2392.052,966.31a3.522,3.522,0,0,0,3.162,0c.88-.51.88-1.326,0-1.828a3.432,3.432,0,0,0-3.162,0C2391.17,964.984,2391.17,965.8,2392.052,966.31Zm.8-1.8a1.768,1.768,0,0,1,1.565,0c.439.254.439.657,0,.907a1.74,1.74,0,0,1-1.565,0C2392.417,965.168,2392.417,964.765,2392.853,964.511Z" transform="translate(-2391.39 -964.096)" fill="#659ec9"/>
+                    <path id="Trazado_299637" data-name="Trazado 299637" d="M2393.948,965.218a.971.971,0,0,0-.116-.075,1.727,1.727,0,0,0-1.565,0c-.044.023-.076.052-.118.075-.318-.25-.266-.6.118-.826a1.768,1.768,0,0,1,1.565,0C2394.227,964.615,2394.265,964.967,2393.948,965.218Z" transform="translate(-2390.803 -963.977)" fill="#295e87"/>
+                  </g>
+                  <g id="Grupo_842456" data-name="Grupo 842456" transform="translate(2.374 20.085)">
+                    <path id="Trazado_299638" data-name="Trazado 299638" d="M2385.131,979.252v.918l-.788-.47v-.908Z" transform="translate(-2384.343 -968.526)" fill="#1d374e"/>
+                    <path id="Trazado_299639" data-name="Trazado 299639" d="M2402.081,973.821l.788.452-17.738,10.274-.788-.46Z" transform="translate(-2384.343 -973.821)" fill="#1078ad"/>
+                    <path id="Trazado_299640" data-name="Trazado 299640" d="M2402.462,974.04v.918l-17.738,10.274v-.918Z" transform="translate(-2383.937 -973.588)" fill="#003552"/>
+                  </g>
+                  <g id="Grupo_842457" data-name="Grupo 842457" transform="translate(0.022 29.389)">
+                    <path id="Trazado_299641" data-name="Trazado 299641" d="M2385.1,979.876v.924l.795-.464v-.914Z" transform="translate(-2381.185 -977.157)" fill="#003552"/>
+                    <path id="Trazado_299642" data-name="Trazado 299642" d="M2383.994,978.326l-.79.464,3.913,2.255.795-.454Z" transform="translate(-2383.205 -978.326)" fill="#1078ad"/>
+                    <path id="Trazado_299643" data-name="Trazado 299643" d="M2383.2,978.551v.908l3.913,2.271v-.924Z" transform="translate(-2383.205 -978.087)" fill="#00537d"/>
+                  </g>
+                  <g id="Grupo_842458" data-name="Grupo 842458" transform="translate(1.588 16.188)">
+                    <path id="Trazado_299644" data-name="Trazado 299644" d="M2384.749,972.836l.788-.45-.788-.452-.786.452Z" transform="translate(-2383.962 -971.934)" fill="#1d374e"/>
+                    <path id="Trazado_299645" data-name="Trazado 299645" d="M2383.962,986.265l.786.454V972.6l-.786-.45Z" transform="translate(-2383.962 -971.701)" fill="#00537d"/>
+                    <path id="Trazado_299646" data-name="Trazado 299646" d="M2384.343,986.719l.788-.459V972.153l-.788.45Z" transform="translate(-2383.556 -971.701)" fill="#003552"/>
+                  </g>
+                  <g id="Grupo_842459" data-name="Grupo 842459" transform="translate(0.924 14.885)">
+                    <path id="Trazado_299647" data-name="Trazado 299647" d="M2384.914,972.5v.906l.788-.454v-.916Z" transform="translate(-2382.284 -970.523)" fill="#1d374e"/>
+                    <path id="Trazado_299648" data-name="Trazado 299648" d="M2384.428,971.3l-.787.452,2.63,1.525.788-.464Z" transform="translate(-2383.641 -971.304)" fill="#1078ad"/>
+                    <path id="Trazado_299649" data-name="Trazado 299649" d="M2383.641,971.522v.913l2.63,1.517v-.906Z" transform="translate(-2383.641 -971.071)" fill="#00537d"/>
+                  </g>
+                  <g id="Grupo_842460" data-name="Grupo 842460" transform="translate(3.554 5.722)">
+                    <path id="Trazado_299650" data-name="Trazado 299650" d="M2385.7,972.712v.918l-.788-.464v-.906Z" transform="translate(-2384.914 -961.121)" fill="#00537d"/>
+                    <path id="Trazado_299651" data-name="Trazado 299651" d="M2404.2,966.867l.792.462-19.29,11.129-.788-.452Z" transform="translate(-2384.914 -966.867)" fill="#1078ad"/>
+                    <path id="Trazado_299652" data-name="Trazado 299652" d="M2404.585,967.091V968l-19.29,11.139v-.918Z" transform="translate(-2384.508 -966.629)" fill="#003552"/>
+                  </g>
+                </g>
+                <g id="Grupo_842464" data-name="Grupo 842464" transform="translate(66.859 26.919)">
+                  <g id="Grupo_842462" data-name="Grupo 842462" transform="translate(0 12.294)">
+                    <path id="Trazado_299653" data-name="Trazado 299653" d="M2401.985,949.344a1.318,1.318,0,0,1,1.216,0l19.631,11.33v-.861h1.371v1.859a.442.442,0,0,1-.254.351l-33.74,19.48a1.378,1.378,0,0,1-1.22,0l-20.743-11.987a.421.421,0,0,1-.248-.343v-1.883l1.607.75Z" transform="translate(-2367.994 -947.349)" fill="#b4caed"/>
+                    <path id="Trazado_299654" data-name="Trazado 299654" d="M2401.987,948.445a1.356,1.356,0,0,1,1.216,0l20.749,11.977c.341.2.341.512,0,.7l-33.74,19.487a1.339,1.339,0,0,1-1.22,0l-20.743-11.967a.384.384,0,0,1,0-.721Z" transform="translate(-2367.997 -948.301)" fill="#fff"/>
+                    <path id="Trazado_299655" data-name="Trazado 299655" d="M2390.191,951.875l-1.572.9-1.587-.9,1.587-.914Z" transform="translate(-2347.718 -945.467)" fill="#517fa2"/>
+                    <path id="Trazado_299656" data-name="Trazado 299656" d="M2388.751,952.707l-1.578.914-1.583-.914,1.583-.918Z" transform="translate(-2349.254 -944.586)" fill="#517fa2"/>
+                    <path id="Trazado_299657" data-name="Trazado 299657" d="M2391.307,952.512l-1.588.917-1.584-.917,1.584-.916Z" transform="translate(-2346.545 -944.791)" fill="#517fa2"/>
+                    <path id="Trazado_299658" data-name="Trazado 299658" d="M2393.482,953.048l-3.981,2.3-1.582-.922,3.98-2.291Z" transform="translate(-2346.772 -944.214)" fill="#517fa2"/>
+                    <path id="Trazado_299659" data-name="Trazado 299659" d="M2394.421,953.6l-3.981,2.293-1.578-.9,3.978-2.3Z" transform="translate(-2345.769 -943.633)" fill="#517fa2"/>
+                    <path id="Trazado_299660" data-name="Trazado 299660" d="M2395.377,954.149l-3.974,2.3-1.579-.916,3.975-2.3Z" transform="translate(-2344.743 -943.041)" fill="#517fa2"/>
+                    <path id="Trazado_299661" data-name="Trazado 299661" d="M2387.8,953.256l-1.582.924-1.588-.924,1.588-.91Z" transform="translate(-2350.282 -943.992)" fill="#517fa2"/>
+                    <path id="Trazado_299662" data-name="Trazado 299662" d="M2386.836,953.822l-1.589.9-1.573-.9,1.573-.922Z" transform="translate(-2351.297 -943.402)" fill="#517fa2"/>
+                    <path id="Trazado_299663" data-name="Trazado 299663" d="M2385.867,954.382l-1.573.905-1.587-.905,1.587-.926Z" transform="translate(-2352.326 -942.81)" fill="#517fa2"/>
+                    <path id="Trazado_299664" data-name="Trazado 299664" d="M2390.144,953.177l-1.584.912-1.582-.912,1.582-.907Z" transform="translate(-2347.776 -944.074)" fill="#517fa2"/>
+                    <path id="Trazado_299665" data-name="Trazado 299665" d="M2389.185,953.737l-1.584.918-1.585-.918,1.585-.916Z" transform="translate(-2348.8 -943.486)" fill="#517fa2"/>
+                    <path id="Trazado_299666" data-name="Trazado 299666" d="M2388.221,954.28l-1.586.932-1.579-.932,1.579-.9Z" transform="translate(-2349.824 -942.894)" fill="#517fa2"/>
+                    <path id="Trazado_299667" data-name="Trazado 299667" d="M2387.257,954.838l-1.59.918-1.572-.918,1.572-.9Z" transform="translate(-2350.847 -942.3)" fill="#517fa2"/>
+                    <path id="Trazado_299668" data-name="Trazado 299668" d="M2386.294,955.4l-1.587.912-1.572-.912,1.572-.914Z" transform="translate(-2351.87 -941.709)" fill="#517fa2"/>
+                    <path id="Trazado_299669" data-name="Trazado 299669" d="M2385.328,955.956l-1.573.91-1.58-.91,1.58-.914Z" transform="translate(-2352.894 -941.12)" fill="#517fa2"/>
+                    <path id="Trazado_299670" data-name="Trazado 299670" d="M2384.381,956.507l-1.586.92-1.588-.92,1.588-.909Z" transform="translate(-2353.924 -940.529)" fill="#517fa2"/>
+                    <path id="Trazado_299671" data-name="Trazado 299671" d="M2383.413,957.061l-1.586.916-1.58-.916,1.58-.908Z" transform="translate(-2354.946 -939.937)" fill="#517fa2"/>
+                    <path id="Trazado_299672" data-name="Trazado 299672" d="M2382.479,957.6l-1.584.918-1.578-.918,1.578-.907Z" transform="translate(-2355.938 -939.361)" fill="#517fa2"/>
+                    <path id="Trazado_299673" data-name="Trazado 299673" d="M2381.513,958.154l-1.579.914-1.579-.914,1.579-.906Z" transform="translate(-2356.962 -938.77)" fill="#517fa2"/>
+                    <path id="Trazado_299674" data-name="Trazado 299674" d="M2380.549,958.712l-1.579.924-1.572-.924,1.572-.912Z" transform="translate(-2357.982 -938.182)" fill="#517fa2"/>
+                    <path id="Trazado_299675" data-name="Trazado 299675" d="M2379.6,959.266l-1.583.919-1.583-.919,1.583-.9Z" transform="translate(-2359.013 -937.583)" fill="#517fa2"/>
+                    <path id="Trazado_299676" data-name="Trazado 299676" d="M2378.64,959.823l-1.592.91-1.579-.91,1.579-.91Z" transform="translate(-2360.036 -936.997)" fill="#517fa2"/>
+                    <path id="Trazado_299677" data-name="Trazado 299677" d="M2377.672,960.382l-1.588.909-1.569-.909,1.569-.916Z" transform="translate(-2361.054 -936.407)" fill="#517fa2"/>
+                    <path id="Trazado_299678" data-name="Trazado 299678" d="M2391.055,954.824l-1.578.916-1.572-.916,1.572-.918Z" transform="translate(-2346.788 -942.33)" fill="#517fa2"/>
+                    <path id="Trazado_299679" data-name="Trazado 299679" d="M2390.1,955.377l-1.585.908-1.577-.908,1.577-.91Z" transform="translate(-2347.817 -941.732)" fill="#517fa2"/>
+                    <path id="Trazado_299680" data-name="Trazado 299680" d="M2389.143,955.933l-1.587.911-1.577-.911,1.577-.914Z" transform="translate(-2348.842 -941.145)" fill="#517fa2"/>
+                    <path id="Trazado_299681" data-name="Trazado 299681" d="M2388.183,956.484l-1.589.926-1.573-.926,1.573-.912Z" transform="translate(-2349.862 -940.556)" fill="#517fa2"/>
+                    <path id="Trazado_299682" data-name="Trazado 299682" d="M2387.21,957.041l-1.578.916-1.576-.916,1.576-.914Z" transform="translate(-2350.888 -939.963)" fill="#517fa2"/>
+                    <path id="Trazado_299683" data-name="Trazado 299683" d="M2386.259,957.6l-1.587.92-1.579-.92,1.579-.918Z" transform="translate(-2351.915 -939.373)" fill="#517fa2"/>
+                    <path id="Trazado_299684" data-name="Trazado 299684" d="M2385.3,958.147l-1.584.916-1.585-.916,1.585-.9Z" transform="translate(-2352.94 -938.774)" fill="#517fa2"/>
+                    <path id="Trazado_299685" data-name="Trazado 299685" d="M2384.374,958.7l-1.585.912-1.6-.912,1.6-.92Z" transform="translate(-2353.939 -938.209)" fill="#517fa2"/>
+                    <path id="Trazado_299686" data-name="Trazado 299686" d="M2383.41,959.256l-1.587.905-1.586-.905,1.586-.924Z" transform="translate(-2354.959 -937.615)" fill="#517fa2"/>
+                    <path id="Trazado_299687" data-name="Trazado 299687" d="M2382.444,959.8l-1.585.912-1.584-.912,1.584-.908Z" transform="translate(-2355.983 -937.018)" fill="#517fa2"/>
+                    <path id="Trazado_299688" data-name="Trazado 299688" d="M2381.479,960.356l-1.585.912-1.576-.912,1.576-.91Z" transform="translate(-2357.003 -936.429)" fill="#517fa2"/>
+                    <path id="Trazado_299689" data-name="Trazado 299689" d="M2380.528,960.913l-1.592.908-1.584-.908,1.584-.914Z" transform="translate(-2358.031 -935.84)" fill="#517fa2"/>
+                    <path id="Trazado_299690" data-name="Trazado 299690" d="M2379.563,961.465l-1.584.93-1.588-.93,1.588-.914Z" transform="translate(-2359.054 -935.251)" fill="#517fa2"/>
+                    <path id="Trazado_299691" data-name="Trazado 299691" d="M2392.026,955.377l-1.587.908-1.578-.908,1.578-.91Z" transform="translate(-2345.769 -941.732)" fill="#517fa2"/>
+                    <path id="Trazado_299692" data-name="Trazado 299692" d="M2391.055,955.933l-1.578.911-1.572-.911,1.572-.914Z" transform="translate(-2346.788 -941.145)" fill="#517fa2"/>
+                    <path id="Trazado_299693" data-name="Trazado 299693" d="M2390.1,956.484l-1.585.926-1.577-.926,1.577-.912Z" transform="translate(-2347.817 -940.556)" fill="#517fa2"/>
+                    <path id="Trazado_299694" data-name="Trazado 299694" d="M2389.143,957.041l-1.587.916-1.577-.916,1.577-.914Z" transform="translate(-2348.842 -939.963)" fill="#517fa2"/>
+                    <path id="Trazado_299695" data-name="Trazado 299695" d="M2388.183,957.6l-1.589.92-1.573-.92,1.573-.918Z" transform="translate(-2349.862 -939.373)" fill="#517fa2"/>
+                    <path id="Trazado_299696" data-name="Trazado 299696" d="M2387.21,958.147l-1.578.916-1.576-.916,1.576-.9Z" transform="translate(-2350.888 -938.774)" fill="#517fa2"/>
+                    <path id="Trazado_299697" data-name="Trazado 299697" d="M2386.259,958.706l-1.587.912-1.579-.912,1.579-.911Z" transform="translate(-2351.915 -938.188)" fill="#517fa2"/>
+                    <path id="Trazado_299698" data-name="Trazado 299698" d="M2385.33,959.256l-1.578.905-1.6-.905,1.6-.924Z" transform="translate(-2352.913 -937.615)" fill="#517fa2"/>
+                    <path id="Trazado_299699" data-name="Trazado 299699" d="M2384.374,959.8l-1.585.912-1.6-.912,1.6-.908Z" transform="translate(-2353.939 -937.018)" fill="#517fa2"/>
+                    <path id="Trazado_299700" data-name="Trazado 299700" d="M2383.41,960.356l-1.587.912-1.586-.912,1.586-.91Z" transform="translate(-2354.959 -936.429)" fill="#517fa2"/>
+                    <path id="Trazado_299701" data-name="Trazado 299701" d="M2382.444,960.913l-1.585.908-1.584-.908,1.584-.914Z" transform="translate(-2355.983 -935.84)" fill="#517fa2"/>
+                    <path id="Trazado_299702" data-name="Trazado 299702" d="M2381.479,961.465l-1.585.93-1.576-.93,1.576-.914Z" transform="translate(-2357.003 -935.251)" fill="#517fa2"/>
+                    <path id="Trazado_299703" data-name="Trazado 299703" d="M2381.551,962.029l-3.572,2.057-1.588-.906,3.568-2.073Z" transform="translate(-2359.054 -934.659)" fill="#517fa2"/>
+                    <path id="Trazado_299704" data-name="Trazado 299704" d="M2395.307,954.713l-1.989,1.142-1.583-.914,1.988-1.16Z" transform="translate(-2342.708 -942.464)" fill="#517fa2"/>
+                    <path id="Trazado_299705" data-name="Trazado 299705" d="M2392.973,955.919l-1.579.924-1.585-.924,1.585-.908Z" transform="translate(-2344.76 -941.153)" fill="#517fa2"/>
+                    <path id="Trazado_299706" data-name="Trazado 299706" d="M2393.936,955.379l-1.577.905-1.587-.905,1.587-.924Z" transform="translate(-2343.735 -941.746)" fill="#517fa2"/>
+                    <path id="Trazado_299707" data-name="Trazado 299707" d="M2398.136,956.482l-13.454,7.755-1.572-.918,13.442-7.755Z" transform="translate(-2351.897 -940.564)" fill="#517fa2"/>
+                    <path id="Trazado_299708" data-name="Trazado 299708" d="M2385.305,960.345l-1.578.924-1.578-.924,1.578-.91Z" transform="translate(-2352.921 -936.44)" fill="#517fa2"/>
+                    <path id="Trazado_299709" data-name="Trazado 299709" d="M2384.348,960.892l-1.576.928-1.587-.928,1.587-.9Z" transform="translate(-2353.949 -935.845)" fill="#517fa2"/>
+                    <path id="Trazado_299710" data-name="Trazado 299710" d="M2383.393,961.456l-1.587.922-1.584-.922,1.584-.91Z" transform="translate(-2354.973 -935.256)" fill="#517fa2"/>
+                    <path id="Trazado_299711" data-name="Trazado 299711" d="M2382.428,962.011l-1.587.914-1.578-.914,1.578-.907Z" transform="translate(-2355.995 -934.663)" fill="#517fa2"/>
+                    <path id="Trazado_299712" data-name="Trazado 299712" d="M2382.5,962.571l-3.567,2.053-1.593-.9,3.571-2.065Z" transform="translate(-2358.047 -934.073)" fill="#517fa2"/>
+                    <path id="Trazado_299713" data-name="Trazado 299713" d="M2376.706,960.935l-1.58.912-1.58-.912,1.58-.911Z" transform="translate(-2362.085 -935.814)" fill="#517fa2"/>
+                    <path id="Trazado_299714" data-name="Trazado 299714" d="M2390.125,954.275l-1.588.909-1.581-.909,1.581-.908Z" transform="translate(-2347.799 -942.905)" fill="#517fa2"/>
+                    <path id="Trazado_299715" data-name="Trazado 299715" d="M2389.163,954.828l-1.584.909-1.582-.909,1.582-.908Z" transform="translate(-2348.821 -942.315)" fill="#517fa2"/>
+                    <path id="Trazado_299716" data-name="Trazado 299716" d="M2388.207,955.387l-1.592.922-1.578-.922,1.578-.912Z" transform="translate(-2349.844 -941.724)" fill="#517fa2"/>
+                    <path id="Trazado_299717" data-name="Trazado 299717" d="M2387.241,955.949l-1.583.918-1.586-.918,1.586-.92Z" transform="translate(-2350.872 -941.134)" fill="#517fa2"/>
+                    <path id="Trazado_299718" data-name="Trazado 299718" d="M2386.28,956.5l-1.579.92-1.588-.92,1.588-.92Z" transform="translate(-2351.895 -940.545)" fill="#517fa2"/>
+                    <path id="Trazado_299719" data-name="Trazado 299719" d="M2385.317,957.054l-1.584.91-1.58-.91,1.58-.911Z" transform="translate(-2352.917 -939.948)" fill="#517fa2"/>
+                    <path id="Trazado_299720" data-name="Trazado 299720" d="M2384.356,957.611l-1.579.91-1.59-.91,1.59-.916Z" transform="translate(-2353.944 -939.359)" fill="#517fa2"/>
+                    <path id="Trazado_299721" data-name="Trazado 299721" d="M2383.431,958.151l-1.594.918-1.578-.918,1.578-.916Z" transform="translate(-2354.934 -938.784)" fill="#517fa2"/>
+                    <path id="Trazado_299722" data-name="Trazado 299722" d="M2382.454,958.7l-1.572.911-1.586-.911,1.586-.91Z" transform="translate(-2355.96 -938.192)" fill="#517fa2"/>
+                    <path id="Trazado_299723" data-name="Trazado 299723" d="M2381.5,959.253l-1.59.913-1.576-.913,1.576-.906Z" transform="translate(-2356.982 -937.599)" fill="#517fa2"/>
+                    <path id="Trazado_299724" data-name="Trazado 299724" d="M2380.526,959.814l-1.573.908-1.578-.908,1.578-.912Z" transform="translate(-2358.007 -937.008)" fill="#517fa2"/>
+                    <path id="Trazado_299725" data-name="Trazado 299725" d="M2379.577,960.361l-1.574.926-1.594-.926,1.594-.9Z" transform="translate(-2359.036 -936.415)" fill="#517fa2"/>
+                    <path id="Trazado_299726" data-name="Trazado 299726" d="M2379.62,960.913l-1.988,1.141,1.988,1.156-1.583.91-3.568-2.065,3.568-2.055Z" transform="translate(-2361.101 -935.84)" fill="#517fa2"/>
+                    <path id="Trazado_299727" data-name="Trazado 299727" d="M2384.429,955.2l-1.575.915-1.593-.915,1.593-.908Z" transform="translate(-2353.866 -941.918)" fill="#517fa2"/>
+                    <path id="Trazado_299728" data-name="Trazado 299728" d="M2383.474,955.76l-1.6.914-1.574-.914,1.574-.915Z" transform="translate(-2354.888 -941.331)" fill="#517fa2"/>
+                    <path id="Trazado_299729" data-name="Trazado 299729" d="M2382.511,956.322l-1.585.9-1.584-.9,1.584-.92Z" transform="translate(-2355.911 -940.737)" fill="#517fa2"/>
+                    <path id="Trazado_299730" data-name="Trazado 299730" d="M2381.551,956.873l-1.59.92-1.581-.92,1.581-.918Z" transform="translate(-2356.936 -940.148)" fill="#517fa2"/>
+                    <path id="Trazado_299731" data-name="Trazado 299731" d="M2380.107,957.709l-1.585.9-1.583-.9,1.583-.918Z" transform="translate(-2358.471 -939.257)" fill="#517fa2"/>
+                    <path id="Trazado_299732" data-name="Trazado 299732" d="M2379.143,958.255l-1.585.912-1.582-.912,1.582-.911Z" transform="translate(-2359.498 -938.669)" fill="#517fa2"/>
+                    <path id="Trazado_299733" data-name="Trazado 299733" d="M2378.182,958.812l-1.585.91-1.583-.91,1.583-.912Z" transform="translate(-2360.521 -938.075)" fill="#517fa2"/>
+                    <path id="Trazado_299734" data-name="Trazado 299734" d="M2377.225,959.365l-1.584.926-1.59-.926,1.59-.91Z" transform="translate(-2361.548 -937.484)" fill="#517fa2"/>
+                    <path id="Trazado_299735" data-name="Trazado 299735" d="M2376.938,959.935l-2.911,1.668-1.588-.9,2.92-1.69Z" transform="translate(-2363.266 -936.891)" fill="#517fa2"/>
+                    <path id="Trazado_299736" data-name="Trazado 299736" d="M2390.465,954.383l-10.276,5.928-4.84-2.792,10.276-5.942Z" transform="translate(-2360.167 -944.811)" fill="#517fa2"/>
+                    <path id="Trazado_299737" data-name="Trazado 299737" d="M2372.382,958.326l-1.483.865-1.427-.827,1.486-.857Z" transform="translate(-2366.427 -938.495)" fill="#ffa769"/>
+                    <path id="Trazado_299738" data-name="Trazado 299738" d="M2373.242,957.833l-1.47.853-1.437-.821,1.49-.853Z" transform="translate(-2365.505 -939.021)" fill="#85a1c4"/>
+                  </g>
+                  <g id="Grupo_842463" data-name="Grupo 842463" transform="translate(22)">
+                    <path id="Trazado_299739" data-name="Trazado 299739" d="M2413,942.43a.4.4,0,0,1,.444-.027l1.033.587-.674.962-.188-.161v22.932A1.371,1.371,0,0,1,2413,967.8l-32.946,19.013-.232,1.08-1-.584h0a.43.43,0,0,1-.175-.388V962.972a1.325,1.325,0,0,1,.6-1.061Z" transform="translate(-2378.649 -942.349)" fill="#b4caed"/>
+                    <path id="Trazado_299740" data-name="Trazado 299740" d="M2413.49,942.716c.341-.206.609-.039.609.349v23.952a1.38,1.38,0,0,1-.609,1.066l-33.731,19.462c-.341.206-.62.049-.62-.347v-23.95a1.377,1.377,0,0,1,.62-1.061Z" transform="translate(-2378.127 -942.052)" fill="#fff"/>
+                    <path id="Trazado_299741" data-name="Trazado 299741" d="M2390.618,954.911l1.234-2.146-1.945-1.126-3.189,5.52,3.189,1.843,1.945-3.376Z" transform="translate(-2370.052 -932.451)" fill="#575757"/>
+                  </g>
+                </g>
+                <g id="Grupo_842481" data-name="Grupo 842481" transform="translate(36.622 41.823)">
+                  <g id="Grupo_842465" data-name="Grupo 842465" transform="translate(1.097 32.07)">
+                    <path id="Trazado_299742" data-name="Trazado 299742" d="M2370.853,976.1a15.577,15.577,0,0,1-14.058,0c-3.875-2.239-3.875-5.874,0-8.113a15.488,15.488,0,0,1,14.058,0C2374.734,970.225,2374.734,973.86,2370.853,976.1Z" transform="translate(-2353.888 -963.807)" fill="#0d0d0d" opacity="0.3"/>
+                    <path id="Trazado_299743" data-name="Trazado 299743" d="M2354.137,967.747V970.3c0,1.407.926,2.8,2.773,3.875a14.859,14.859,0,0,0,13.427,0c1.852-1.07,2.786-2.468,2.786-3.875v-2.555Z" transform="translate(-2353.623 -962.265)" fill="#003552"/>
+                    <path id="Trazado_299744" data-name="Trazado 299744" d="M2370.338,974.441a14.841,14.841,0,0,1-13.426,0c-3.7-2.137-3.7-5.611,0-7.739a14.8,14.8,0,0,1,13.426,0C2374.043,968.829,2374.043,972.3,2370.338,974.441Z" transform="translate(-2353.623 -965.093)" fill="#1078ad"/>
+                  </g>
+                  <g id="Grupo_842466" data-name="Grupo 842466" transform="translate(3.219 31.588)">
+                    <path id="Trazado_299745" data-name="Trazado 299745" d="M2354.917,967.066v.913h0a3.919,3.919,0,0,0,2.305,3.224,12.3,12.3,0,0,0,11.148,0,3.925,3.925,0,0,0,2.307-3.224v-.913Z" transform="translate(-2354.914 -962.509)" fill="#f26716"/>
+                    <path id="Trazado_299746" data-name="Trazado 299746" d="M2368.372,972.632a12.355,12.355,0,0,1-11.148,0c-3.078-1.78-3.078-4.659,0-6.435a12.289,12.289,0,0,1,11.148,0C2371.447,967.973,2371.447,970.852,2368.372,972.632Z" transform="translate(-2354.915 -964.86)" fill="#ffa769"/>
+                  </g>
+                  <g id="Grupo_842467" data-name="Grupo 842467" transform="translate(4.686 25.504)">
+                    <path id="Trazado_299747" data-name="Trazado 299747" d="M2356.279,970.342l2,1.145V964a12.164,12.164,0,0,1-2.649-2.082Z" transform="translate(-2355.626 -961.914)" fill="#ff8530"/>
+                    <path id="Trazado_299748" data-name="Trazado 299748" d="M2358.9,969.863l-1.987,1.143v-7.491l1.987-1.151Z" transform="translate(-2354.26 -961.435)" fill="#f26716"/>
+                  </g>
+                  <g id="Grupo_842468" data-name="Grupo 842468" transform="translate(0 8.782)">
+                    <path id="Trazado_299749" data-name="Trazado 299749" d="M2361.909,969.732a12.465,12.465,0,0,1-5.647-9.709c-.018-2.79,1.5-4.312,3.629-4.013.246.029.041,1.574.3,1.66l1.656-.959-.01-1.927c-1.985-1.134-3.789-1.237-5.1-.488h0l-.03.029h-.01l-1.7.981.211.7a6.792,6.792,0,0,0-.616,3.059c-.937.9-1.657,3.166,1.068,7.472,1.183,1.861,4.612,6.08,4.612,6.08l1.65-.954Z" transform="translate(-2352.937 -953.818)" fill="#f26716"/>
+                    <path id="Trazado_299750" data-name="Trazado 299750" d="M2355.53,966.714a14.874,14.874,0,0,0,5.163,5.415l-.017-1.935a12.426,12.426,0,0,1-5.648-9.711c-.023-3.588,2.487-5.066,5.582-3.3l-.006-1.929c-4.016-2.3-7.269-.376-7.247,4.281A14.959,14.959,0,0,0,2355.53,966.714Z" transform="translate(-2353.357 -953.326)" fill="#ff8530"/>
+                  </g>
+                  <g id="Grupo_842469" data-name="Grupo 842469" transform="translate(7.247 9.475)">
+                    <path id="Trazado_299751" data-name="Trazado 299751" d="M2359.078,955.812v-.037a1.112,1.112,0,0,1,.4-.958l-1.149-.663-1.465.847,2.749,2.474A3.3,3.3,0,0,1,2359.078,955.812Z" transform="translate(-2356.866 -954.153)" fill="#1078ad"/>
+                    <path id="Trazado_299752" data-name="Trazado 299752" d="M2360.046,954.613a1.1,1.1,0,0,0-1.084-.118v-.008l-.01.016-.012.006-1.523.88,1.685,4,1.461-.849v-3.631Z" transform="translate(-2356.279 -953.89)" fill="#f26716"/>
+                    <path id="Trazado_299753" data-name="Trazado 299753" d="M2357.614,956.22v-.037a1.121,1.121,0,0,1,.393-.958l-1.14-.661v2.577l1.285.742A3.229,3.229,0,0,1,2357.614,956.22Z" transform="translate(-2356.866 -953.716)" fill="#00537d"/>
+                    <path id="Trazado_299754" data-name="Trazado 299754" d="M2357.228,955.918v.037a3.454,3.454,0,0,0,1.559,2.7l.516.3v-3.641l-.516-.291C2357.92,954.529,2357.228,954.923,2357.228,955.918Z" transform="translate(-2356.48 -953.453)" fill="#ff8530"/>
+                    <path id="Trazado_299755" data-name="Trazado 299755" d="M2357.926,955.484c-.209-.132-.377-.029-.377.211a.853.853,0,0,0,.377.661.234.234,0,0,0,.379-.223A.823.823,0,0,0,2357.926,955.484Z" transform="translate(-2356.14 -952.797)" fill="#00537d"/>
+                  </g>
+                  <g id="Grupo_842474" data-name="Grupo 842474" transform="translate(9.817)">
+                    <g id="Grupo_842470" data-name="Grupo 842470" transform="translate(1.334 18.591)">
+                      <path id="Trazado_299756" data-name="Trazado 299756" d="M2358.756,958.882V962.9h0a.548.548,0,0,0,.331.469,1.771,1.771,0,0,0,1.6,0,.556.556,0,0,0,.335-.469h0v-4.021Z" transform="translate(-2358.756 -958.231)" fill="#003552"/>
+                      <path id="Trazado_299757" data-name="Trazado 299757" d="M2360.685,959.681a1.759,1.759,0,0,1-1.6,0,.489.489,0,0,1,0-.925,1.785,1.785,0,0,1,1.6,0A.488.488,0,0,1,2360.685,959.681Z" transform="translate(-2358.756 -958.566)" fill="#1d374e"/>
+                    </g>
+                    <g id="Grupo_842471" data-name="Grupo 842471" transform="translate(0 17.181)">
+                      <path id="Trazado_299758" data-name="Trazado 299758" d="M2358.111,958.595v1.136h0a1.256,1.256,0,0,0,.741,1.039,3.925,3.925,0,0,0,3.606,0,1.263,1.263,0,0,0,.749-1.039h0v-1.136Z" transform="translate(-2358.111 -957.127)" fill="#00537d"/>
+                      <path id="Trazado_299759" data-name="Trazado 299759" d="M2362.457,960.393a3.928,3.928,0,0,1-3.606,0,1.1,1.1,0,0,1,0-2.082,4.017,4.017,0,0,1,3.606,0A1.1,1.1,0,0,1,2362.457,960.393Z" transform="translate(-2358.108 -957.884)" fill="#1d374e"/>
+                    </g>
+                    <g id="Grupo_842472" data-name="Grupo 842472" transform="translate(0 5.868)">
+                      <path id="Trazado_299760" data-name="Trazado 299760" d="M2358.111,953.117v11.314h0a1.254,1.254,0,0,0,.741,1.041,3.928,3.928,0,0,0,3.606,0,1.261,1.261,0,0,0,.749-1.041h0V953.117Z" transform="translate(-2358.111 -951.649)" fill="#ff8530"/>
+                      <path id="Trazado_299761" data-name="Trazado 299761" d="M2362.457,954.913a3.965,3.965,0,0,1-3.606,0,1.1,1.1,0,0,1,0-2.071,3.951,3.951,0,0,1,3.606,0A1.092,1.092,0,0,1,2362.457,954.913Z" transform="translate(-2358.108 -952.406)" fill="#ffa769"/>
+                    </g>
+                    <g id="Grupo_842473" data-name="Grupo 842473" transform="translate(0.857)">
+                      <path id="Trazado_299762" data-name="Trazado 299762" d="M2358.525,950.039v6.194h0a.858.858,0,0,0,.5.692,2.652,2.652,0,0,0,2.387,0,.843.843,0,0,0,.5-.692h0v-6.194Z" transform="translate(-2358.525 -949.061)" fill="#00537d"/>
+                      <path id="Trazado_299763" data-name="Trazado 299763" d="M2361.405,951.234a2.67,2.67,0,0,1-2.388,0,.728.728,0,0,1,0-1.376,2.581,2.581,0,0,1,2.388,0A.726.726,0,0,1,2361.405,951.234Z" transform="translate(-2358.522 -949.565)" fill="#1078ad"/>
+                      <path id="Trazado_299764" data-name="Trazado 299764" d="M2360.9,950.6a1.2,1.2,0,0,0-.227-.192,1.72,1.72,0,0,0-1.536,0,1.079,1.079,0,0,0-.229.192c-.167-.227-.1-.5.229-.69a1.744,1.744,0,0,1,1.536,0C2361,950.1,2361.078,950.377,2360.9,950.6Z" transform="translate(-2358.213 -949.384)" fill="#003552"/>
+                      <path id="Trazado_299765" data-name="Trazado 299765" d="M2360.853,950.349a.655.655,0,0,1-.227.2,1.671,1.671,0,0,1-1.537,0,.635.635,0,0,1-.229-.2,1.109,1.109,0,0,1,.229-.192,1.72,1.72,0,0,1,1.537,0A1.184,1.184,0,0,1,2360.853,950.349Z" transform="translate(-2358.168 -949.129)" fill="#4fbeff"/>
+                    </g>
+                  </g>
+                  <g id="Grupo_842479" data-name="Grupo 842479" transform="translate(3.465 24.574)">
+                    <path id="Trazado_299766" data-name="Trazado 299766" d="M2355.035,964.842l9.084,5.242v-.841L2355.035,964Z" transform="translate(-2355.035 -958.763)" fill="#00537d"/>
+                    <path id="Trazado_299767" data-name="Trazado 299767" d="M2368.511,964.842l-9.077,5.242v-.841l9.077-5.244Z" transform="translate(-2350.35 -958.763)" fill="#003552"/>
+                    <path id="Trazado_299768" data-name="Trazado 299768" d="M2364.119,971.944l-9.084-5.244,9.084-5.236,9.077,5.236Z" transform="translate(-2355.035 -961.464)" fill="#1078ad"/>
+                    <g id="Grupo_842475" data-name="Grupo 842475" transform="translate(5.423 3.122)">
+                      <path id="Trazado_299769" data-name="Trazado 299769" d="M2366.207,965.809a2.36,2.36,0,0,0-1.2-1.413,6.78,6.78,0,0,0-6.089,0,2.334,2.334,0,0,0-1.209,1.413c-.187-.75.221-1.53,1.209-2.1a6.7,6.7,0,0,1,6.089,0A1.959,1.959,0,0,1,2366.207,965.809Z" transform="translate(-2357.661 -962.975)" fill="#003552"/>
+                      <path id="Trazado_299770" data-name="Trazado 299770" d="M2366.184,965.448a2.339,2.339,0,0,1-1.2,1.4,6.7,6.7,0,0,1-6.088,0,1.425,1.425,0,0,1,0-2.817,6.781,6.781,0,0,1,6.088,0A2.357,2.357,0,0,1,2366.184,965.448Z" transform="translate(-2357.638 -962.614)" fill="#659ec9"/>
+                    </g>
+                    <g id="Grupo_842476" data-name="Grupo 842476" transform="translate(5.023 2.614)">
+                      <path id="Trazado_299771" data-name="Trazado 299771" d="M2367.036,963.549l-7.321,4.226-2.248-1.305v-.184l9.569-2.928Z" transform="translate(-2357.467 -962.06)" fill="#1da4b5"/>
+                      <path id="Trazado_299772" data-name="Trazado 299772" d="M2367.036,964.026l-7.321,4.225-2.248-1.3,7.323-4.226Z" transform="translate(-2357.467 -962.729)" fill="#4debff"/>
+                    </g>
+                    <g id="Grupo_842477" data-name="Grupo 842477" transform="translate(3.943 3.911)">
+                      <path id="Trazado_299773" data-name="Trazado 299773" d="M2356.944,963.694l7.323,4.23.553-.321v-.183l-7.877-3.909Z" transform="translate(-2356.944 -963.194)" fill="#808285"/>
+                      <path id="Trazado_299774" data-name="Trazado 299774" d="M2356.944,963.674l7.323,4.225.553-.317-7.321-4.225Z" transform="translate(-2356.944 -963.357)" fill="#bcbec0"/>
+                      <path id="Trazado_299775" data-name="Trazado 299775" d="M2357.43,963.631a.25.25,0,0,1-.246,0c-.068-.037-.068-.087,0-.14a.249.249,0,0,1,.246,0C2357.5,963.544,2357.5,963.594,2357.43,963.631Z" transform="translate(-2356.742 -963.25)" fill="#0f2034"/>
+                    </g>
+                    <g id="Grupo_842478" data-name="Grupo 842478" transform="translate(7.407 1.898)">
+                      <path id="Trazado_299776" data-name="Trazado 299776" d="M2358.621,962.726l7.318,4.225.559-.323v-.182l-7.877-3.913Z" transform="translate(-2358.621 -962.222)" fill="#808285"/>
+                      <path id="Trazado_299777" data-name="Trazado 299777" d="M2358.621,962.7l7.318,4.233.559-.32-7.325-4.226Z" transform="translate(-2358.621 -962.383)" fill="#bcbec0"/>
+                      <path id="Trazado_299778" data-name="Trazado 299778" d="M2359.112,962.666a.291.291,0,0,1-.248,0c-.07-.046-.074-.11,0-.147a.253.253,0,0,1,.248,0C2359.182,962.556,2359.182,962.62,2359.112,962.666Z" transform="translate(-2358.42 -962.272)" fill="#0f2034"/>
+                    </g>
+                  </g>
+                  <g id="Grupo_842480" data-name="Grupo 842480" transform="translate(7.323 24.699)">
+                    <path id="Trazado_299779" data-name="Trazado 299779" d="M2356.9,963.923l1.648.944-1.648-2.886Z" transform="translate(-2356.903 -961.037)" fill="#939598"/>
+                    <rect id="Rectángulo_239436" data-name="Rectángulo 239436" width="1.901" height="3.325" transform="translate(0 0.943) rotate(-29.724)" fill="#bcbec0"/>
+                  </g>
+                </g>
+                <g id="Grupo_842487" data-name="Grupo 842487" transform="translate(123.326 36.99)">
+                  <g id="Grupo_842482" data-name="Grupo 842482">
+                    <path id="Trazado_299780" data-name="Trazado 299780" d="M2424.744,991.295l-29.406-16.976,45.84-26.458,29.407,16.975Z" transform="translate(-2395.338 -946.549)" fill="#0d0d0d" opacity="0.3"/>
+                    <path id="Trazado_299781" data-name="Trazado 299781" d="M2396.523,962l27.126,15.655v-2.678l-27.126-15.666Z" transform="translate(-2394.074 -934.352)" fill="#a7a9ac"/>
+                    <path id="Trazado_299782" data-name="Trazado 299782" d="M2452.88,957.5l-43.223,24.95v-2.679l43.223-24.959Z" transform="translate(-2380.082 -939.146)" fill="#939598"/>
+                    <path id="Trazado_299783" data-name="Trazado 299783" d="M2423.649,987.848l-27.126-15.666,43.215-24.957,27.134,15.663Z" transform="translate(-2394.074 -947.225)" fill="#bcbec0"/>
+                    <path id="Trazado_299784" data-name="Trazado 299784" d="M2462.093,961.986l-1.685.985-22.437-12.959-38.4,22.192-1.681-.976,40.085-23.154Z" transform="translate(-2392.624 -946.322)" fill="#939598"/>
+                    <path id="Trazado_299785" data-name="Trazado 299785" d="M2459.541,961.97l-38.41,22.182L2398.7,971.2l38.4-22.192Z" transform="translate(-2391.756 -945.322)" fill="#a7a9ac"/>
+                  </g>
+                  <g id="Grupo_842484" data-name="Grupo 842484" transform="translate(29.575 4.791)">
+                    <path id="Trazado_299786" data-name="Trazado 299786" d="M2415.6,961.953a8.356,8.356,0,0,1-4.138-1,2.722,2.722,0,0,1,0-5.126,8.535,8.535,0,0,1,4.138-.987,8.421,8.421,0,0,1,4.133,1,2.717,2.717,0,0,1,0,5.118A8.348,8.348,0,0,1,2415.6,961.953Z" transform="translate(-2409.657 -943.902)" fill="#0d0d0d" opacity="0.3"/>
+                    <path id="Trazado_299787" data-name="Trazado 299787" d="M2409.967,952.305l1.185-1.551,1.7-.764,2.106-.309h1.552l1.3.5,1.126.4,1.187.974.5,1.089v11.4l-1.073,1.6-1.929.989-2.083.248-2-.139-1.373-.335-1.1-.712-.671-.688-.42-.96Z" transform="translate(-2409.326 -949.4)" fill="#659ec9" opacity="0.7"/>
+                    <g id="Grupo_842483" data-name="Grupo 842483" transform="translate(1.369 4.224)">
+                      <path id="Trazado_299788" data-name="Trazado 299788" d="M2414.895,962.665a6.483,6.483,0,0,1-3.183-.764,2.377,2.377,0,0,1-1.392-1.969v-7.016h9.141v7.016a2.379,2.379,0,0,1-1.388,1.969A6.488,6.488,0,0,1,2414.895,962.665Z" transform="translate(-2410.32 -950.177)" fill="#00537d"/>
+                      <path id="Trazado_299789" data-name="Trazado 299789" d="M2414.895,957.061a6.512,6.512,0,0,1-3.183-.76,2.09,2.09,0,0,1,0-3.94,6.951,6.951,0,0,1,6.361,0,2.092,2.092,0,0,1,0,3.94A6.5,6.5,0,0,1,2414.895,957.061Z" transform="translate(-2410.32 -951.59)" fill="#1078ad"/>
+                    </g>
+                    <path id="Trazado_299790" data-name="Trazado 299790" d="M2412.393,963.631l-1.53-.583V952.413l1.53.424Z" transform="translate(-2408.373 -946.49)" fill="#fff" opacity="0.2"/>
+                    <path id="Trazado_299791" data-name="Trazado 299791" d="M2413.394,964.2l2.507-1.17v-10.97l-2.507,1.147Z" transform="translate(-2405.679 -946.863)" fill="#0d0d0d" opacity="0.2"/>
+                    <path id="Trazado_299792" data-name="Trazado 299792" d="M2421,952.883a2.915,2.915,0,0,0-1.692-2.408,8.623,8.623,0,0,0-7.788,0,2.908,2.908,0,0,0-1.691,2.408v11.022a2.924,2.924,0,0,0,1.691,2.419,8.686,8.686,0,0,0,7.786,0,2.93,2.93,0,0,0,1.694-2.419V952.883Zm-10.611,0a2.4,2.4,0,0,1,1.414-1.919,8.033,8.033,0,0,1,7.221,0,2.378,2.378,0,0,1,1.408,1.919,2.343,2.343,0,0,1-1.408,1.921,7.981,7.981,0,0,1-7.221,0,2.368,2.368,0,0,1-1.414-1.915v-.006Zm10.043,11.022a2.359,2.359,0,0,1-1.408,1.917,7.985,7.985,0,0,1-7.221,0,2.385,2.385,0,0,1-1.414-1.917v-9.55a4.039,4.039,0,0,0,1.132.938,8.565,8.565,0,0,0,7.786,0,3.923,3.923,0,0,0,1.126-.938Z" transform="translate(-2409.474 -949.545)" fill="#517fa2"/>
+                  </g>
+                  <g id="Grupo_842486" data-name="Grupo 842486" transform="translate(15.097 11.702)">
+                    <path id="Trazado_299793" data-name="Trazado 299793" d="M2408.585,965.3a8.34,8.34,0,0,1-4.128-1,2.72,2.72,0,0,1,0-5.126,8.432,8.432,0,0,1,4.128-.989,8.338,8.338,0,0,1,4.135,1,2.717,2.717,0,0,1,0,5.118A8.361,8.361,0,0,1,2408.585,965.3Z" transform="translate(-2402.647 -947.251)" fill="#0d0d0d" opacity="0.3"/>
+                    <path id="Trazado_299794" data-name="Trazado 299794" d="M2402.957,955.648l1.185-1.547,1.7-.766,2.115-.309h1.542l1.3.5,1.131.4,1.187.976.505,1.091v11.4l-1.077,1.589-1.929.988-2.088.25-1.992-.139-1.372-.339-1.114-.7-.671-.688-.417-.96Z" transform="translate(-2402.317 -952.747)" fill="#659ec9" opacity="0.7"/>
+                    <g id="Grupo_842485" data-name="Grupo 842485" transform="translate(1.365 4.226)">
+                      <path id="Trazado_299795" data-name="Trazado 299795" d="M2407.881,966.008a6.506,6.506,0,0,1-3.177-.76,2.383,2.383,0,0,1-1.4-1.968v-7.02h9.143v7.02a2.372,2.372,0,0,1-1.386,1.968A6.54,6.54,0,0,1,2407.881,966.008Z" transform="translate(-2403.308 -953.529)" fill="#4fbeff"/>
+                      <path id="Trazado_299796" data-name="Trazado 299796" d="M2407.881,960.41a6.4,6.4,0,0,1-3.177-.77,2.089,2.089,0,0,1,0-3.941,7.017,7.017,0,0,1,6.361,0,2.093,2.093,0,0,1,0,3.941A6.4,6.4,0,0,1,2407.881,960.41Z" transform="translate(-2403.308 -954.937)" fill="#8dd5ff"/>
+                    </g>
+                    <path id="Trazado_299797" data-name="Trazado 299797" d="M2405.383,966.973l-1.531-.579V955.753l1.531.432Z" transform="translate(-2401.363 -949.842)" fill="#fff" opacity="0.2"/>
+                    <path id="Trazado_299798" data-name="Trazado 299798" d="M2406.382,967.545l2.509-1.174V955.409l-2.509,1.142Z" transform="translate(-2398.668 -950.209)" fill="#0d0d0d" opacity="0.2"/>
+                    <path id="Trazado_299799" data-name="Trazado 299799" d="M2413.991,956.227a2.887,2.887,0,0,0-1.692-2.4,8.614,8.614,0,0,0-7.792,0,2.881,2.881,0,0,0-1.689,2.4v11.02a2.91,2.91,0,0,0,1.689,2.415,8.67,8.67,0,0,0,7.786,0,2.913,2.913,0,0,0,1.7-2.415v-11.02Zm-10.607,0a2.38,2.38,0,0,1,1.4-1.921,8.062,8.062,0,0,1,7.227,0,2.015,2.015,0,0,1,0,3.843,8.045,8.045,0,0,1-7.227,0,2.38,2.38,0,0,1-1.4-1.919v0Zm10.039,11.02a2.39,2.39,0,0,1-1.408,1.925,8.036,8.036,0,0,1-7.227,0,2.4,2.4,0,0,1-1.4-1.925V957.7a4.248,4.248,0,0,0,1.123.938,8.6,8.6,0,0,0,7.786,0,3.979,3.979,0,0,0,1.13-.938Z" transform="translate(-2402.465 -952.891)" fill="#517fa2"/>
+                  </g>
+                </g>
+              </g>
+            </g>
+            <g id="Grupo_842502" data-name="Grupo 842502" transform="translate(0 116.63)">
+              <g id="Grupo_842490" data-name="Grupo 842490" transform="translate(34.177 102.438)">
+                <path id="Trazado_299800" data-name="Trazado 299800" d="M2352.6,1012.232c-10.6-6.138-27.815-6.138-38.42,0s-10.61,16.06,0,22.188,27.816,6.13,38.42,0C2363.231,1028.292,2363.231,1018.364,2352.6,1012.232Z" transform="translate(-2306.227 -979.781)" fill="#b2b1b1" opacity="0.3"/>
+                <path id="Trazado_299801" data-name="Trazado 299801" d="M2333.04,994.355c-7.815,1.161-11.493,1.737-16.177,5.068-4.472,4.757-10.071,16.145-10.071,22.735,0,13.536,11.731,24.574,26.248,24.574,14.489,0,26.205-11.037,26.205-24.574a31.336,31.336,0,0,0-10.565-23.253C2344.377,995.4,2338.716,994.355,2333.04,994.355Z" transform="translate(-2305.623 -993.921)" fill="#dae5f8"/>
+                <path id="Trazado_299802" data-name="Trazado 299802" d="M2342.069,997.272c-7.192-4.17-18.9-4.17-26.1,0-7.227,4.151-7.227,10.93,0,15.059,7.2,4.2,18.907,4.2,26.1,0C2349.262,1008.2,2349.262,1001.424,2342.069,997.272Z" transform="translate(-2301.621 -994.145)" fill="#fff"/>
+                <path id="Trazado_299803" data-name="Trazado 299803" d="M2334.988,999.352c-5.027-2.9-13.174-2.9-18.2,0a7.755,7.755,0,0,0-3.306,3.3,7.9,7.9,0,0,0,3.306,3.263c5.023,2.92,13.17,2.92,18.2,0a7.661,7.661,0,0,0,3.3-3.263A7.742,7.742,0,0,0,2334.988,999.352Z" transform="translate(-2298.494 -990.915)" fill="#572b26"/>
+                <path id="Trazado_299804" data-name="Trazado 299804" d="M2335.227,997.459c-5.028-2.918-13.175-2.918-18.2,0-3.4,1.983-4.5,4.75-3.307,7.229a7.755,7.755,0,0,1,3.307-3.3c5.023-2.9,13.17-2.9,18.2,0a7.741,7.741,0,0,1,3.3,3.3C2339.717,1002.209,2338.612,999.442,2335.227,997.459Z" transform="translate(-2298.733 -992.946)" fill="#b4caed"/>
+              </g>
+              <g id="Grupo_842501" data-name="Grupo 842501">
+                <g id="Grupo_842491" data-name="Grupo 842491" transform="translate(0 20.409)">
+                  <path id="Trazado_299805" data-name="Trazado 299805" d="M2289.678,974.662c27.3-7.092,40.571,11.455,53.277-10.021C2355.634,943.166,2297.555,959.988,2289.678,974.662Z" transform="translate(-2289.678 -954.428)" fill="#89c75b"/>
+                  <path id="Trazado_299806" data-name="Trazado 299806" d="M2298.749,961.283a71.958,71.958,0,0,0-8.084,4.242Q2294.841,963.121,2298.749,961.283Z" transform="translate(-2288.627 -947.125)" fill="#70ab44"/>
+                  <path id="Trazado_299807" data-name="Trazado 299807" d="M2294.579,964.908c22.506-9.87,40.332-1.846,41.427-3.68C2337.085,959.332,2319.9,953.086,2294.579,964.908Z" transform="translate(-2284.457 -950.75)" fill="#70ab44"/>
+                </g>
+                <g id="Grupo_842492" data-name="Grupo 842492" transform="translate(45.836)">
+                  <path id="Trazado_299808" data-name="Trazado 299808" d="M2312.291,944.546c1.466,15.719-7.59,30.585,17.807,28.557C2355.469,971.026,2334.726,945.351,2312.291,944.546Z" transform="translate(-2311.871 -944.546)" fill="#89c75b"/>
+                  <path id="Trazado_299809" data-name="Trazado 299809" d="M2315.312,945.992c14.205,9.515,8.406,24.764,10.632,24.621C2328.121,970.394,2332.022,956.383,2315.312,945.992Z" transform="translate(-2308.206 -943.005)" fill="#70ab44"/>
+                  <path id="Trazado_299810" data-name="Trazado 299810" d="M2318.159,947.5a31.909,31.909,0,0,0-5.519-2.916A45.9,45.9,0,0,1,2318.159,947.5Z" transform="translate(-2311.052 -944.51)" fill="#70ab44"/>
+                </g>
+                <g id="Grupo_842493" data-name="Grupo 842493" transform="translate(72.441 22.164)">
+                  <path id="Trazado_299811" data-name="Trazado 299811" d="M2326.715,972.7c-9.713,23.774,18.125-6.7,50.57-12.654C2367.094,954.678,2336.561,948.908,2326.715,972.7Z" transform="translate(-2324.753 -955.277)" fill="#89c75b"/>
+                  <path id="Trazado_299812" data-name="Trazado 299812" d="M2326.137,972.084c-.946,2.348,9.17-13.743,47.41-14.423C2337.435,955.919,2327.09,969.843,2326.137,972.084Z" transform="translate(-2323.341 -952.898)" fill="#70ab44"/>
+                </g>
+                <path id="Trazado_299813" data-name="Trazado 299813" d="M2321.292,976.177a3.285,3.285,0,0,0-3.283,3.284v50.823a19.508,19.508,0,0,0,6.508-.023v-50.8A3.247,3.247,0,0,0,2321.292,976.177Z" transform="translate(-2259.495 -910.849)" fill="#85413a"/>
+                <path id="Trazado_299814" data-name="Trazado 299814" d="M2326.426,958.176c-7.456,0-13.39,10.362-13.39,23.061,0,12.747,5.934,23.08,13.39,23.08,7.36,0,13.354-10.333,13.354-23.08C2339.781,968.538,2333.786,958.176,2326.426,958.176Z" transform="translate(-2264.795 -930.026)" fill="#ff8530"/>
+                <g id="Grupo_842494" data-name="Grupo 842494" transform="translate(52.238 46.94)">
+                  <path id="Trazado_299815" data-name="Trazado 299815" d="M2326.609,969.321c-19.975-10.636-10.4,22.888.3,37.994C2334.222,1000.857,2346.505,979.96,2326.609,969.321Z" transform="translate(-2314.971 -967.273)" fill="#89c75b"/>
+                  <path id="Trazado_299816" data-name="Trazado 299816" d="M2319.908,968.462c-1.933-1.086,2.995,9.629,2.736,36.079C2326.694,983.4,2321.83,969.463,2319.908,968.462Z" transform="translate(-2310.193 -966.088)" fill="#70ab44"/>
+                </g>
+                <g id="Grupo_842495" data-name="Grupo 842495" transform="translate(57.6 44.449)">
+                  <path id="Trazado_299817" data-name="Trazado 299817" d="M2327.274,966.069c-27.085.225,9.925,13.295,21.208,39.349C2352.8,994.517,2354.458,965.838,2327.274,966.069Z" transform="translate(-2317.567 -966.067)" fill="#89c75b"/>
+                  <path id="Trazado_299818" data-name="Trazado 299818" d="M2321.546,966.719c-2.689,0,16.25,2.873,22.594,36.024C2340.729,970.6,2324.121,966.684,2321.546,966.719Z" transform="translate(-2313.605 -965.373)" fill="#70ab44"/>
+                </g>
+                <g id="Grupo_842496" data-name="Grupo 842496" transform="translate(31.833 37.207)">
+                  <path id="Trazado_299819" data-name="Trazado 299819" d="M2305.131,1003.173c16.948-18.935,36.213-11.715,35.032-34.078C2338.989,946.614,2303.753,988.154,2305.131,1003.173Z" transform="translate(-2305.091 -962.561)" fill="#89c75b"/>
+                  <path id="Trazado_299820" data-name="Trazado 299820" d="M2309.21,977.664a58.5,58.5,0,0,0-3.8,6.956C2306.635,982.133,2307.912,979.8,2309.21,977.664Z" transform="translate(-2304.753 -946.472)" fill="#70ab44"/>
+                  <path id="Trazado_299821" data-name="Trazado 299821" d="M2307.249,990.091c12.006-18.782,29.55-21.694,29.441-23.646C2336.556,964.481,2320.471,968.43,2307.249,990.091Z" transform="translate(-2302.792 -958.898)" fill="#70ab44"/>
+                </g>
+                <g id="Grupo_842497" data-name="Grupo 842497" transform="translate(7.253 7.633)">
+                  <path id="Trazado_299822" data-name="Trazado 299822" d="M2293.19,951.516c26.5,10.12,21.694,39.658,48.733,24.1C2368.864,960.044,2311.119,940.359,2293.19,951.516Z" transform="translate(-2293.19 -948.242)" fill="#9de368"/>
+                  <path id="Trazado_299823" data-name="Trazado 299823" d="M2303.855,950.035a57.81,57.81,0,0,0-9.176-.578A84.508,84.508,0,0,1,2303.855,950.035Z" transform="translate(-2291.604 -946.953)" fill="#89c75b"/>
+                  <path id="Trazado_299824" data-name="Trazado 299824" d="M2299.122,949.734c25.389,3.788,32.581,24.705,34.915,23.425C2336.432,971.765,2328.251,953.282,2299.122,949.734Z" transform="translate(-2286.87 -946.652)" fill="#89c75b"/>
+                </g>
+                <g id="Grupo_842498" data-name="Grupo 842498" transform="translate(53.853 7.509)">
+                  <path id="Trazado_299825" data-name="Trazado 299825" d="M2321.336,980.986c20.247,13.292,24.813-20.329,56.347-27.341C2351.678,937.11,2298.442,961.576,2321.336,980.986Z" transform="translate(-2315.753 -948.182)" fill="#9de368"/>
+                  <path id="Trazado_299826" data-name="Trazado 299826" d="M2319.322,978.023c2.722,1.539,14.823-31.585,53.952-26.942C2336.677,944.141,2316.713,976.474,2319.322,978.023Z" transform="translate(-2312.193 -946.132)" fill="#89c75b"/>
+                </g>
+                <g id="Grupo_842499" data-name="Grupo 842499" transform="translate(7.724 33.001)">
+                  <path id="Trazado_299827" data-name="Trazado 299827" d="M2345.57,964.105c-39.053-15.145-52.265,21.514-52.152,39.9C2314.1,977.643,2377.94,976.65,2345.57,964.105Z" transform="translate(-2293.418 -960.524)" fill="#9de368"/>
+                  <path id="Trazado_299828" data-name="Trazado 299828" d="M2297.348,985.571c16.145-21.157,44.723-21.273,42.313-22.634C2337.236,961.5,2312.9,963.238,2297.348,985.571Z" transform="translate(-2289.231 -958.352)" fill="#89c75b"/>
+                  <path id="Trazado_299829" data-name="Trazado 299829" d="M2301.535,973.7a49.292,49.292,0,0,0-8.117,16.262A65.357,65.357,0,0,1,2301.535,973.7Z" transform="translate(-2293.418 -946.485)" fill="#89c75b"/>
+                </g>
+                <g id="Grupo_842500" data-name="Grupo 842500" transform="translate(59.771 34.177)">
+                  <path id="Trazado_299830" data-name="Trazado 299830" d="M2327.761,965.906c-29.342,16.892,18.886,8.282,46.989,29.667C2372.765,981.089,2357.058,948.96,2327.761,965.906Z" transform="translate(-2318.618 -961.094)" fill="#9de368"/>
+                  <path id="Trazado_299831" data-name="Trazado 299831" d="M2322.586,965.448c-2.835,1.659,19.437-6.884,46.623,25.119C2345.8,957.882,2325.439,963.793,2322.586,965.448Z" transform="translate(-2314.651 -958.045)" fill="#89c75b"/>
+                </g>
+              </g>
+            </g>
+            <g id="Grupo_842518" data-name="Grupo 842518" transform="translate(288.322 130.183)">
+              <path id="Trazado_299832" data-name="Trazado 299832" d="M2512.617,991.147l-83.338,48.13,21.587,12.427,83.324-48.077Z" transform="translate(-2429.279 -908.453)" fill="#b2b1b1" opacity="0.3"/>
+              <g id="Grupo_842503" data-name="Grupo 842503" transform="translate(78.87 77.56)">
+                <path id="Trazado_299833" data-name="Trazado 299833" d="M2477.913,997.216v5.036l4.354-2.525v-5.02Z" transform="translate(-2456.337 -982.22)" fill="#083c57"/>
+                <path id="Trazado_299834" data-name="Trazado 299834" d="M2471.816,988.661l-4.349,2.543,21.574,12.453,4.354-2.509Z" transform="translate(-2467.467 -988.661)" fill="#1078ad"/>
+                <path id="Trazado_299835" data-name="Trazado 299835" d="M2467.467,989.892v5.018l21.574,12.471v-5.036Z" transform="translate(-2467.467 -987.349)" fill="#0b577d"/>
+              </g>
+              <g id="Grupo_842504" data-name="Grupo 842504" transform="translate(12.978 85.226)">
+                <path id="Trazado_299836" data-name="Trazado 299836" d="M2439.91,1015.862v5.022l-4.347-2.511v-5.024Z" transform="translate(-2435.563 -970.027)" fill="#1d374e"/>
+                <path id="Trazado_299837" data-name="Trazado 299837" d="M2510.365,992.373l4.346,2.493-74.8,43.342-4.347-2.513Z" transform="translate(-2435.563 -992.373)" fill="#1078ad"/>
+                <path id="Trazado_299838" data-name="Trazado 299838" d="M2512.468,993.58l0,5.024-74.8,43.339v-5.022Z" transform="translate(-2433.32 -991.087)" fill="#083c57"/>
+              </g>
+              <g id="Grupo_842505" data-name="Grupo 842505" transform="translate(0 123.263)">
+                <path id="Trazado_299839" data-name="Trazado 299839" d="M2439.734,1019.314l0,5.03,4.36-2.487v-5.026Z" transform="translate(-2418.144 -1004.354)" fill="#083c57"/>
+                <path id="Trazado_299840" data-name="Trazado 299840" d="M2433.648,1010.79l-4.369,2.527,21.59,12.432,4.357-2.483Z" transform="translate(-2429.279 -1010.79)" fill="#1078ad"/>
+                <path id="Trazado_299841" data-name="Trazado 299841" d="M2429.279,1012.013v5.034l21.586,12.428,0-5.03Z" transform="translate(-2429.279 -1009.486)" fill="#0b577d"/>
+              </g>
+              <g id="Grupo_842506" data-name="Grupo 842506" transform="translate(0.624 18.891)">
+                <path id="Trazado_299842" data-name="Trazado 299842" d="M2433.923,986.078V991.1l-4.342-2.507v-5.06Z" transform="translate(-2429.582 -935.451)" fill="#0b577d"/>
+                <path id="Trazado_299843" data-name="Trazado 299843" d="M2512.919,960.255l4.338,2.5-83.333,48.132-4.342-2.541Z" transform="translate(-2429.582 -960.255)" fill="#1078ad"/>
+                <path id="Trazado_299844" data-name="Trazado 299844" d="M2515.017,961.463l0,5.044-83.335,48.114v-5.026Z" transform="translate(-2427.341 -958.968)" fill="#083c57"/>
+              </g>
+              <g id="Grupo_842508" data-name="Grupo 842508" transform="translate(43.895 14.079)">
+                <g id="Grupo_842507" data-name="Grupo 842507" transform="translate(7.632 37.268)">
+                  <path id="Trazado_299845" data-name="Trazado 299845" d="M2454.245,977.293l0,30.639a4.613,4.613,0,0,0,4.632,4.612l.095,0a4.63,4.63,0,0,0,4.641-4.616V977.293Z" transform="translate(-2454.208 -974.559)" fill="#68cce3"/>
+                  <path id="Trazado_299846" data-name="Trazado 299846" d="M2455.616,980.657a7.281,7.281,0,0,0,6.694,0c1.851-1.091,1.851-2.8,0-3.889a7.411,7.411,0,0,0-6.7,0C2453.766,977.855,2453.764,979.573,2455.616,980.657Z" transform="translate(-2454.228 -975.969)" fill="#8deaff"/>
+                </g>
+                <path id="Trazado_299847" data-name="Trazado 299847" d="M2455.814,962.087l0,62.495a6.029,6.029,0,0,0,6.031,6.033l.151,0a6.022,6.022,0,0,0,6.027-6.029l0-62.495h4.379l0,62.495A10.416,10.416,0,0,1,2462,1034.977l-.148,0a10.4,10.4,0,0,1-10.389-10.4l0-62.495Z" transform="translate(-2449.544 -953.49)" fill="#295e87"/>
+                <path id="Trazado_299848" data-name="Trazado 299848" d="M2454.146,962.085l0,62.5c0,3.337,2.759,5.669,2.761,0V962.089Z" transform="translate(-2446.684 -953.492)" fill="#fff" opacity="0.2"/>
+                <path id="Trazado_299849" data-name="Trazado 299849" d="M2457.567,962.087l0,62.495c0,3.337,2.724,5.669,2.724,0v-62.5Z" transform="translate(-2443.038 -953.49)" opacity="0.3"/>
+                <path id="Trazado_299850" data-name="Trazado 299850" d="M2454.136,970.1c4.837,2.8,12.666,2.8,17.464,0,4.831-2.77,4.831-7.289,0-10.083-4.8-2.79-12.628-2.786-17.466,0C2449.329,962.81,2449.333,967.329,2454.136,970.1Zm4.467-9.9a9.635,9.635,0,0,1,8.623,0c2.383,1.4,2.383,3.621,0,4.988a9.538,9.538,0,0,1-8.623,0C2456.2,963.82,2456.208,961.6,2458.6,960.2Z" transform="translate(-2450.532 -957.925)" fill="#517fa2"/>
+                <path id="Trazado_299851" data-name="Trazado 299851" d="M2464.621,964.1a4.521,4.521,0,0,0-.632-.4,9.464,9.464,0,0,0-8.624,0,6.1,6.1,0,0,0-.632.4c-1.735-1.357-1.531-3.292.634-4.542a9.634,9.634,0,0,1,8.622,0C2466.136,960.8,2466.371,962.733,2464.621,964.1Z" transform="translate(-2447.296 -957.275)" fill="#295e87"/>
+              </g>
+              <g id="Grupo_842510" data-name="Grupo 842510" transform="translate(18.569 28.678)">
+                <g id="Grupo_842509" data-name="Grupo 842509" transform="translate(7.63 37.276)">
+                  <path id="Trazado_299852" data-name="Trazado 299852" d="M2441.983,984.345V1015a4.633,4.633,0,0,0,4.618,4.624h.107a4.616,4.616,0,0,0,4.614-4.624V984.345Z" transform="translate(-2441.944 -981.653)" fill="#083c57"/>
+                  <path id="Trazado_299853" data-name="Trazado 299853" d="M2443.338,987.727a7.689,7.689,0,0,0,6.723,0c1.852-1.084,1.854-2.8,0-3.9a7.555,7.555,0,0,0-6.727,0C2441.506,984.922,2441.506,986.642,2443.338,987.727Z" transform="translate(-2441.964 -983.042)" fill="#0b577d"/>
+                </g>
+                <path id="Trazado_299854" data-name="Trazado 299854" d="M2443.545,969.154l0,62.482a6.043,6.043,0,0,0,6.06,6.033l.1,0a6.034,6.034,0,0,0,6.049-6.029V969.15l4.364,0v62.482a10.394,10.394,0,0,1-10.413,10.42l-.1,0a10.4,10.4,0,0,1-10.4-10.424V969.154Z" transform="translate(-2437.278 -960.564)" fill="#295e87"/>
+                <path id="Trazado_299855" data-name="Trazado 299855" d="M2441.887,969.152v62.483c0,3.336,2.737,5.659,2.739,0V969.152Z" transform="translate(-2434.416 -960.562)" fill="#fff" opacity="0.2"/>
+                <path id="Trazado_299856" data-name="Trazado 299856" d="M2445.294,969.154v62.482c0,3.336,2.74,5.659,2.739,0V969.15Z" transform="translate(-2430.787 -960.564)" opacity="0.3"/>
+                <path id="Trazado_299857" data-name="Trazado 299857" d="M2441.891,977.187c4.82,2.765,12.632,2.765,17.46,0,4.833-2.788,4.833-7.318,0-10.108s-12.642-2.776-17.46,0S2437.063,974.395,2441.891,977.187Zm4.418-9.9a9.592,9.592,0,0,1,8.655,0c2.388,1.336,2.385,3.586,0,4.971a9.715,9.715,0,0,1-8.657,0C2443.958,970.881,2443.958,968.628,2446.309,967.292Z" transform="translate(-2438.27 -964.993)" fill="#517fa2"/>
+                <path id="Trazado_299858" data-name="Trazado 299858" d="M2452.344,971.17a4.358,4.358,0,0,0-.619-.423,9.576,9.576,0,0,0-8.656.006,4.625,4.625,0,0,0-.585.417c-1.753-1.361-1.526-3.311.585-4.531a9.6,9.6,0,0,1,8.656,0C2453.868,967.859,2454.087,969.808,2452.344,971.17Z" transform="translate(-2435.03 -964.339)" fill="#295e87"/>
+              </g>
+              <g id="Grupo_842511" data-name="Grupo 842511" transform="translate(8.629 74.147)">
+                <path id="Trazado_299859" data-name="Trazado 299859" d="M2437.805,992.007l4.35-2.487-4.347-2.511-4.351,2.515Z" transform="translate(-2433.458 -987.009)" fill="#1d374e"/>
+                <path id="Trazado_299860" data-name="Trazado 299860" d="M2433.458,1042.331l4.35,2.491,0-54.112-4.348-2.483Z" transform="translate(-2433.458 -985.711)" fill="#0b577d"/>
+                <path id="Trazado_299861" data-name="Trazado 299861" d="M2435.565,1044.823l4.348-2.515V988.224l-4.349,2.487Z" transform="translate(-2431.214 -985.713)" fill="#083c57"/>
+              </g>
+              <g id="Grupo_842512" data-name="Grupo 842512" transform="translate(4.967 66.977)">
+                <path id="Trazado_299862" data-name="Trazado 299862" d="M2438.7,990.123l0,5.03,4.357-2.535v-5.036Z" transform="translate(-2424.209 -979.228)" fill="#a7a9ac"/>
+                <path id="Trazado_299863" data-name="Trazado 299863" d="M2436.036,983.537l-4.352,2.541,14.49,8.354,4.36-2.542Z" transform="translate(-2431.684 -983.537)" fill="#1078ad"/>
+                <path id="Trazado_299864" data-name="Trazado 299864" d="M2431.684,984.767v5.026l14.491,8.358,0-5.03Z" transform="translate(-2431.684 -982.226)" fill="#0b577d"/>
+              </g>
+              <g id="Grupo_842513" data-name="Grupo 842513" transform="translate(87.778 28.595)">
+                <path id="Trazado_299865" data-name="Trazado 299865" d="M2476.125,969.979l4.383-2.5-4.383-2.523-4.345,2.523Z" transform="translate(-2471.78 -964.953)" fill="#1d374e"/>
+                <path id="Trazado_299866" data-name="Trazado 299866" d="M2471.781,1020.283l4.346,2.493,0-54.1-4.345-2.5Z" transform="translate(-2471.78 -963.651)" fill="#0b577d"/>
+                <path id="Trazado_299867" data-name="Trazado 299867" d="M2473.886,1022.775l4.378-2.487,0-54.114-4.383,2.5Z" transform="translate(-2469.538 -963.651)" fill="#083c57"/>
+              </g>
+              <g id="Grupo_842514" data-name="Grupo 842514" transform="translate(83.96 21.386)">
+                <path id="Trazado_299868" data-name="Trazado 299868" d="M2476.946,968.033l0,5.034,4.34-2.519,0-5.03Z" transform="translate(-2462.462 -957.143)" fill="#1d374e"/>
+                <path id="Trazado_299869" data-name="Trazado 299869" d="M2474.271,961.463l-4.341,2.529,14.485,8.36,4.339-2.515Z" transform="translate(-2469.931 -961.463)" fill="#1078ad"/>
+                <path id="Trazado_299870" data-name="Trazado 299870" d="M2469.931,962.687v5.03l14.48,8.364,0-5.034Z" transform="translate(-2469.931 -960.158)" fill="#0b577d"/>
+              </g>
+              <g id="Grupo_842516" data-name="Grupo 842516" transform="translate(68.477)">
+                <g id="Grupo_842515" data-name="Grupo 842515" transform="translate(7.633 37.28)">
+                  <path id="Trazado_299871" data-name="Trazado 299871" d="M2466.15,970.489l0,30.623a4.637,4.637,0,0,0,4.655,4.628h.073a4.612,4.612,0,0,0,4.616-4.628V970.489Z" transform="translate(-2466.111 -967.74)" fill="#68cce3"/>
+                  <path id="Trazado_299872" data-name="Trazado 299872" d="M2467.512,973.83a7.37,7.37,0,0,0,6.719,0c1.854-1.043,1.853-2.788,0-3.86a7.361,7.361,0,0,0-6.721,0C2465.67,971.042,2465.67,972.787,2467.512,973.83Z" transform="translate(-2466.13 -969.158)" fill="#8deaff"/>
+                </g>
+                <path id="Trazado_299873" data-name="Trazado 299873" d="M2467.7,955.273v62.5a6.081,6.081,0,0,0,6.058,6.037h.128a6.054,6.054,0,0,0,6.021-6.037l0-62.5h4.4l0,62.5a10.419,10.419,0,0,1-10.413,10.4l-.126,0a10.4,10.4,0,0,1-10.393-10.405V955.273Z" transform="translate(-2461.44 -946.67)" fill="#295e87"/>
+                <path id="Trazado_299874" data-name="Trazado 299874" d="M2466.049,955.273v62.5c0,3.311,2.756,5.634,2.753,0l0-62.5Z" transform="translate(-2458.583 -946.67)" fill="#fff" opacity="0.2"/>
+                <path id="Trazado_299875" data-name="Trazado 299875" d="M2469.477,955.273v62.5c0,3.311,2.714,5.634,2.714,0v-62.5Z" transform="translate(-2454.931 -946.67)" opacity="0.3"/>
+                <path id="Trazado_299876" data-name="Trazado 299876" d="M2466.051,963.3c4.837,2.784,12.637,2.784,17.473,0s4.839-7.3,0-10.087-12.636-2.8-17.473,0C2461.23,956,2461.228,960.506,2466.051,963.3Zm4.446-9.885a9.663,9.663,0,0,1,8.667-.006c2.367,1.382,2.365,3.612,0,4.977a9.511,9.511,0,0,1-8.665,0C2468.122,957.017,2468.125,954.783,2470.5,953.411Z" transform="translate(-2462.435 -951.108)" fill="#517fa2"/>
+                <path id="Trazado_299877" data-name="Trazado 299877" d="M2476.513,957.3a5.522,5.522,0,0,0-.593-.415,9.5,9.5,0,0,0-8.666.006,3.84,3.84,0,0,0-.622.407c-1.735-1.378-1.5-3.327.622-4.548a9.66,9.66,0,0,1,8.666-.007C2478.033,953.975,2478.277,955.924,2476.513,957.3Z" transform="translate(-2459.191 -950.451)" fill="#295e87"/>
+              </g>
+              <g id="Grupo_842517" data-name="Grupo 842517" transform="translate(19.457 29.76)">
+                <path id="Trazado_299878" data-name="Trazado 299878" d="M2443.06,991.307v5.018l-4.357-2.483,0-5.03Z" transform="translate(-2438.7 -940.701)" fill="#0b577d"/>
+                <path id="Trazado_299879" data-name="Trazado 299879" d="M2522.025,965.517l4.354,2.529-83.319,48.078-4.36-2.495Z" transform="translate(-2438.7 -965.517)" fill="#1078ad"/>
+                <path id="Trazado_299880" data-name="Trazado 299880" d="M2524.13,966.742v5.02l-83.318,48.075v-5.018Z" transform="translate(-2436.451 -964.213)" fill="#083c57"/>
+              </g>
+            </g>
+            <g id="Grupo_842519" data-name="Grupo 842519" transform="translate(154.977 259.561)">
+              <path id="Trazado_299881" data-name="Trazado 299881" d="M2501.677,1027.2l-114.8,66.28-22.163-12.8,114.8-66.28Z" transform="translate(-2364.715 -1013.052)" opacity="0.3"/>
+              <path id="Trazado_299882" data-name="Trazado 299882" d="M2501.677,1026.546l-114.8,66.28-22.163-12.8,114.8-66.281Z" transform="translate(-2364.715 -1013.751)" fill="#fff"/>
+              <path id="Trazado_299883" data-name="Trazado 299883" d="M2402.95,1051.044l-17.911,10.339-17.909-10.339,17.909-10.341Z" transform="translate(-2362.144 -985.038)" fill="#ffa769"/>
+              <path id="Trazado_299884" data-name="Trazado 299884" d="M2417.816,1042.461l-17.91,10.339L2382,1042.461l17.91-10.341Z" transform="translate(-2346.307 -994.181)" fill="#ffa769"/>
+              <path id="Trazado_299885" data-name="Trazado 299885" d="M2432.683,1033.879l-17.911,10.339-17.911-10.339,17.911-10.343Z" transform="translate(-2330.469 -1003.326)" fill="#ffa769"/>
+              <path id="Trazado_299886" data-name="Trazado 299886" d="M2447.55,1025.3l-17.911,10.339-17.91-10.339,17.911-10.343Z" transform="translate(-2314.632 -1012.47)" fill="#4db1f0"/>
+            </g>
+            <g id="Grupo_842520" data-name="Grupo 842520" transform="translate(246.039 255.711)">
+              <path id="Trazado_299887" data-name="Trazado 299887" d="M2545.769,1025.337l-114.8,66.28-22.163-12.8,114.8-66.28Z" transform="translate(-2408.807 -1011.189)" opacity="0.3"/>
+              <path id="Trazado_299888" data-name="Trazado 299888" d="M2545.769,1024.682l-114.8,66.28-22.163-12.8,114.8-66.28Z" transform="translate(-2408.807 -1011.886)" fill="#fff"/>
+              <path id="Trazado_299889" data-name="Trazado 299889" d="M2447.041,1049.18l-17.912,10.339-17.909-10.339,17.909-10.341Z" transform="translate(-2406.235 -983.174)" fill="#ffa769"/>
+              <path id="Trazado_299890" data-name="Trazado 299890" d="M2461.907,1040.6,2444,1050.935l-17.91-10.339,17.91-10.341Z" transform="translate(-2390.398 -992.317)" fill="#ffa769"/>
+              <path id="Trazado_299891" data-name="Trazado 299891" d="M2476.774,1032.015l-17.911,10.339-17.911-10.339,17.911-10.343Z" transform="translate(-2374.56 -1001.462)" fill="#4db1f0"/>
+              <path id="Trazado_299892" data-name="Trazado 299892" d="M2491.64,1023.431l-17.911,10.339-17.91-10.339,17.912-10.343Z" transform="translate(-2358.723 -1010.606)" fill="#4db1f0"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Grupo_1002251" data-name="Grupo 1002251" transform="translate(1115 12044.236)">
+      <g id="Grupo_1002248" data-name="Grupo 1002248" transform="translate(0 0)">
+        <g id="Grupo_1002247" data-name="Grupo 1002247" clip-path="url(#clip-path-3)">
+          <path id="Trazado_710492" data-name="Trazado 710492" d="M93.395,49.771a45.2,45.2,0,1,1-45.2-45.2" transform="translate(-0.251 -0.383)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="6"/>
+          <path id="Trazado_710493" data-name="Trazado 710493" d="M12.219,53.651q0-1.387.1-2.748" transform="translate(-1.023 -4.263)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <path id="Trazado_710494" data-name="Trazado 710494" d="M13.2,42.45A36.752,36.752,0,1,1,54.49,86.891" transform="translate(-1.105 -1.155)" fill="none" stroke="#12263f" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" stroke-dasharray="5.9 5.9"/>
+          <path id="Trazado_710495" data-name="Trazado 710495" d="M55.076,93.9q-1.361.1-2.748.1" transform="translate(-4.382 -7.864)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+      </g>
+      <g id="Grupo_1002250" data-name="Grupo 1002250" transform="translate(0 0)">
+        <g id="Grupo_1002249" data-name="Grupo 1002249" clip-path="url(#clip-path-3)">
+          <path id="Trazado_710496" data-name="Trazado 710496" d="M66.819,22.012,81.949,3.5h24.739" transform="translate(-5.596 -0.293)" fill="none" stroke="#ffa031" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <path id="Trazado_710497" data-name="Trazado 710497" d="M59.756,26.692a3.964,3.964,0,1,1,3.964,3.964A3.964,3.964,0,0,1,59.756,26.692Z" transform="translate(-5.004 -1.903)" fill="none" stroke="#ffa031" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+      </g>
+    </g>
+    <path id="Trazado_718321" data-name="Trazado 718321" d="M4.011-7.891a2.014,2.014,0,0,0-1.1.273.912.912,0,0,0-.429.826.96.96,0,0,0,.429.845,6.48,6.48,0,0,0,1.826.631,5.021,5.021,0,0,1,2.106.949,2.248,2.248,0,0,1,.708,1.8,2.385,2.385,0,0,1-.9,1.931A3.575,3.575,0,0,1,4.3.1,5.527,5.527,0,0,1,.52-1.365l.962-1.157a4.331,4.331,0,0,0,2.86,1.2,1.953,1.953,0,0,0,1.176-.319,1,1,0,0,0,.436-.845.949.949,0,0,0-.41-.819,4.306,4.306,0,0,0-1.411-.533,12.686,12.686,0,0,1-1.521-.442A3.436,3.436,0,0,1,1.69-4.81,2.2,2.2,0,0,1,.884-6.682,2.279,2.279,0,0,1,1.8-8.625a3.692,3.692,0,0,1,2.269-.683A5.437,5.437,0,0,1,5.8-9.022a4.52,4.52,0,0,1,1.482.806L6.461-7.059a3.1,3.1,0,0,0-1.092-.6A4.207,4.207,0,0,0,4.011-7.891Zm6.851,6.065a2.1,2.1,0,0,0,1.566.631,2.1,2.1,0,0,0,1.567-.631,2.233,2.233,0,0,0,.618-1.631,2.233,2.233,0,0,0-.618-1.632,2.1,2.1,0,0,0-1.567-.63,2.1,2.1,0,0,0-1.566.63,2.233,2.233,0,0,0-.618,1.632A2.233,2.233,0,0,0,10.862-1.827Zm4.167.9A3.539,3.539,0,0,1,12.428.1,3.539,3.539,0,0,1,9.828-.93a3.428,3.428,0,0,1-1.04-2.528,3.428,3.428,0,0,1,1.04-2.529,3.539,3.539,0,0,1,2.6-1.034,3.539,3.539,0,0,1,2.6,1.034,3.428,3.428,0,0,1,1.04,2.529A3.428,3.428,0,0,1,15.028-.93ZM20.787.1A3.492,3.492,0,0,1,18.3-.878a3.368,3.368,0,0,1-1.04-2.568A3.338,3.338,0,0,1,18.35-6.026,3.774,3.774,0,0,1,21-7.02a3.589,3.589,0,0,1,2.639,1.079l-.858,1.053a2.761,2.761,0,0,0-1.807-.78,2.28,2.28,0,0,0-1.58.6A2.006,2.006,0,0,0,18.72-3.5a2.2,2.2,0,0,0,.663,1.619,2.217,2.217,0,0,0,1.632.663,2.534,2.534,0,0,0,1.826-.884l.858.936A3.98,3.98,0,0,1,20.787.1ZM26.663,0H25.207V-6.916h1.456ZM25.3-8.294a.888.888,0,0,1-.273-.65.888.888,0,0,1,.273-.65.888.888,0,0,1,.65-.273.888.888,0,0,1,.65.273.888.888,0,0,1,.273.65.888.888,0,0,1-.273.65.888.888,0,0,1-.65.273A.888.888,0,0,1,25.3-8.294ZM35.2-2.821H29.783a1.576,1.576,0,0,0,.689,1.215,2.418,2.418,0,0,0,1.456.462A2.415,2.415,0,0,0,33.9-1.963l.832.91A3.868,3.868,0,0,1,31.824.1a3.466,3.466,0,0,1-2.476-.968,3.415,3.415,0,0,1-1.021-2.6,3.361,3.361,0,0,1,1.04-2.593,3.49,3.49,0,0,1,2.451-.962,3.548,3.548,0,0,1,2.4.852A2.934,2.934,0,0,1,35.2-3.822ZM29.783-3.965h3.965A1.667,1.667,0,0,0,33.2-5.3a2,2,0,0,0-1.346-.468,2.3,2.3,0,0,0-1.436.488A1.574,1.574,0,0,0,29.783-3.965ZM39.624.1a3.113,3.113,0,0,1-2.288-.988,3.541,3.541,0,0,1-.975-2.6,3.4,3.4,0,0,1,1-2.574,3.324,3.324,0,0,1,2.386-.962,2.624,2.624,0,0,1,2.229,1.17v-3.8h1.456V0H41.977V-1.04A2.7,2.7,0,0,1,39.624.1Zm-1.807-3.53a2.166,2.166,0,0,0,.637,1.618,2.068,2.068,0,0,0,1.5.624,1.931,1.931,0,0,0,1.456-.63A2.256,2.256,0,0,0,42-3.432a2.373,2.373,0,0,0-.6-1.651,1.9,1.9,0,0,0-1.469-.663,1.982,1.982,0,0,0-1.495.663A2.324,2.324,0,0,0,37.817-3.426ZM51.142,0H49.816V-.923A2.845,2.845,0,0,1,47.515.1a2.64,2.64,0,0,1-1.787-.611,2.046,2.046,0,0,1-.708-1.632,1.717,1.717,0,0,1,.754-1.527,3.611,3.611,0,0,1,2.041-.507H49.7v-.26q0-1.378-1.534-1.378a3.6,3.6,0,0,0-2,.7l-.65-.91a4.478,4.478,0,0,1,2.86-1,3.1,3.1,0,0,1,2,.617,2.338,2.338,0,0,1,.773,1.944ZM49.686-2.574v-.585H48.048q-1.573,0-1.573.988a.879.879,0,0,0,.39.774,1.905,1.905,0,0,0,1.085.266,1.97,1.97,0,0,0,1.215-.39A1.248,1.248,0,0,0,49.686-2.574ZM55.991.1A3.113,3.113,0,0,1,53.7-.884a3.541,3.541,0,0,1-.975-2.6,3.4,3.4,0,0,1,1-2.574,3.324,3.324,0,0,1,2.386-.962,2.624,2.624,0,0,1,2.229,1.17v-3.8H59.8V0H58.344V-1.04A2.7,2.7,0,0,1,55.991.1Zm-1.807-3.53a2.166,2.166,0,0,0,.637,1.618,2.068,2.068,0,0,0,1.5.624,1.931,1.931,0,0,0,1.456-.63,2.256,2.256,0,0,0,.6-1.618,2.373,2.373,0,0,0-.6-1.651A1.9,1.9,0,0,0,56.3-5.746a1.982,1.982,0,0,0-1.495.663A2.324,2.324,0,0,0,54.184-3.426ZM66.963-2.067,66.053,0H64.415l4-9.087h1.638l4,9.087H72.423l-.91-2.067Zm3.926-1.417L69.238-7.228,67.587-3.484Zm5.681-.26V0H75.114V-6.916H76.57v1.261a2.308,2.308,0,0,1,.942-1,2.672,2.672,0,0,1,1.358-.364,2.2,2.2,0,0,1,2.223,1.352A3.1,3.1,0,0,1,83.655-7.02a2.571,2.571,0,0,1,1.892.715,2.784,2.784,0,0,1,.721,2.067V0H84.812V-3.8q0-1.911-1.586-1.911a1.923,1.923,0,0,0-1.294.474,1.8,1.8,0,0,0-.578,1.385V0H79.9V-3.8a2.4,2.4,0,0,0-.351-1.449,1.3,1.3,0,0,0-1.105-.462,1.905,1.905,0,0,0-1.313.5A1.861,1.861,0,0,0,76.57-3.744Zm18.161.923H89.31A1.576,1.576,0,0,0,90-1.606a2.418,2.418,0,0,0,1.456.462,2.415,2.415,0,0,0,1.976-.819l.832.91A3.868,3.868,0,0,1,91.351.1a3.466,3.466,0,0,1-2.477-.968,3.415,3.415,0,0,1-1.021-2.6,3.361,3.361,0,0,1,1.04-2.593,3.49,3.49,0,0,1,2.451-.962,3.548,3.548,0,0,1,2.4.852,2.934,2.934,0,0,1,.988,2.347ZM89.31-3.965h3.965A1.667,1.667,0,0,0,92.729-5.3a2,2,0,0,0-1.345-.468,2.3,2.3,0,0,0-1.437.488A1.574,1.574,0,0,0,89.31-3.965ZM99.957-5.551a1.932,1.932,0,0,0-1.625.7,2.99,2.99,0,0,0-.546,1.885V0H96.33V-6.916h1.456v1.391a3.014,3.014,0,0,1,.955-1.066,2.3,2.3,0,0,1,1.281-.429l.013,1.469ZM102.947,0h-1.456V-6.916h1.456Zm-1.365-8.294a.888.888,0,0,1-.273-.65.888.888,0,0,1,.273-.65.888.888,0,0,1,.65-.273.888.888,0,0,1,.65.273.888.888,0,0,1,.273.65.888.888,0,0,1-.273.65.888.888,0,0,1-.65.273A.888.888,0,0,1,101.582-8.294ZM108.121.1a3.492,3.492,0,0,1-2.483-.982,3.368,3.368,0,0,1-1.04-2.568,3.338,3.338,0,0,1,1.086-2.581,3.774,3.774,0,0,1,2.646-.995,3.59,3.59,0,0,1,2.639,1.079l-.858,1.053a2.761,2.761,0,0,0-1.807-.78,2.28,2.28,0,0,0-1.579.6,2.006,2.006,0,0,0-.67,1.56,2.2,2.2,0,0,0,.663,1.619,2.217,2.217,0,0,0,1.632.663,2.534,2.534,0,0,0,1.826-.884l.858.936A3.98,3.98,0,0,1,108.121.1Zm9.971-.1h-1.326V-.923A2.845,2.845,0,0,1,114.465.1a2.64,2.64,0,0,1-1.787-.611,2.046,2.046,0,0,1-.709-1.632,1.717,1.717,0,0,1,.754-1.527,3.611,3.611,0,0,1,2.041-.507h1.885v-.26q0-1.378-1.534-1.378a3.6,3.6,0,0,0-2,.7l-.65-.91a4.477,4.477,0,0,1,2.86-1,3.1,3.1,0,0,1,2,.617,2.338,2.338,0,0,1,.773,1.944Zm-1.456-2.574v-.585H115q-1.573,0-1.573.988a.879.879,0,0,0,.39.774,1.905,1.905,0,0,0,1.086.266,1.97,1.97,0,0,0,1.215-.39A1.248,1.248,0,0,0,116.636-2.574Zm4.94-1.17V0H120.12V-6.916h1.456v1.261a2.591,2.591,0,0,1,.968-1,2.579,2.579,0,0,1,1.332-.364,2.571,2.571,0,0,1,1.892.715,2.784,2.784,0,0,1,.722,2.067V0h-1.456V-3.8q0-1.911-1.586-1.911a1.905,1.905,0,0,0-1.313.5A1.861,1.861,0,0,0,121.576-3.744ZM134.121,0h-1.326V-.923A2.845,2.845,0,0,1,130.494.1a2.64,2.64,0,0,1-1.788-.611A2.046,2.046,0,0,1,128-2.139a1.717,1.717,0,0,1,.754-1.527,3.611,3.611,0,0,1,2.041-.507h1.885v-.26q0-1.378-1.534-1.378a3.6,3.6,0,0,0-2,.7l-.65-.91a4.478,4.478,0,0,1,2.86-1,3.1,3.1,0,0,1,2,.617,2.338,2.338,0,0,1,.773,1.944Zm-1.456-2.574v-.585h-1.638q-1.573,0-1.573.988a.879.879,0,0,0,.39.774,1.905,1.905,0,0,0,1.085.266,1.97,1.97,0,0,0,1.215-.39A1.248,1.248,0,0,0,132.665-2.574Z" transform="translate(1219.635 12041.805)" fill="#12263f"/>
+    <path id="Trazado_718322" data-name="Trazado 718322" d="M4.381-9.087A5.407,5.407,0,0,1,8.138-7.9,4.237,4.237,0,0,1,9.451-4.589,4.454,4.454,0,0,1,8.177-1.235,5.414,5.414,0,0,1,4.277,0H1.261V-9.087ZM7.9-4.55q0-3.12-3.575-3.12H2.8v6.227H4.5A3.667,3.667,0,0,0,7.027-2.23,2.956,2.956,0,0,0,7.9-4.55Zm9.75,1.729H12.233a1.576,1.576,0,0,0,.689,1.215,2.418,2.418,0,0,0,1.456.462,2.415,2.415,0,0,0,1.976-.819l.832.91A3.868,3.868,0,0,1,14.274.1,3.466,3.466,0,0,1,11.8-.864a3.415,3.415,0,0,1-1.021-2.6,3.361,3.361,0,0,1,1.04-2.593,3.49,3.49,0,0,1,2.451-.962,3.548,3.548,0,0,1,2.4.852,2.934,2.934,0,0,1,.988,2.347ZM12.233-3.965H16.2A1.667,1.667,0,0,0,15.652-5.3a2,2,0,0,0-1.345-.468,2.3,2.3,0,0,0-1.436.488A1.574,1.574,0,0,0,12.233-3.965ZM27.417.078l-.2.013a4.685,4.685,0,0,1-3.406-1.346,4.5,4.5,0,0,1-1.378-3.354,4.5,4.5,0,0,1,1.378-3.354,4.685,4.685,0,0,1,3.406-1.346,4.685,4.685,0,0,1,3.406,1.346,4.489,4.489,0,0,1,1.378,3.347,4.606,4.606,0,0,1-.819,2.7A4.587,4.587,0,0,1,29-.221a1.348,1.348,0,0,0,1.118.585A1.994,1.994,0,0,0,31.09.1a1.846,1.846,0,0,0,.722-.676L32.682.637a3.472,3.472,0,0,1-2.587,1.2,3.027,3.027,0,0,1-1.6-.468A2.528,2.528,0,0,1,27.417.078ZM29.5-6.942A3.049,3.049,0,0,0,27.222-7.9a3.049,3.049,0,0,0-2.281.962,3.235,3.235,0,0,0-.93,2.333,3.235,3.235,0,0,0,.93,2.334,3.049,3.049,0,0,0,2.281.962A3.049,3.049,0,0,0,29.5-2.275a3.235,3.235,0,0,0,.93-2.334A3.235,3.235,0,0,0,29.5-6.942Zm9.067,3.77V-6.916h1.456V0H38.571V-1.261a2.591,2.591,0,0,1-.968,1A2.579,2.579,0,0,1,36.27.1a2.571,2.571,0,0,1-1.892-.715,2.784,2.784,0,0,1-.722-2.067V-6.916h1.456v3.8q0,1.911,1.586,1.911a1.905,1.905,0,0,0,1.313-.5A1.861,1.861,0,0,0,38.571-3.172ZM43.55-7.8H42.328l1.378-1.82,1.43.637Zm-1.417.884h1.456V0H42.133Zm5.018,3.172V0H45.695V-6.916h1.456v1.261a2.308,2.308,0,0,1,.943-1,2.672,2.672,0,0,1,1.359-.364,2.2,2.2,0,0,1,2.223,1.352A3.1,3.1,0,0,1,54.236-7.02a2.571,2.571,0,0,1,1.891.715,2.784,2.784,0,0,1,.722,2.067V0H55.393V-3.8q0-1.911-1.586-1.911a1.923,1.923,0,0,0-1.293.474,1.8,1.8,0,0,0-.579,1.385V0H50.479V-3.8a2.4,2.4,0,0,0-.351-1.449,1.3,1.3,0,0,0-1.1-.462,1.905,1.905,0,0,0-1.313.5A1.861,1.861,0,0,0,47.151-3.744ZM60.333,0H58.877V-6.916h1.456ZM58.968-8.294a.888.888,0,0,1-.273-.65.888.888,0,0,1,.273-.65.888.888,0,0,1,.65-.273.888.888,0,0,1,.65.273.888.888,0,0,1,.273.65.888.888,0,0,1-.273.65.888.888,0,0,1-.65.273A.888.888,0,0,1,58.968-8.294ZM65.507.1a3.492,3.492,0,0,1-2.483-.982,3.368,3.368,0,0,1-1.04-2.568,3.338,3.338,0,0,1,1.085-2.581,3.774,3.774,0,0,1,2.646-.995,3.59,3.59,0,0,1,2.639,1.079L67.5-4.888a2.761,2.761,0,0,0-1.807-.78,2.28,2.28,0,0,0-1.579.6A2.006,2.006,0,0,0,63.44-3.5,2.2,2.2,0,0,0,64.1-1.885a2.217,2.217,0,0,0,1.632.663,2.534,2.534,0,0,0,1.826-.884l.858.936A3.98,3.98,0,0,1,65.507.1ZM75.478,0H74.152V-.923A2.845,2.845,0,0,1,71.851.1a2.64,2.64,0,0,1-1.787-.611,2.046,2.046,0,0,1-.709-1.632,1.717,1.717,0,0,1,.754-1.527,3.611,3.611,0,0,1,2.041-.507h1.885v-.26q0-1.378-1.534-1.378a3.6,3.6,0,0,0-2,.7l-.65-.91a4.477,4.477,0,0,1,2.86-1,3.1,3.1,0,0,1,2,.617,2.338,2.338,0,0,1,.773,1.944ZM74.022-2.574v-.585H72.384q-1.573,0-1.573.988a.879.879,0,0,0,.39.774,1.905,1.905,0,0,0,1.086.266,1.97,1.97,0,0,0,1.215-.39A1.248,1.248,0,0,0,74.022-2.574Zm8.606-4.6a10.166,10.166,0,0,0-.52,3.114,10.166,10.166,0,0,0,.52,3.114A9.646,9.646,0,0,0,83.9,1.729H82.355A9.2,9.2,0,0,1,81.191-.793a10.613,10.613,0,0,1-.526-3.263,10.613,10.613,0,0,1,.526-3.263,9.2,9.2,0,0,1,1.164-2.522H83.9A9.646,9.646,0,0,0,82.628-7.17Zm5.213,3.1a14.666,14.666,0,0,0,1.313-1.469,1.815,1.815,0,0,0,.39-1.079,1.218,1.218,0,0,0-.416-.93,1.493,1.493,0,0,0-1.053-.384,2.172,2.172,0,0,0-1.859,1.144L84.981-7.5A4.527,4.527,0,0,1,86.3-8.853a3.434,3.434,0,0,1,1.859-.455,3.007,3.007,0,0,1,2,.722,2.437,2.437,0,0,1,.858,1.97,2.66,2.66,0,0,1-.364,1.339A9.024,9.024,0,0,1,89.31-3.64L87.178-1.469H91.3V0H85.085V-1.3Zm6.935-2.99A4.893,4.893,0,0,0,94.237-4.6a4.893,4.893,0,0,0,.539,2.457,1.807,1.807,0,0,0,1.684.936,1.781,1.781,0,0,0,1.671-.93A4.985,4.985,0,0,0,98.657-4.6a4.985,4.985,0,0,0-.526-2.464,1.781,1.781,0,0,0-1.671-.929A1.807,1.807,0,0,0,94.776-7.059Zm-1.1,5.883A5.74,5.74,0,0,1,92.755-4.6a5.74,5.74,0,0,1,.923-3.425A3.2,3.2,0,0,1,96.46-9.308a3.2,3.2,0,0,1,2.782,1.281,5.74,5.74,0,0,1,.923,3.425,5.74,5.74,0,0,1-.923,3.426A3.2,3.2,0,0,1,96.46.1,3.2,3.2,0,0,1,93.678-1.177ZM103.72-7.059a4.893,4.893,0,0,0-.539,2.457,4.893,4.893,0,0,0,.539,2.457,1.807,1.807,0,0,0,1.684.936,1.781,1.781,0,0,0,1.671-.93A4.985,4.985,0,0,0,107.6-4.6a4.985,4.985,0,0,0-.526-2.464,1.781,1.781,0,0,0-1.671-.929A1.807,1.807,0,0,0,103.72-7.059Zm-1.1,5.883A5.74,5.74,0,0,1,101.7-4.6a5.74,5.74,0,0,1,.923-3.425A3.2,3.2,0,0,1,105.4-9.308a3.2,3.2,0,0,1,2.782,1.281,5.74,5.74,0,0,1,.923,3.425,5.74,5.74,0,0,1-.923,3.426A3.2,3.2,0,0,1,105.4.1,3.2,3.2,0,0,1,102.622-1.177Zm10.764-2.893A14.666,14.666,0,0,0,114.7-5.538a1.815,1.815,0,0,0,.39-1.079,1.218,1.218,0,0,0-.416-.93,1.493,1.493,0,0,0-1.053-.384,2.172,2.172,0,0,0-1.859,1.144L110.526-7.5a4.527,4.527,0,0,1,1.319-1.352,3.434,3.434,0,0,1,1.859-.455,3.007,3.007,0,0,1,2,.722,2.437,2.437,0,0,1,.858,1.97,2.66,2.66,0,0,1-.364,1.339,9.024,9.024,0,0,1-1.339,1.638l-2.132,2.171h4.121V0H110.63V-1.3Zm5.85,3.127a10.166,10.166,0,0,0,.52-3.114,10.166,10.166,0,0,0-.52-3.114,9.646,9.646,0,0,0-1.274-2.672h1.547a9.2,9.2,0,0,1,1.164,2.522,10.613,10.613,0,0,1,.526,3.263,10.613,10.613,0,0,1-.526,3.263,9.2,9.2,0,0,1-1.164,2.522h-1.547A9.646,9.646,0,0,0,119.236-.943Z" transform="translate(1219.635 12053.523)" fill="#12263f"/>
+    <g id="Grupo_1009023" data-name="Grupo 1009023">
+      <path id="Trazado_716101" data-name="Trazado 716101" d="M71.278,61.35A35.413,35.413,0,1,1,35.866,25.937,35.413,35.413,0,0,1,71.278,61.35" transform="translate(1127.809 12032.658)" fill="#ffa031"/>
+      <g id="Grupo_1008600" data-name="Grupo 1008600" transform="translate(1128.074 12058.595)">
+        <g id="Grupo_1008599" data-name="Grupo 1008599" clip-path="url(#clip-path-5)">
+          <path id="Trazado_716102" data-name="Trazado 716102" d="M82.8,151.081H58.152v-7.066H47.27v7.066H17.928v6.233H47.27v17.515H58.152V157.314H82.8Z" transform="translate(-10.501 -95.102)" fill="#e08a25"/>
+          <rect id="Rectángulo_347576" data-name="Rectángulo 347576" width="19.289" height="14.453" transform="translate(25.768 59.759)" fill="#e0e1e3"/>
+          <rect id="Rectángulo_347577" data-name="Rectángulo 347577" width="19.289" height="14.453" transform="translate(25.768 59.759)" fill="none" stroke="#313133" stroke-linejoin="round" stroke-width="3.524"/>
+          <g id="Grupo_1008574" data-name="Grupo 1008574" transform="translate(26.452 60.438)" opacity="0.7">
+            <g id="Grupo_1008573" data-name="Grupo 1008573">
+              <g id="Grupo_1008572" data-name="Grupo 1008572" clip-path="url(#clip-path-6)">
+                <rect id="Rectángulo_347578" data-name="Rectángulo 347578" width="5.382" height="13.015" transform="translate(0 0)" fill="#edeeef"/>
+              </g>
+            </g>
+          </g>
+          <g id="Grupo_1008577" data-name="Grupo 1008577" transform="translate(7.993 6.13)" opacity="0.6">
+            <g id="Grupo_1008576" data-name="Grupo 1008576">
+              <g id="Grupo_1008575" data-name="Grupo 1008575" clip-path="url(#clip-path-7)">
+                <line id="Línea_2515" data-name="Línea 2515" x2="19.035" transform="translate(0 0.73)" fill="none" stroke="#edeeef" stroke-linejoin="round" stroke-width="3.524"/>
+              </g>
+            </g>
+          </g>
+          <g id="Grupo_1008580" data-name="Grupo 1008580" transform="translate(36.84 7.8)" opacity="0.6">
+            <g id="Grupo_1008579" data-name="Grupo 1008579">
+              <g id="Grupo_1008578" data-name="Grupo 1008578" clip-path="url(#clip-path-8)">
+                <line id="Línea_2516" data-name="Línea 2516" x2="2.801" transform="translate(0 0.73)" fill="none" stroke="#edeeef" stroke-linejoin="round" stroke-width="3.524"/>
+              </g>
+            </g>
+          </g>
+          <g id="Grupo_1008583" data-name="Grupo 1008583" transform="translate(7.99 18.034)" opacity="0.6">
+            <g id="Grupo_1008582" data-name="Grupo 1008582">
+              <g id="Grupo_1008581" data-name="Grupo 1008581" clip-path="url(#clip-path-9)">
+                <line id="Línea_2517" data-name="Línea 2517" x2="5.903" transform="translate(0 0.73)" fill="none" stroke="#edeeef" stroke-linejoin="round" stroke-width="3.524"/>
+              </g>
+            </g>
+          </g>
+          <g id="Grupo_1008586" data-name="Grupo 1008586" transform="translate(49.418 63.428)" opacity="0.6">
+            <g id="Grupo_1008585" data-name="Grupo 1008585">
+              <g id="Grupo_1008584" data-name="Grupo 1008584" clip-path="url(#clip-path-10)">
+                <line id="Línea_2518" data-name="Línea 2518" x2="16.417" transform="translate(0 0.73)" fill="none" stroke="#edeeef" stroke-linejoin="round" stroke-width="3.524"/>
+              </g>
+            </g>
+          </g>
+          <g id="Grupo_1008589" data-name="Grupo 1008589" transform="translate(10.071 34.009)" opacity="0.6">
+            <g id="Grupo_1008588" data-name="Grupo 1008588">
+              <g id="Grupo_1008587" data-name="Grupo 1008587" clip-path="url(#clip-path-11)">
+                <line id="Línea_2519" data-name="Línea 2519" x2="11.996" transform="translate(0 0.73)" fill="none" stroke="#edeeef" stroke-linejoin="round" stroke-width="3.524"/>
+              </g>
+            </g>
+          </g>
+          <g id="Grupo_1008592" data-name="Grupo 1008592" transform="translate(47.597 37.901)" opacity="0.6">
+            <g id="Grupo_1008591" data-name="Grupo 1008591" transform="translate(0 0)">
+              <g id="Grupo_1008590" data-name="Grupo 1008590" clip-path="url(#clip-path-12)">
+                <line id="Línea_2520" data-name="Línea 2520" x2="17.74" transform="translate(0 0.73)" fill="none" stroke="#edeeef" stroke-linejoin="round" stroke-width="3.524"/>
+              </g>
+            </g>
+          </g>
+          <g id="Grupo_1008595" data-name="Grupo 1008595" transform="translate(48.486 3.683)" opacity="0.6">
+            <g id="Grupo_1008594" data-name="Grupo 1008594">
+              <g id="Grupo_1008593" data-name="Grupo 1008593" clip-path="url(#clip-path-13)">
+                <line id="Línea_2521" data-name="Línea 2521" x1="9.141" transform="translate(0 0.73)" fill="none" stroke="#edeeef" stroke-linejoin="round" stroke-width="3.524"/>
+              </g>
+            </g>
+          </g>
+          <g id="Grupo_1008598" data-name="Grupo 1008598" transform="translate(11.498 64.239)" opacity="0.6">
+            <g id="Grupo_1008597" data-name="Grupo 1008597">
+              <g id="Grupo_1008596" data-name="Grupo 1008596" clip-path="url(#clip-path-14)">
+                <line id="Línea_2522" data-name="Línea 2522" x1="9.141" transform="translate(0 0.73)" fill="none" stroke="#edeeef" stroke-linejoin="round" stroke-width="3.524"/>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <rect id="Rectángulo_347588" data-name="Rectángulo 347588" width="31.488" height="39.522" transform="translate(1131.999 12071.27)" fill="#edeeef"/>
+      <rect id="Rectángulo_347589" data-name="Rectángulo 347589" width="31.488" height="39.522" transform="translate(1131.999 12071.27)" fill="none" stroke="#313133" stroke-linejoin="round" stroke-width="2"/>
+      <rect id="Rectángulo_347590" data-name="Rectángulo 347590" width="31.634" height="39.522" transform="translate(1163.487 12071.27)" fill="#edeeef"/>
+      <path id="Trazado_718122" data-name="Trazado 718122" d="M0,0H31.634V39.522H0Z" transform="translate(1163.487 12071.27)" fill="none" stroke="#313133" stroke-width="2"/>
+      <rect id="Rectángulo_347592" data-name="Rectángulo 347592" width="31.488" height="7.562" transform="translate(1131.999 12110.792)" fill="#4db1f0"/>
+      <rect id="Rectángulo_347593" data-name="Rectángulo 347593" width="31.488" height="7.562" transform="translate(1131.999 12110.792)" fill="none" stroke="#313133" stroke-linejoin="round" stroke-width="2"/>
+      <rect id="Rectángulo_347594" data-name="Rectángulo 347594" width="31.634" height="7.562" transform="translate(1163.487 12110.792)" fill="#4db1f0"/>
+      <rect id="Rectángulo_347595" data-name="Rectángulo 347595" width="31.634" height="7.562" transform="translate(1163.487 12110.792)" fill="none" stroke="#313133" stroke-linejoin="round" stroke-width="2"/>
+      <path id="Trazado_716104" data-name="Trazado 716104" d="M132.595,56.536v15.2l3.221-1.579,3.221,1.579v-3.27h0V56.536Z" transform="translate(1050.405 12014.733)" fill="#9fa8ad"/>
+      <path id="Trazado_716105" data-name="Trazado 716105" d="M132.595,56.536v15.2l3.221-1.579,3.221,1.579v-3.27h0V56.536Z" transform="translate(1050.405 12014.733)" fill="none" stroke="#313133" stroke-linejoin="round" stroke-width="2"/>
+      <line id="Línea_2523" data-name="Línea 2523" x2="7.03" transform="translate(1136.759 12075.333)" fill="#22b6d0"/>
+      <line id="Línea_2524" data-name="Línea 2524" x2="7.03" transform="translate(1136.759 12075.333)" fill="none" stroke="#313133" stroke-linejoin="round" stroke-width="2"/>
+      <line id="Línea_2525" data-name="Línea 2525" x2="18.343" transform="translate(1136.759 12079.177)" fill="#22b6d0"/>
+      <line id="Línea_2526" data-name="Línea 2526" x2="18.343" transform="translate(1136.759 12079.177)" fill="none" stroke="#313133" stroke-linejoin="round" stroke-width="2"/>
+      <line id="Línea_2527" data-name="Línea 2527" x2="18.783" transform="translate(1139.725 12086.758)" fill="#22b6d0"/>
+      <line id="Línea_2528" data-name="Línea 2528" x2="18.783" transform="translate(1139.725 12086.758)" fill="none" stroke="#313133" stroke-linejoin="round" stroke-width="2"/>
+      <line id="Línea_2529" data-name="Línea 2529" x2="10.061" transform="translate(1148.446 12094.628)" fill="#22b6d0"/>
+      <line id="Línea_2530" data-name="Línea 2530" x2="10.061" transform="translate(1148.446 12094.628)" fill="none" stroke="#313133" stroke-linejoin="round" stroke-width="2"/>
+      <line id="Línea_2531" data-name="Línea 2531" x2="10.061" transform="translate(1148.446 12090.711)" fill="#22b6d0"/>
+      <line id="Línea_2532" data-name="Línea 2532" x2="10.061" transform="translate(1148.446 12090.711)" fill="none" stroke="#313133" stroke-linejoin="round" stroke-width="2"/>
+      <line id="Línea_2533" data-name="Línea 2533" x2="10.061" transform="translate(1148.446 12098.729)" fill="#22b6d0"/>
+      <line id="Línea_2534" data-name="Línea 2534" x2="10.061" transform="translate(1148.446 12098.729)" fill="none" stroke="#313133" stroke-linejoin="round" stroke-width="2"/>
+      <line id="Línea_2535" data-name="Línea 2535" x2="10.061" transform="translate(1148.446 12102.574)" fill="#22b6d0"/>
+      <line id="Línea_2536" data-name="Línea 2536" x2="10.061" transform="translate(1148.446 12102.574)" fill="none" stroke="#313133" stroke-linejoin="round" stroke-width="2"/>
+      <line id="Línea_2537" data-name="Línea 2537" x2="22.6" transform="translate(1135.907 12106.655)" fill="#22b6d0"/>
+      <line id="Línea_2538" data-name="Línea 2538" x2="22.6" transform="translate(1135.907 12106.655)" fill="none" stroke="#313133" stroke-linejoin="round" stroke-width="2"/>
+      <line id="Línea_2539" data-name="Línea 2539" x2="5.345" transform="translate(1171.176 12086.72)" fill="#22b6d0"/>
+      <line id="Línea_2540" data-name="Línea 2540" x2="5.345" transform="translate(1171.176 12086.72)" fill="none" stroke="#313133" stroke-linejoin="round" stroke-width="3.524"/>
+      <line id="Línea_2541" data-name="Línea 2541" x2="21.749" transform="translate(1168.209 12094.593)" fill="#22b6d0"/>
+      <line id="Línea_2542" data-name="Línea 2542" x2="21.749" transform="translate(1168.209 12094.593)" fill="none" stroke="#313133" stroke-linejoin="round" stroke-width="2"/>
+      <line id="Línea_2543" data-name="Línea 2543" x2="21.749" transform="translate(1168.209 12090.674)" fill="#22b6d0"/>
+      <line id="Línea_2544" data-name="Línea 2544" x2="21.749" transform="translate(1168.209 12090.674)" fill="none" stroke="#313133" stroke-linejoin="round" stroke-width="2"/>
+      <line id="Línea_2545" data-name="Línea 2545" x2="21.749" transform="translate(1168.209 12098.692)" fill="#22b6d0"/>
+      <line id="Línea_2546" data-name="Línea 2546" x2="21.749" transform="translate(1168.209 12098.692)" fill="none" stroke="#313133" stroke-linejoin="round" stroke-width="2"/>
+      <line id="Línea_2547" data-name="Línea 2547" x2="21.749" transform="translate(1168.209 12102.537)" fill="#22b6d0"/>
+      <line id="Línea_2548" data-name="Línea 2548" x2="21.749" transform="translate(1168.209 12102.537)" fill="none" stroke="#313133" stroke-linejoin="round" stroke-width="2"/>
+      <line id="Línea_2549" data-name="Línea 2549" x2="18.012" transform="translate(1168.209 12106.655)" fill="#22b6d0"/>
+      <line id="Línea_2550" data-name="Línea 2550" x2="18.012" transform="translate(1168.209 12106.655)" fill="none" stroke="#313133" stroke-linejoin="round" stroke-width="2"/>
+      <path id="Trazado_716106" data-name="Trazado 716106" d="M102.063,69.328a2.984,2.984,0,1,1-2.984-2.984,2.984,2.984,0,0,1,2.984,2.984" transform="translate(1071.785 12008.989)" fill="#9fa8ad"/>
+      <path id="Trazado_716107" data-name="Trazado 716107" d="M102.063,69.328a2.984,2.984,0,1,1-2.984-2.984A2.984,2.984,0,0,1,102.063,69.328Z" transform="translate(1071.785 12008.989)" fill="none" stroke="#313133" stroke-linejoin="round" stroke-width="2"/>
+      <rect id="Rectángulo_347596" data-name="Rectángulo 347596" width="9.984" height="11.899" transform="translate(1135.946 12090.674)" fill="#c7c9cb"/>
+      <rect id="Rectángulo_347597" data-name="Rectángulo 347597" width="9.984" height="11.899" transform="translate(1135.946 12090.674)" fill="none" stroke="#313133" stroke-linejoin="round" stroke-width="2"/>
+      <line id="Línea_2551" data-name="Línea 2551" x2="15.497" transform="translate(1134.843 12114.573)" fill="none" stroke="#edeeef" stroke-linejoin="round" stroke-width="3.524"/>
+      <line id="Línea_2552" data-name="Línea 2552" x2="3.06" transform="translate(1152.042 12114.573)" fill="none" stroke="#edeeef" stroke-linejoin="round" stroke-width="3.524"/>
+      <line id="Línea_2553" data-name="Línea 2553" x2="4.136" transform="translate(1166.314 12114.573)" fill="none" stroke="#edeeef" stroke-linejoin="round" stroke-width="3.524"/>
+      <line id="Línea_2554" data-name="Línea 2554" x2="6.719" transform="translate(1172.366 12114.573)" fill="none" stroke="#edeeef" stroke-linejoin="round" stroke-width="3.524"/>
+      <line id="Línea_2555" data-name="Línea 2555" x2="10.785" transform="translate(1180.829 12114.573)" fill="none" stroke="#edeeef" stroke-linejoin="round" stroke-width="3.524"/>
+    </g>
+  </g>
+</svg>
