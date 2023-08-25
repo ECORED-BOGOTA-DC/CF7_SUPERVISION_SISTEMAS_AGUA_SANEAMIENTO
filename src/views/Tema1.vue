@@ -602,7 +602,7 @@
           figcaption.mt-3
             p.mb-0 #[b Fuente:] IDIGER (2014)
 
-        a.anexo.mb-4.mt-5(:href="obtenerLink('/downloads/anexo.pdf')" target="_blank")
+        a.anexo.mb-4.mt-5(:href="obtenerLink('/downloads/Tabla_de_compatibidad_para_almacenamiento_de_productos_quimicos.pdf')" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-pdf.svg")
           .anexo__texto

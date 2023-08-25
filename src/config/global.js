@@ -149,13 +149,6 @@ export default {
       link: 'https://www.catorce6.com/images/legal/Titulo_C_Potabilizacion.pdf',
     },
     {
-      tema: 'Hojas de seguridad de productos químicos',
-      referencia:
-        'Servicio nacional de aprendizaje (SENA). (2018). <i>Hoja de seguridad de bicarbonato de sodio. Centro de gestión industrial.</i>',
-      tipo: 'Ficha',
-      descarga: '/downloads/Hoja_de_seguridad_Bicarbonato_de_sodio.pdf',
-    },
-    {
       tema: 'Preparación para el almacenamiento',
       referencia:
         'Consejo Colombiano de Seguridad y el entonces Ministerio de Ambiente, Vivienda y Desarrollo Territorial. (s.f.). <i>Guías ambientales de almacenamiento y transporte por carretera de sustancias químicas peligrosas y residuos peligrosos.</i>',
